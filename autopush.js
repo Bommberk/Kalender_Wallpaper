@@ -32,7 +32,7 @@ watcher.on('error', (error) => {
 // Funktion zum Ausführen der Git-Befehle
 function executeGitCommands(path,stage){
     console.log("Befehl zum Automatischen Pushen wird ausgeführt");
-    exec(`git add --a && git commit -m "AutoSave(${stage} | ${path})" && git push origin autoPush`,(error, stdout, stderr) => {
+    exec(`git add --a && git commit -m "AutoSave(${stage} | ${path})" && git push origin main`,(error, stdout, stderr) => {
       if(error){
           console.error(`Fehler beim Ausführen von Git-Befehlen: ${error}`);
           return;
