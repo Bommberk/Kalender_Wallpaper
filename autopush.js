@@ -2,7 +2,7 @@ const chokidar = require('chokidar');
 const { exec } = require('child_process');
 
 // Überwache den Ordner "mein-ordner" auf Änderungen, Löschungen und Hinzufügungen von Dateien
-const watcher = chokidar.watch('/Kalender_Wallpaper', {
+const watcher = chokidar.watch('kalender', {
   persistent: true // Halte den Watcher aktiv, auch nachdem das Skript beendet wurde
 });
 
@@ -42,7 +42,7 @@ function executeGitCommands(path,stage){
 }
 
 // Schreibe eine Nachricht, um zu zeigen, dass das Skript gestartet wurde
-console.log('Überwache Dateiänderungen im Ordner "Kalender_Wallpaper"...');
+console.log('Überwache Dateiänderungen im Ordner "kalender"...');
 
 // Halte das Skript am Laufen
 process.stdin.resume();
