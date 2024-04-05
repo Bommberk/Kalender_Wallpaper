@@ -2650,6 +2650,3 @@ function scrollleft(){
     let windowWidth = window.innerWidth * 2;
     window.document.documentElement.scrollLeft -= windowWidth;
 }
-
-
-suiiii
