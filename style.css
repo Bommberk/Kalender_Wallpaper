@@ -1,0 +1,573 @@
+@font-face
+{
+    src: url("assets/fontfamilys/GreatVibes-Regular.ttf");
+    font-family: "GreatVibes-Regular";
+}
+@font-face
+{
+    src: url("assets/fontfamilys/Orbitron-Regular.ttf");
+    font-family: "Orbitron-Regular";
+}
+@font-face
+{
+    src: url("assets/fontfamilys/Lobster-Regular.ttf");
+    font-family: "Lobster-Regular";
+}
+@font-face
+{
+    src: url("assets/fontfamilys/Quicksand-VariableFont_wght.ttf");
+    font-family: "Quicksand-VariableFont_wght";
+}
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue&family=Dancing+Script&family=Major+Mono+Display&family=Quicksand&display=swap');
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    scroll-behavior: smooth;
+}
+body
+{
+    display: flex;
+    position: absolute;
+    width: 200%;
+    overflow: hidden;
+}
+.biblecalendar,
+.birthdaycalendar
+{
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.box
+{
+    width: 100%;
+    height: 600px;
+    background: transparent;
+    position: relative;
+}
+
+
+/* Datum */
+.box .date
+{
+    position: absolute;
+    width: 40%;
+    background: transparent;
+    left: 0;
+    bottom: -200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* flex-direction: column; */
+    text-align: center;
+    left: calc(50% - (40% / 2));
+}
+.box .date p
+{
+    color: #222;
+    font-size: 3em;
+    font-weight: bolder;
+}
+.box .date p:nth-child(1),
+.box .date p:nth-child(3),
+.box .date p:nth-child(5)
+{
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.4);   
+}
+#day
+{
+    color:transparent;
+    font-size: 15em;
+    -webkit-text-stroke: 10px white;
+    filter: drop-shadow(0 0 15px black);
+}
+
+
+/* Vers und Text */
+.verse
+{
+    width: 400px;
+    height: auto;
+    background: transparent;
+    float: right;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 70px;
+}
+.more
+{
+    width: 50px;
+    height: 50px;
+    background: white;
+    border-radius: 50%;
+    transition: 1s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+.more:hover
+{
+    border-radius: 8px;
+    width: 400px;
+    height: 650px;
+    padding: 10px 20px;
+    justify-content: start;
+    align-items: start;
+    transform: translateY(-100px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+}
+.more i
+{
+    position: absolute;
+    font-size: 1.3em;
+}
+.more:hover i
+{
+    display: none;
+}
+.more .texte
+{
+    display: none;
+}
+.more:hover .texte
+{
+    display: block;
+}
+.more .texte p
+{
+    font-family: "Quicksand-VariableFont_wght";
+    font-size: 1.1em;
+}
+.more .texte h2
+{
+    font-family: "Quicksand-VariableFont_wght";
+}
+.verse > .texte p
+{
+    font-family: "Lobster-Regular";
+    font-size: 1.4em;
+    text-align: center;
+    margin-bottom: 20px;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.4);
+}
+.more .texte hr
+{
+    height: 5px;
+    background: var(--color);
+    border: none;
+    border-radius: 50px;
+    margin: 5px 0;
+}
+
+/* .box .verse
+{
+    position: absolute;
+    width: 40%;
+    height: 100%;
+    background: transparent;
+    right: 0;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    perspective: 1000px;
+}
+.box .box_verse-texte
+{
+    width: 500px;
+    height: 650px;
+    /* background: #edb66ccc;
+    /* background: #7FB7C7cc;
+    margin-left: 50px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    transform-style: preserve-3d;
+    transform: rotateY(0deg);
+    transition: 1s;
+    margin-bottom: 50px;
+    /* box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+}
+.box .box_verse-texte .texte
+{
+    margin-top: 0px;
+    width: 90%;
+    /* background: white;
+    position: absolute;
+    backface-visibility: hidden;
+    transition: 1s;
+    /* box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
+    padding: 0 10px;
+}
+.box .box_verse-texte .texte:nth-child(2)
+{
+    transform: rotateY(180deg);
+    text-align: left;
+}
+.box .box_verse-texte .texte:nth-child(2) hr
+{
+    width: 120px;
+    height: 10px;
+    border-radius: 20px;
+    background: #b2d6eb;
+    border: none;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.box .box_verse-texte .texte:nth-child(2) h2
+{
+    margin-left: 10px;
+    font-family: "Quicksand-VariableFont_wght";
+    margin-top: 30px;
+}
+.box .box_verse-texte .texte #texte
+{
+    line-height: 20px;
+    font-size: 1.2em;
+    font-family: "Quicksand-VariableFont_wght";
+}
+.box .box_verse-texte .texte .text_p #texte 
+{
+    padding: 10px 10px;
+}
+.box .box_verse-texte .texte p
+{
+    font-size: 1.7em;
+    color: #123;
+    font-weight: bolder;
+    line-height: 40px;
+    filter: drop-shadow(0 0 5px rgba(255,255,255,0.8));
+    font-family: "Lobster-Regular";
+    /* font-family: "Comic Neue", cursive;
+}
+.more
+{
+    width: 50px;
+    height: 50px;
+    background: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 100px;
+    cursor: pointer;
+}
+.more i
+{
+
+font-size: 1.3em;
+} */
+
+
+/* Uhr */
+.box .clock
+{
+    width: 1000px;
+    height: 200px;
+    background: transparent;
+    position: absolute;
+    left: calc(50% - 1000px / 2);
+    top: -150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 8em;
+    -webkit-text-stroke: 1px #ffffff;
+    text-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+    color: transparent;
+    font-weight: bold;
+    font-family: "Orbitron-Regular";
+}
+.box .clock p
+{
+    font-family: "Orbitron-Regular";
+}
+.box .clock #second
+{
+    font-size: 0.2em;
+    top: 170px;
+    letter-spacing: 10px;
+    position: absolute;
+}
+
+
+.box .day
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+    height: 200px;
+    background: transparent;
+    position: absolute;
+    left: calc(50% - 800px / 2);
+    top: 550px;
+}
+.box .day p
+{
+    font-family: "GreatVibes-Regular";
+    font-size: 6em;
+    letter-spacing: 20px;
+    -webkit-text-stroke: 1px white;
+    color: #9da838;
+    font-weight: lighter;
+    text-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+}
+.fa-chevron-left,
+.fa-chevron-right
+{
+    opacity: 0;
+    font-size: 2.1em;
+    color: white;
+    padding: 48.5vh 30px;
+    display: flex;
+    align-items: center;
+    transition: 0.2s;
+    cursor: pointer;
+    float: right;
+    background: linear-gradient(to right, transparent, var(--color));
+}
+.fa-chevron-left:hover,
+.fa-chevron-right:hover
+{
+    opacity: 1;    
+}
+
+
+
+/* Birthdaycalendar */
+.birthdaycalendar::before
+{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-image: var(--backgImage);
+    background-size: cover;
+    background-position: 0 20%;
+    filter: blur(8px) brightness(0.8);
+}
+.birthdaycalendar i                             
+{
+    position: absolute;
+    left: 0;
+    background: linear-gradient(to left, transparent, var(--color));
+}
+.main
+{
+    z-index: 4;
+    display: flex;
+    justify-content: center;
+    width: 90%;
+    flex-wrap: wrap;
+}
+
+/* Der Kalender */
+.calendar
+{
+    width: 370px;
+    height: 520px;
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 10px 20px;
+}
+.calendar h1
+{
+    text-align: center;
+
+}
+figure
+{
+    position: relative;
+}
+figure img
+{
+    width: 370px;
+    height: 250px;
+    object-fit: cover;
+    object-position: 0 25%;
+}
+figcaption
+{
+    position: absolute;
+    top: 0;
+    padding: 20px;
+    font-size: 1.4em;
+    color: #222;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.4);
+}
+.info
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.info h2
+{
+    font-size: 2.5em;
+    text-align: center;
+}
+.countdown
+{
+    display: flex; 
+    font-size: 2.5em;
+    margin-top: 25px;
+}
+.countdown p
+{
+    background: #2b2b2b;
+    color: white;
+    margin: 0 5px;
+    width: 80px;
+    padding: 20px 0;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5),
+                inset 0 -5px 10px rgba(0, 0, 0, 0.8),
+                inset 0 5px 10px rgba(255, 255, 255, 0.4);
+}
+
+/* Balloons */
+.birthday figure
+{
+    top: 1800px;
+    position: fixed;
+}
+.birthday figure img
+{
+    position: absolute;
+    width: 100px;
+    overflow: visible;
+}
+.birthday figure img:nth-child(1)
+{
+    left: 20%;
+    transform: translateY(100px);
+}
+.birthday figure img:nth-child(2)
+{
+    right: -1600px;
+    transform: translateY(400px);
+}
+.birthday figure img:nth-child(3)
+{
+    right: -1300px;
+    transform: translateY(-400px);
+}
+.birthday figure img:nth-child(4)
+{
+    left: 400px;
+    transform: translateY(-500px);
+}
+.birthday figure img:nth-child(5)
+{
+    left: 700px;
+    transform: translateY(200px);
+}
+
+/* Geburtstagskarte */
+.birthdayColor
+{
+    --color: #e788ff;
+}
+.birthdayCard
+{
+    width: 400px;
+    height: auto;
+    background: #f5f5f5;
+    color: #222;
+    position: absolute;
+    top: 23%;
+    left: 70px;
+    border-radius: 15px;
+    padding: 10px;
+    overflow: hidden;
+    z-index: 100;
+}
+.birthdayCard:hover .bubble
+{
+    width: 100%;
+    height: 100%;
+    top: 0;
+    right: 0;
+    border-radius: 0%;
+}
+/* .birthdayCard:hover #birthdayTime span
+{
+    color: white;
+} */
+#birthdayMassage
+{
+    font-size: 2.2em;
+    z-index: 2;
+}
+#birthdayTime
+{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 1.5em;
+    z-index: 2;
+}
+#birthdayTime span
+{
+    color: #f5f5f5;
+}
+.bubble
+{
+    width: 80px;
+    height: 80px;
+    background: var(--color);
+    position: absolute;
+    right: -30px;
+    top: -30px;
+    border-radius: 50%;
+    transition: 0.3s;
+    z-index: -1;
+}
+
+
+#noBirthday
+{
+    color: #222;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.4);
+    font-size: 4em;
+    text-align: center;
+    padding: 0 200px;
+    display: none;
+}
+.birthdays
+{
+    font-size: 3em;
+    color: #222;
+}
+.juhu
+{
+    background: cyan;
+    animation: rgb 3s linear infinite;
+}
+@keyframes rgb
+{
+    0%
+    {
+        filter: hue-rotate(0);
+    }
+    100%
+    {
+        filter: hue-rotate(360deg);
+    }
+}

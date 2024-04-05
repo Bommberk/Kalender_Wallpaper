@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8" http-equiv="refresh" content="3600">
+    <title>Kalender Wallpaper</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <!-- Wenn jemand Geburtstag hat -->
+    <div class="birthday birthdayColor">
+        <figure id="birthday">
+            <img src="assets/images/birthday/balloon_blau-removebg-preview.png" alt="">
+            <img src="assets/images/birthday/balloon_green.png" alt="">
+            <img src="assets/images/birthday/balloon_lilapng-removebg-preview.png" alt="">
+            <img src="assets/images/birthday/balloon_rot-removebg-preview.png" alt="">
+            <img src="assets/images/birthday/balloons_gold-removebg-preview.png" alt="">
+        </figure>
+        <div class="birthdayCard">
+            <div class="bubble"></div>
+            <h3 id="birthdayMassage"></h3>
+            <p id="birthdayTime"></p>
+        </div>
+    </div>
+
+<img src="" alt="">
+    <!-- Gott & du Kalender -->
+    <article class="biblecalendar">
+        <div class="box">
+            <!-- Datum -->
+            <div class="date">
+                <p id="dayname"></p>
+                <p id="day"></p>
+                <div>
+                    <p id="month"></p>
+                    <p id="year"></p>
+                </div>
+            </div>
+            <!-- Verse -->
+            <div class="verse">
+                <div class="texte">
+                    <p id="verse"></p>
+                </div>
+                <div class="more">
+                    <i class="fa-solid fa-plus"></i>
+                    <div class="texte">
+                        <h2 id="headline_texte"></h2>
+                        <hr class="birthdayColor">
+                        <div class="text_p">
+                            <p id="texte"></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Uhr -->
+            <div class="clock">
+                <p id="hour"></p>:
+                <p id="minute"></p>
+                <p id="second"></p>
+            </div>
+            <!-- Tag -->
+            <!-- <div class="day">
+
+            </div> -->
+        </div>
+        <i onclick="scrollright()" class="fa-solid fa-chevron-right birthdayColor"></i>
+    </article>
+
+
+    <!-- Geburtstagskalender -->
+    <article class="birthdaycalendar backgImage" style="background-color: black;">
+        <i onclick="scrollleft()" class="fa-solid fa-chevron-left birthdayColor"></i>
+        <div id="birthdayMain" class="main">
+            <h1 id="noBirthday">In den nächsten 2 Wochen gibt es keine dir bekannten Geburtstage</h1>
+        </div>
+    </article>
+
+
+    <script src="assets/javascript/kitFontawesome.js"></script>
+    <script src="assets/javascript/script.js"></script>
+
+</body>
+</html>
