@@ -33,7 +33,7 @@ if(month === 4){
     document.getElementById("month").innerHTML = "April";
     imageMonthName = "april";
 }
-if(month === 5){üokdzjoi<d
+if(month === 5){
     document.getElementById("month").innerHTML = "Mai";
     imageMonthName = "may";
 }
