@@ -33,7 +33,7 @@ if(month === 4){
     document.getElementById("month").innerHTML = "April";
     imageMonthName = "april";
 }
-if(month === 5){üokdzjoi<d
+if(month === 5){
     document.getElementById("month").innerHTML = "Mai";
     imageMonthName = "may";
 }
@@ -983,152 +983,152 @@ if(month === 6){
 
     console.log(juneday);
 }
-if(juneday === 153){
+if(juneday === 1){
     verse.innerHTML = "Geht ein durch die enge Pforte; denn weit ist die Pforte und breit der Weg, der zum Verderben führt, und viele sind, die durch sie eingehen. Denn eng ist die Pforte und schmal der Weg, der zum Leben führt, und wenige sind, die ihn finden.";
     headline_texte.innerHTML = "Sie haben Ihr Ziel erreicht";
     texte.innerHTML = "Letztens habe ich folgende makabere Geschichte gehört:<br><br>Ein älterer Herr nimmt an einer Beerdigung teil. Dank des Smartphone-Navis hat er den unbekannten Friedhof mit dem Auto schnell gefunden. Jetzt hat sich die Trauergesellschaft um das offene Grab versammelt, man hat den Toten zur letzten Ruhe gebettet. Da macht sich plötzlich das vermeintlich ausgeschaltete Navi in der Manteltasche des Besuchers bemerkbar. In die andächtige Stille hinein verkündet die nette Frauenstimme laut: „Sie haben Ihr Ziel erreicht!”<br><br>Lustig, aber irgendwie auch ziemlich ernst. Denn wenn unsere Totenglocke läutet, haben wir wirklich unsere endgültige Bestimmung erreicht. Damit meine ich nicht das Grab, sondern den Ort, wo sich unsere Seele nach dem Tod aufhalten wird. Der Tagesvers nennt zwei Ziele: Verderben oder Leben. Welches Ziel steuern wir an?";
 }
-if(juneday === 154){
+if(juneday === 2){
     verse.innerHTML = "Denn Gott ist einer, und einer ist Mittler zwischen Gott und Menschen, der Mensch Christus Jesus.";
     headline_texte.innerHTML = "Wer ist denn dieser … Jesus? (5)";
     texte.innerHTML = "An den letzten Sonntagen haben wir schon Erstaunliches über diesen Jesus gelernt: Er ist die Hauptperson der Bibel, er ist der Retter und zudem der von Gott bestimmte Christus. Heute lernen wir, dass Jesus der eine Mittler zwischen Gott und Menschen ist. Das war einerseits nötig, weil der heilige und gerechte Gott nicht ohne Weiteres mit sündigen Menschen in Beziehung treten kann. Andererseits war es uns Menschen aus eigener Anstrengung nicht möglich, zu Gott zu kommen. Deshalb ist Jesus Mittler zwischen Gott und Menschen geworden. Der Sohn Gottes musste dafür „Fleisch” werden, d. h. wirklicher Mensch. So konnte er uns Menschen zeigen, wer Gott wirklich ist. Darin ist er einzigartig! Genauso einzigartig ist, dass er als Mittler starb, damit Menschen erlöst und mit Gott versöhnt werden könnten. Beachte: Keine Maria, kein Papst, kein Priester – nur einer ist Mittler: der Mensch Jesus Christus. Ihm sei die Ehre!";
 }
-if(juneday === 155){
+if(juneday === 3){
     verse.innerHTML = "Wir erwarten nach Gottes Verheißung neuen Himmel und eine neue Erde.";
     headline_texte.innerHTML = "Alles wird neu";
     texte.innerHTML = "Alles wird gut! – Ein Möchtegern-Mutmach-Satz, der Nonsens ist. Denn guck dich mal um auf unserem Planeten. Was endet gut? Tiere verenden qualvoll oder werden gefressen. Menschen verhungern, sterben an schrecklichen Krankheiten oder bringen sich gegenseitig um. Unsere vielgepriesene „Mutter Natur” hat ein ziemlich vernarbtes Gesicht. Warum ist unsere Welt nicht perfekt? Liegt es an Gott? Auf keinen Fall! Es liegt an uns Menschen, die nicht als Roboter erschaffen worden sind, sondern mit Vernunft und Entscheidungsfreiheit. Diese Freiheit haben wir schamlos missbraucht, haben Gottes Regeln für ein gelingendes Leben übertreten. Wir haben Gut und Böse selbst definiert und unser Leben nach eigenen Vorstellungen gestaltet. Als Folge dieser Arroganz sind wir Teil einer kaputten Welt, die uns nur eins garantiert: den Tod. Da sandte Gott seinen Sohn Jesus Christus, um uns mit sich zu versöhnen. Seine Hoffnungsbotschaft gipfelt in dem Versprechen: „Ich mache alles neu!”";
 }
-if(juneday === 156){
+if(juneday === 4){
     verse.innerHTML = "Rede zu der Erde, und sie wird es dich lehren; und die Fische des Meeres werden es dir erzählen. Wer würde nicht an diesen allen erkennen, dass die Hand des Herrn dies gemacht hat?";
     headline_texte.innerHTML = "Schöpferisch genial";
     texte.innerHTML = "Die Bionik ist ein riesiges Forschungsgebiet, das sich mit Konstruktionen, Abläufen, Systemen und Ideen innerhalb der Biologie beschäftigt, um diese für die Technik nutzbar zu machen. Ob der bei Pflanzen abgeschaute „Lotuseffekt”, der Wasser an einer Oberfläche abperlen lässt, oder die der Haifischhaut nachempfundene Oberflächenstruktur heutiger Schiffe und Flugzeuge, u. v. m.: Die Natur hat unseren technischen Fortschritt erheblich beschleunigt. Stopp mal! Die „Natur”? Ernsthaft? Wenn Forscher von Konstruktionen reden, müssen wir dann nicht unwillkürlich nach dem Konstrukteur fragen? Wer Abläufe oder Systeme erforscht, will doch wissen, wer die Regeln gesetzt hat, oder? Geniale Ideen schreien doch geradezu nach einem Ideengeber! Im Buch Hiob, dem ältesten Buch der Bibel, stellt dieser Mann uns die Frage, ob nicht auch wir erkennen müssen, dass die Natur nur von einem zeugt: von dem großen Gott, ihrem Schöpfer. Was denkst du?";
 }
-if(juneday === 157){
+if(juneday === 5){
     verse.innerHTML = "Ich (werde) deine Nachkommen sehr mehren, wie der Sand, der am Ufer des Meeres ist.";
     headline_texte.innerHTML = "Wie Sand am Meer ...";
     texte.innerHTML = "… nennen wir Dinge, die in großer Zahl, im Überfluss vorhanden sind. Dass diese Redewendung ihren Ursprung in der Bibel hat, dürfte nicht jedem bekannt sein. Noch weniger der Kontext, in dem sie zuerst in der Bibel vorkommt: Gott verspricht dem Patriarchen Abraham sehr viele Nachkommen – so viele „wie Sand am Meer”. Was veranlasst ihn dazu? Ganz einfach: Abraham glaubt, was Gott ihm versprochen, und tut, was Gott von ihm verlangt hat. Das nennt die Bibel Glaubensgehorsam. Im engeren Sinn stammen nicht nur alle Juden über Abrahams Sohn Isaak von Abraham ab, sondern auch die arabischen Völker über seinen Sohn Ismael. Der Apostel Paulus nennt Abraham sogar den Vater aller Glaubenden (vgl. Römer 4,11-18). So viele Nachkommen wie Abraham hat sonst kein Mensch. Wirklich eindrucksvoll, wie Gott sein Versprechen an Abraham gehalten hat!<br>​​​​​​​Dieser Gott hat sich nicht verändert: Er segnet bis heute Menschen, die ihm glauben und gehorchen.";
 }
-if(juneday === 158){
+if(juneday === 6){
     verse.innerHTML = "Der Sohn des Menschen ist nicht gekommen, um bedient zu werden, sondern um zu dienen und sein Leben zu geben als Lösegeld für viele.";
     headline_texte.innerHTML = "Schon bezahlt";
     texte.innerHTML = "Du stehst in der Schlange zur Supermarktkasse und überschlägst den Wert deines vollen Einkaufswagens. Manches ist teurer geworden und du fragst dich, ob die Summe deine Haushaltskasse sprengen wird.<br>Nachdenklich legst du deinen Einkauf auf das Transportband. Die Kassiererin scannt alles ein und lächelt dich freundlich an: „Herzlichen Glückwunsch! Sie sind heute unser 500. Kunde und Ihr Einkauf ist komplett gratis!” Du kannst dein Glück kaum fassen! Alles schon bezahlt? Nicht zu glauben …<br>Ähnlich ist es mir mit meiner Sündenschuld ergangen, die ich im Lauf meines Lebens angehäuft hatte. Mit einem Unterschied: Ich hätte nicht eine Sünde bezahlen können. Aber die gute Nachricht ist: Jesus Christus hat für mich bezahlt!<br>„ Er hat gezahlt, was ich nicht zahlen konnte, er hat getan, was mir unmöglich war, er brachte mich zu Gott dem Vater, er starb für mich auf Golgatha.”";
 }
-if(juneday === 159){
+if(juneday === 7){
     verse.innerHTML = "Indem ihr wisst, dass ihr nicht mit vergänglichen Dingen, mit Silber oder Gold, erlöst worden seid ... sondern mit dem kostbaren Blut Christi, als eines Lammes ohne Flecken und ohne Fehl.";
     headline_texte.innerHTML = "Lied & lebendig";
     texte.innerHTML = "An dieser Stelle ist eigentlich ein Lied.";
 }
-if(juneday === 160){
+if(juneday === 8){
     verse.innerHTML = "Ich, der Herr, dein Gott, ergreife deine rechte Hand, der ich zu dir spreche: Fürchte dich nicht, ich helfe dir!";
     headline_texte.innerHTML = "Gottes Hilfe";
     texte.innerHTML = "Wenn's nicht so läuft, wie du es gerne hättest, kann das frustrierend sein. Das geht übrigens auch denen so, die darauf vertrauen, dass Gott ihnen hilft. Egal, ob du Probleme in der Schule oder Ausbildung hast, im Studium, im Beruf, mit Freunden oder ob du dir einfach unsicher über die Zukunft bist – du kannst dich mit allem an Gott wenden, ihm im Gebet deine Sorgen und Ängste mitteilen und ihn um Hilfe bitten.<br>​​​​​​​Gottes Hilfe kann sehr unterschiedlich aussehen. Manchmal verändert er nicht gleich unsere Situation, sondern öffnet uns den Blick, um unser Problem mit einer anderen Einstellung zu sehen. Oder er zeigt uns einen Ausweg durch den Rat von Mitmenschen. Jedenfalls hilft Gott nicht immer so, wie wir es uns vorstellen. Vielleicht gibt er dir auch Herausforderungen, um dich näher zu ihm zu ziehen oder um dich zu stärken und reifen zu lassen. Denk daran, dass Gott immer für dich da ist und dir hilft. Vertrau ihm – es lohnt sich!";
 }
-if(juneday === 161){
+if(juneday === 9){
     verse.innerHTML = "Wenn Gott für uns ist, wer gegen uns? Er, der doch seinen eigenen Sohn nicht verschont, sondern ihn für uns alle hingegeben hat – wie wird er uns mit ihm nicht auch alles schenken? ";
     headline_texte.innerHTML = "Lied & lebendig";
     texte.innerHTML = "An dieser Stelle ist eigentlich ein Lied.";
 }
-if(juneday === 162){
+if(juneday === 10){
     verse.innerHTML = "Nahe ist der HERR denen, die zerbrochenen Herzens sind, und die zerschlagenen Geistes sind, rettet er.";
     headline_texte.innerHTML = "Jesus ist nahe";
     texte.innerHTML = "Das Ehepaar auf der Rolltreppe vor mir, der Mann im Bus neben mir, die Frau in der Wohnung über mir – sie sind nahe und doch weit weg. Weil sie nur mein Äußeres sehen, mich aber nicht wirklich kennen oder verstehen. Weil sie nicht wissen, was mich quält und lähmt und weglaufen lässt. Doch einer ist da, der mir wirklich nahe ist, weil er mich kennt und versteht. Der mir zuhört und mir den Weg zeigt: Jesus, mein Herr! Er ist denen nahe, deren Herzen zerbrochen sind, die am Boden liegen, deren Liebe und Zuneigung mit Füßen getreten wurde. Deren Gedanken Karussell fahren. Versteht Jesus mich? Ja! Denn er wurde von seinen Feinden gehasst, von einem Bekannten verraten, einem Freund verleugnet, von allen verlassen. Er kann mitempfinden. Ich will mich zu ihm aufmachen, will ihm sagen, wie mir zumute ist. Und dann will ich hören, was er mir sagt und mir rät. Denn er meint es gut mit mir";
 }
-if(juneday === 163){
+if(juneday === 11){
     verse.innerHTML = "Woher kommen Kriege und woher Streitigkeiten unter euch?";
     headline_texte.innerHTML = "Krieg am Gartenzaun";
     texte.innerHTML = "Seit dem Kriegsausbruch zwischen Russland und der Ukraine in 2022 verstehen wir als Otto Normalverbraucher die Welt nicht mehr. Wer hätte gedacht, dass ein Krieg in Europa nochmal so in unsere Nähe rückt? Wer hätte gedacht, dass die Rüstungsindustrie im Handumdrehen wieder boomt, Gelder freigesetzt werden und aufgerüstet wird? Das ist uns alles unbegreiflich. <br>Jeden Tag gehen wir unserer täglichen Arbeit nach, zahlen unsere Steuern, kleben uns nicht an der Straße fest, spenden, wo es nötig ist und nehmen unsere Verantwortung wahr. Ok, das Theater mit dem Nachbarn – das geht schon seit Jahren so. Da ist die rote Gartenlinie allerdings wirklich schon mehrfach durchbrochen worden – jetzt ist Schluss. Gut, dass man Rechtsschutz versichert ist ... <br>Woher kommen noch mal Kriege? „Aus euren Begierden” sagt Jakobus. Das gilt für die großen Kriege wie für die kleinen. Machen wir uns also nichts vor: In uns steckt dasselbe „Kriegspotential”!";
 }
-if(juneday === 164){
+if(juneday === 12){
     verse.innerHTML = "Die Welt vergeht und ihre Lust; wer aber den Willen Gottes tut, bleibt in Ewigkeit.";
     headline_texte.innerHTML = "Ewigkeit im Herzen";
     texte.innerHTML = "Johann Gottlieb Fichte (1762–1814) konnte sich nicht vorstellen, dass „die gegenwärtige Lage der Menschheit ihre ganze und letzte Bestimmung” ist: „Ich äße nur und tränke, damit ich wiederum hungern und dürsten, und essen und trinken könnte, so lange, bis das unter meinen Füßen eröffnete Grab mich verschlänge, und ich selbst als Speise dem Boden entkeimte? Wozu dieser unablässig in sich selbst zurückkehrende Zirkel, in welchem alles wird, um zu vergehen, und vergeht, um nur wieder werden zu können?”<br>Nach über 200 Jahren stellen sich die Generationen immer noch dieselbe Frage: Wozu lebe ich? Nur, um wieder Nahrung für andere zu werden? Fichte hatte einen Ansatz für die Lösung: „In dem Gegenwärtigen kann mein Gemüt nicht Platz fassen, noch einen Augenblick ruhen; nach dem Künftigen und Bessern strömt unaufhaltsam hin mein ganzes Leben.” Das Künftige, Bessere findet sich allein in Gott und durch Glauben an Jesus, seinen Sohn.";
 }
-if(juneday === 165){
+if(juneday === 13){
     verse.innerHTML = "Der Geist des Herrn ist auf mir, weil er mich gesalbt hat, Armen gute Botschaft zu verkündigen; er hat mich gesandt, Gefangenen Befreiung auszurufen und Blinden das Augenlicht, Zerschlagene in Freiheit hinzusenden, auszurufen das angenehme Jahr des Herrn.";
     headline_texte.innerHTML = "Aus dem Leben von Jesus – Abgelehnt";
     texte.innerHTML = "Jesus Christus ist in seinem Heimatdorf Nazareth. Hier ist er aufgewachsen. Am Samstag geht er in die Synagoge und liest aus dem Bibelbuch Jesaja die bewegenden Worte vor, die im Tagesvers stehen. „Heute ist diese Schrift vor euren Ohren erfüllt”, fügt er hinzu. Die Zuhörer wundern sich: Sollte dieser Jesus wirklich der Retter und Befreier sein, von dem dieser Bibelvers handelt? Unmöglich – das wollen sie nicht glauben! Für sie ist er nur der Sohn des Zimmermanns Joseph aus ihrem Dorf.<br>Jesus ergreift erneut das Wort und sagt seinen Zuhörern auf den Kopf zu, dass sie ihn am Ende ablehnen werden. Das Wort der Rettung und Befreiung gilt nur denen, die an ihn glauben würden. Wut macht sich breit und zeigt die ablehnende Haltung seiner Mitmenschen aus Nazareth. Sie packen ihn und stoßen ihn aus dem Dorf, bis an den Rand des Berges, um ihn dort in den sicheren Tod zu stürzen. Er aber geht einfach mit göttlicher Autorität durch ihre Mitte weg.";
 }
-if(juneday === 166){
+if(juneday === 14){
     verse.innerHTML = "Die Hand unseres Gottes war über uns, und er rettete uns von der Hand des Feindes und des am Weg Lauernden.";
     headline_texte.innerHTML = "Der Faradaysche Käfig";
     texte.innerHTML = "Schon mal etwas vom Faradayschen Käfig gehört? Bestimmt aus dem Physikunterricht. Es handelt sich um eine allseitig geschlossene Hülle aus einem elektrischen Leiter (z. B. Drahtgeflecht oder Blech), die als elektrische Abschirmung wirkt (Wikipedia).<br>(Wikipedia). Schüler lernen, dass der sicherste Ort bei einem Gewitter der Innenraum eines Autos ist. Aus physikalischer Sicht ist ein Auto ein Faradayscher Käfig, dem keine noch so heftigen Blitze etwas anhaben können, so dass die Insassen gut geschützt sind. An diesen Schutzraum denke ich, wenn ich den Tagesvers lese. Unter der Hand Gottes ist man vor schädlichen Einflüssen, die manchmal wie Blitze auf uns niedergehen, bestens geschützt. Aber genau so, wie man bei einem Gewitter aktiv ins Auto steigen muss, muss man auch aktiv und aufrichtig den Schutz unter Gottes Hand aufsuchen. Esra hat es uns vorgemacht: Er lebte bewusst mit Gott und vertraute sich im Gebet ihm an.";
 }
-if(juneday === 167){
+if(juneday === 15){
     verse.innerHTML = "Wenn wir allein in diesem Leben auf Christus Hoffnung haben, so sind wir die elendesten von allen Menschen. Nun aber ist Christus aus den Toten auferweckt ...";
     headline_texte.innerHTML = "Mensch & mutig";
     texte.innerHTML = "An dieser Stelle ist eigentlich ein Einblick in das Leben eines Christen.";
 }
-if(juneday === 168){
+if(juneday === 16){
     verse.innerHTML = "Wenn ihr nicht glaubt, dass ich es bin, so werdet ihr in euren Sünden sterben. Da sprachen sie zu ihm: Wer bist du? Jesus sprach zu ihnen: Durchaus das, was ich auch zu euch rede.";
     headline_texte.innerHTML = "Wer ist denn dieser … Jesus? (6)";
     texte.innerHTML = "Einige Gedanken haben wir uns schon über diesen Jesus gemacht, die Hauptperson der Bibel, der Mittler und Retter der Welt.<br>In den Auseinandersetzungen mit seinen Zeitgenossen weist der Sohn Gottes immer wieder darauf hin, dass er der ist, an den sie glauben müssen. Seine Worte und vor allem seine Wunderwerke haben die unwiderlegbaren Beweise geliefert, dass er der Christus ist, der Sohn Gottes<br>Doch da die Führer des Volkes es nicht wahrhaben wollen, fragen sie ihn: Wer bist du? Über die Antwort staunt man nicht schlecht. Jesus ist genau das, was seine Worte mitteilen: Er ist die Wahrheit.<br>Wer heute eine Person lediglich nach ihren Worten beurteilen würde, steht in Gefahr, sich zu täuschen. Denn wir Menschen tun gern groß.<br>Doch dieser Jesus ist anders als alle anderen. Er prahlt nicht und heuchelt nicht. Er ist vollkommen authentisch. – Je mehr ich über ihn nachdenke, umso mehr fühle ich mich zu ihm hingezogen.";
 }
-if(juneday === 169){
+if(juneday === 17){
     verse.innerHTML = "Es hat ja Christus einmal für Sünden gelitten, der Gerechte für die Ungerechten.";
     headline_texte.innerHTML = "Wer ist dein Stellvertreter?";
     texte.innerHTML = "1941 tobt der Zweite Weltkrieg. Im Konzentrationslager in Auschwitz, in dem wohl mehr als eine Million Menschen einen grausamen Tod fanden, gelingt einem Häftling (angeblich) die Flucht. Als Vergeltung wählt der Lagerleiter willkürlich einige Männer aus, die für den Flüchtling sterben sollen. Als der Ehemann und Vater Franciszek Gajowniczek aufgerufen wird, bricht er in lautes Weinen aus. Da meldet sich plötzlich der katholische Priester Maximilian Kolbe: Er will für Gajowniczek in den berüchtigten Hungerbunker gehen. So wird Kolbe am 31. Juli 1941 mit den anderen Männern eingesperrt und zwei Wochen später mit der Giftspritze umgebracht.<br>Gajowniczek überlebte die Zeit im KZ Auschwitz und kehrte zu seiner Familie zurück. Weil ein anderer für ihn bestraft wurde und starb, kam er frei und durfte leben. – Für mich starb Jesus Christus am Kreuz. Weil ihn meine Strafe traf, bin ich freigesprochen und darf leben. Wer ist dein Stellvertreter?";
 }
-if(juneday === 170){
+if(juneday === 18){
     verse.innerHTML = "Von verborgenen Sünden reinige mich!";
     headline_texte.innerHTML = "Mottenalarm!";
     texte.innerHTML = "Nichtsahnend öffne ich den Küchenschrank, als mir etwas hektisch Flatterndes entgegenkommt. Instinktiv klatsche ich nach dem Tier. Der Spuk ist aus! – Denke ich. Bis ich die Mehltüte öffne. Dann die Müslidose. Nudelpackungen. Gewürzbehälter. Überall Geflatter oder klumpige Gespinste mit winzigen Larven. Mich packt der Horror: Motten! Alles voller Motten! Puh – erstmal Schranktür zu … <br>Und was, wenn Gott uns beim Bibellesen antippt und gewissermaßen den „Küchenschrank” unseres Lebens aufmacht? Wenn uns die „Motten” unseres Lebens „entgegenflattern”, weil die Bibel uns zeigt, dass im Grunde unser ganzes Leben durchzogen ist von Eigenliebe, Arroganz oder Gier? <br>Google gab mir bezüglich der Mottenplage den Tipp: Alles rigoros wegschmeißen, Klebefallen aufstellen und Schlupfwespen kaufen. Diese winzigen Insekten bekämpfen Motten effektiv und nachhaltig. Noch besser als diese Nützlinge will Gott uns helfen, unser Leben nachhaltig von „verborgenen Sünden” zu befreien. Wenn wir wollen!";
 }
-if(juneday === 171){
+if(juneday === 19){
     verse.innerHTML = "Wenn deine Worte sich auftun, erleuchten sie uns, dann finden selbst Unerfahrene Einsicht darin.";
     headline_texte.innerHTML = "Robinson Crusoe";
     texte.innerHTML = "Als Junge bekam ich mal zu Weihnachten Daniel Defoes weltbekannten Klassiker „Robinson Crusoe” in einer Nacherzählung für Kinder geschenkt. Ich war gefesselt von der spannenden Geschichte. Als Schiffbrüchiger auf eine einsame Insel verschlagen, muss Robinson das Überleben lernen. Später begegnet er wilden Tieren und Kannibalen! Zu den Dingen, die Robinson aus dem Schiff retten konnte, gehört auch eine Bibel. Die allerersten Worte, die er darin liest, sind: „Rufe mich an am Tag der Not, so will ich dich erretten.“ (Psalm 50,15). <br>Robinson merkt, dass die Bibel zu ihm spricht, und er beginnt täglich morgens und abends darin zu lesen. Das Bibellesen verändert ihn im Lauf der Geschichte mehr und mehr. Es macht ihn dankbar und glücklich und er beginnt sich selbst in Gottes Licht zu sehen <br>Auch wenn es nur ein Roman ist, muss Defoe, als er die Geschichte 1719 schrieb, gut verstanden haben: Die Bibel hat göttliche Kraft und verändert den, der sie liest. Bis heute!";
 }
-if(juneday === 172){
+if(juneday === 20){
     verse.innerHTML = "Als ich täglich bei euch im Tempel war, habt ihr die Hände nicht gegen mich ausgestreckt; aber dies ist eure Stunde und die Gewalt der Finsternis.";
     headline_texte.innerHTML = "Seltsame Zeugen (1) – Prozesse";
     texte.innerHTML = "Jerusalem im Frühjahr 30. Das Passahfest stand bevor. Jesus war gerade verhaftet worden. Der Vorwurf: Gotteslästerung und Aufruhr gegen die Staatsgewalt. <br>In jedem ordentlichen Prozess gibt es Zeugen der Anklage und Zeugen der Verteidigung. Die Prozesse, die Jesus von Nazareth in jener Nacht und am Morgen des Freitags gemacht wurden, verstießen grundlegend gegen die Gesetze der Juden wie auch der Römer. Überall wurde mit falschen Zeugen und Falschaussagen gearbeitet. Es gab gar kein ordentliches Verfahren. Der Angeklagte hatte keinen Verteidiger. Und es waren keine Zeugen da, die für den Angeklagten sprechen wollten oder konnten. Der engste Jüngerkreis Jesu: ein Verräter, einer, der Jesus verleugnete, neun, die sich aus dem Staub machten. Ebenfalls nicht als Zeugen der Verteidigung vor Ort waren die vielen, denen Jesus Gutes getan hatte und die von ihm geheilt wurden.";
 }
-if(juneday === 173){
+if(juneday === 21){
     verse.innerHTML = "Wer auf den Herrn vertraut, ist glückselig.";
     headline_texte.innerHTML = "Seines Glückes Schmied";
     texte.innerHTML = "„Jeder ist seines Glückes Schmied” ist eine Redensart, die Jahrtausende alt ist. Man meint also, Glück sei planbar und könne mittels Anstrengung „produziert” werden. Stimmt das? Jein. Wer auf der faulen Haut liegt und sich nicht „bewegt”, wird im Leben nichts bewegen. „Faulheit versenkt in tiefen Schlaf, und eine lässige Seele wird hungern”, sagt Salomo. Hungern ist Unglück pur. <br>Aber gibt es nicht auch Menschen, die ihr Glück nicht selbst schmieden mussten und trotzdem im Glück leben? Andererseits gibt es solche, die sich sehr angestrengt haben, die aber ein „Unglück” getroffen hat ... <br>Das größte Glück für Menschen ist, einmal die Ewigkeit bei Gott im Himmel zu verbringen. Dieses Glück erreichen wir allerdings nicht durch Leistung, sondern durch Glauben. Es ist für jeden zugänglich. An uns liegt es, ob wir es fassen.";
 }
-if(juneday === 174){
+if(juneday === 22){
     verse.innerHTML = "Freue dich, Jüngling, in deiner Jugend, und dein Herz mache dich fröhlich in den Tagen deiner Jugendzeit, und wandle auf den Wegen deines Herzens ... doch wisse, dass für dies alles Gott dich ins Gericht bringen wird.";
     headline_texte.innerHTML = "Lesen & staunen";
     texte.innerHTML = "An dieser Stelle ist eigentlich eine Buchempfehlung.";
 }
-if(juneday === 175){
+if(juneday === 23){
     verse.innerHTML = "Du bist der Christus, der Sohn des lebendigen Gottes!";
     headline_texte.innerHTML = "Wer ist denn dieser … Jesus? (7)";
     texte.innerHTML = "Dieser Jesus ist eine imponierende Person, oder? Je mehr wir von ihm erfahren, umso mehr wollen wir von ihm wissen. Und die Bibel berichtet sehr viel über ihn. Es lohnt sich, es selbst zu lesen.<br>Der heutige Bibelvers stammt aus einer Unterhaltung zwischen Jesus und seinen Jüngern. Jesus erkundigte sich bei seinen Jüngern, was die Menschen so von ihm dachten. Tatsächlich meinten die meisten, Jesus sei einer der früher lebenden Propheten. Dann richtet sich Jesus an seine engsten Begleiter: „Was sagt ihr?”. Petrus gibt eine beeindruckende Antwort – lies dazu noch einmal den Tagesvers, Wort für Wort.<br>Christus – das ist der Gesalbte (vgl. Folge 4). Aber „Sohn des lebendigen Gottes” ist neu, selbst für Petrus damals. In dem Moment bekommt er eine Offenbarung: Dieser Jesus war schon immer Gott, eben Gott, der Sohn. Hier steht also der Ewige in Person inmitten von sterblichen Menschen.<br><br>„Christus ist über allem, Gott, gepriesen in Ewigkeit. Amen.”<br>Römer 9,5";
 }
-if(juneday === 176){
+if(juneday === 24){
     verse.innerHTML = "Ihr werdet die Wahrheit erkennen, und die Wahrheit wird euch frei machen.";
     headline_texte.innerHTML = "Becoming free";
     texte.innerHTML = "Stell dir vor: ein Leben ohne Lernstress, ohne Geldprobleme, ohne nervige Leute, die dir ständig sagen, was du machen sollst. <br>Aber wäre das Freiheit? Nicht wirklich. Denn da sind innere Zwänge, Ängste, Gier, negative Emotionen, Süchte. Nicht nur Nikotin und Alkohol, sondern auch Geld, Klicks und Anerkennung. Sogar der Traum vom perfekten Körper kann uns so beherrschen, dass Training, Styling oder Ernährung zum Zwang werden. Ganz zu schweigen von unseren Internet-Süchten: Shoppen, Zocken, Pornos, Netflix bis zum Screenitus. <br>​​​​​​​Jesus Christus war so anders als wir. Er hing an einem Holzkreuz, sein Rücken von Peitschenhieben aufgerissen, das Gesicht durch Schläge entstellt. Und was tat er? Er bat Gott, seinen Henkern zu vergeben! Äußerlich war er der Gefangene – doch innerlich war er frei. Seine Liebe triumphierte über ihren Hass. Bitte den Herrn Jesus, dich zu befreien. Vertraue ihm. Jemand, der Tote auferweckt hat und selbst aus den Toten auferstanden ist, hat auch die Macht, dich zu befreien.";
 }
-if(juneday === 177){
+if(juneday === 25){
     verse.innerHTML = "Ich bin das Alpha und das Omega, spricht der Herr, Gott, der da ist und der da war und der da kommt, der Allmächtige.";
     headline_texte.innerHTML = "Der Allmächtige";
     texte.innerHTML = "Wirklich allmächtig ist nur Gott. Das bedeutet, dass er jederzeit zu allem in der Lage ist. Er ist dabei durch nichts und niemand beschränkt oder begrenzt. Nur wer an die Allmacht Gottes glaubt, wird die Bibel verstehen können. Dazu ein paar Beispiele:<br>In sechs Tagen hat Gott den Himmel und die Erde gemacht, das Meer, und alles, was in ihnen ist (1. Mose 1).<br>Gott spaltete das Rote Meer, damit ein Millionenvolk hindurchziehen konnte. Die Wasser standen dabei wie ein Damm (2. Mose 14).<br>Jesus Christus ging über den See, weil er es wollte und er befahl sogar einem seiner Jünger, ihm auf dem Wasser entgegenzugehen (Matthäus 14).<br>Jesus weckte einen Mann aus den Toten auf, der vier Tage zuvor gestorben war und durch die einsetzende Verwesung bereits übel roch (Johannes 11).<br>Alle Wunder und übernatürlichen Ereignisse, von der die Bibel berichtet, liegen in dem Willen und der Macht des Allmächtigen begründet.";
 }
-if(juneday === 178){
+if(juneday === 26){
     verse.innerHTML = "So wähle das Leben, damit du lebst.";
     headline_texte.innerHTML = "Die Qual der Wahl";
     texte.innerHTML = "Es ist nicht immer einfach, Entscheidungen zu treffen. Denn wenn ich mich für etwas entscheide, entscheide ich mich zugleich gegen etwas anderes. Deshalb bin ich oft zögerlich, habe Angst vor einer falschen Entscheidung.<br>Solange es um alltägliche Dinge geht, sind die Folgen meist überschaubar. Manchmal gibt es auch eine zweitbeste Wahl. Zuweilen kann es auch einmal hilfreich sein, die notwendige Entscheidung noch etwas aufzuschieben.<br>Doch wenn es um wirklich Wichtiges geht, kann das Aufschieben verhängnisvolle Folgen haben. Wenn es um Fluch oder Segen, um Himmel oder Hölle geht, muss ich mich entscheiden. Dafür brauche ich natürlich auch eine gute Entscheidungsgrundlage, Fakten also. Deshalb kann man nur jeden überreden, die Bibel zu lesen und so die Fakten kennenzulernen. Wer dann über Jesus Christus, dessen Leben, Tod und Auferstehung liest, wird schnell merken, dass es nur eine richtige Entscheidung gibt ...";
 }
-if(juneday === 179){
+if(juneday === 27){
     verse.innerHTML = "Kommt, folgt mir nach … Sie aber verließen sogleich die Netze und folgten ihm nach.";
     headline_texte.innerHTML = "Aus dem Leben von Jesus – Ihm folgen";
     texte.innerHTML = "Die Brüder Petrus und Andreas sind am See Genezareth und werfen die Netze ins Wasser, als Jesus ihnen begegnet. „Kommt, folgt mir nach, und ich werde euch zu Menschenfischern machen”, spricht er sie an. Sofort lassen sie alles stehen und liegen und gehen mit Jesus.<br>Ein wenig weiter am Ufer des Sees ein weiteres Brüderpaar: Jakobus und Johannes. Sie helfen ihrem Vater, die Fischernetze auszubessern. Auch sie werden von Jesus angesprochen und aufgefordert, ihm zu folgen. So wie Petrus und Andreas folgen auch sie unmittelbar diesem Aufruf und gehen mit Jesus. Ihr Vater bleibt mit einigen Hilfsarbeitern zurück.<br>Alle vier sind überzeugt: Es lohnt sich, die Komfortzone zu verlassen und mit Jesus zu gehen. Angezogen von dieser einmaligen Person bekommt ihr Leben eine völlig neue Ausrichtung und Perspektive.<br><br>„ Kommt, folgt mir nach!”<br>Matthäus 4,19";
 }
-if(juneday === 180){
+if(juneday === 28){
     verse.innerHTML = "Mose machte eine Schlange aus Kupfer und tat sie auf die Stange; und es geschah, wenn eine Schlange jemand gebissen hatte, und er schaute auf zu der Schlange aus Kupfer, so blieb er am Leben.";
     headline_texte.innerHTML = "Äskulapstab";
     texte.innerHTML = "Die Bezeichnung „Äskulapstab” sagt dir vielleicht nichts – das medizinische Symbol hast du allerdings in Apotheken, Krankenhäusern, Arztpraxen schon oft gesehen: ein von einer Schlange umwundener Stab. Doch woher kommt dieses Symbol?<br>Eine mögliche Erklärung bietet ein Ereignis, das in der Bibel berichtet wird: Das Volk Israel hatte schwer gegen Gott gesündigt und zur Strafe schickte Gott eine Menge giftiger Schlangen. Durch die tödlichen Bisse schwebten viele Israeliten in Lebensgefahr. Gott beauftragte Mose, eine Schlange aus Kupfer zu machen und sie auf eine Stange zu tun. Jeder, der zur Schlange aufschaute, wurde geheilt. Doch längst nicht alle Betroffenen blickten zur Schlange – und starben deshalb. Ausgehend von dieser Geschichte, die seinen Zuhörern gut bekannt war, erklärte Jesus: „Wie Mose in der Wüste die Schlange erhöhte, so muss der Sohn des Menschen (damit meint Jesus sich selbst) erhöht werden, damit jeder, der ihn an glaubt, nicht verloren gehe, sondern ewiges Leben habe.” – Glaubst du schon?";
 }
-if(juneday === 181){
+if(juneday === 29){
     verse.innerHTML = "Gott hat sein Volk (Israel) nicht verstoßen, das er zuvor erkannt hat.";
     headline_texte.innerHTML = "„Die Juden, Majestät!”";
     texte.innerHTML = "Friedrich der Große (1712–1786) war als ein Herrscher bekannt, der den christlichen Glauben ablehnte. Als er einmal seinen gläubigen Leibarzt verspotten wollte, forderte er diesen mit den Worten heraus: „Doktor, nenn' er mir einen Gottesbeweis, wenn er kann!” Aus der Not heraus entgegnete der Arzt das Erste, was ihm einfiel: „die Juden, Majestät!” <br>Hinter dieser spontanen Antwort steckt die beeindruckende Geschichte Israels. Die Geschichte eines Volkes, dem sich Gott in besonderer Weise zugewandt hat, das andererseits schon heftigste Feindschaft erlitten hat. Es ist eine Geschichte eines äußerlich kleinen Volkes und Landes und andererseits der Konfliktpunkt im Nahen Osten, an dem sich die Weltmächte scheiden. <br>Dass Israel heute überhaupt noch existiert, beweist, dass Gott selbst wirkt und dieses Volk nicht untergehen lässt, weil ihm noch eine herrliche Zukunft bevorsteht, wie die Bibel berichtet.";
 }
-if(juneday === 182){
+if(juneday === 30){
     verse.innerHTML = "Durch ihn sind alle Dinge geschaffen worden, die in den Himmeln und die auf der Erde, die sichtbaren und die unsichtbaren.";
     headline_texte.innerHTML = "Wer ist denn dieser … Jesus? (8)";
     texte.innerHTML = "Extrem beeindruckend, was wir in der Bibel über diesen Jesus alles lesen. Und wir merken: Einerseits ist er wie wir, andererseits ganz anders: wahrer Mensch und zugleich Gott, der Sohn. Für uns unerklärbar – und doch wahr.<br>Im heutigen Bibelvers erfahren wir, dass dieser Jesus alles erschaffen hat. Nicht nur diese Erde. Nicht nur dieses Sonnensystem. Nicht nur dieses Universum. Alles. Wirklich alles – auch die unsichtbare Engelwelt. Den Makrokosmos und den Mikrokosmos.<br>Jemand drückt es so aus: „Ein ewiger Gott ist der Herr, der Schöpfer der Enden der Erde; ... unergründlich ist sein Verstand” (Jesaja 40,28).<br>​​​​​​​Dass Wissenschaftler aus dem Staunen nicht rauskommen, braucht uns nicht zu wundern. Alles zeugt von seiner Macht und Weisheit. Denn wer könnte solch eine Informationsdichte wie in der DNA kreieren? Wer könnte Planeten in exakt definierten Bahnen lenken? Alles zeugt von Intelligenz und Ordnung und von unserem Schöpfer Jesus Christus.";
@@ -2269,23 +2269,23 @@ function test(day,month,name,color,id){
 let birthdayArray = [
     test("20","0","Sebi","#00a2ff",0),
     test("24","0","Oma","#6f00ff",1),
-    test("5","8","Jim","#88c2e4",2),
-    test("28","3","Phil","#97e488",3),
-    test("13","7","Jakob","#d45353",4),
-    test("30","2","Ben","#88c2e4",5),
-    test("2","3","Louis","#8896B0",6),
-    test("4","3","Jule","#9b7fdb",7),
-    test("27","3","Boas","#97e488",8),
-    test("24","10","Paul Simon","#ecac59",9),
-    test("24","0","Lukas","#57473a",10),
-    // test("30","9","Hannah",9),
-    // test("30","9","Michel",10),
-    // test("30","9","Anna-Madeleine",11),
-    test("20","4","Caro",11),
-    test("16","11","Lia","#fc9bfc",12),
+    test("16","1","Lynn","#31eebf",2),
+    test("30","2","Ben","#88c2e4",3),
+    test("2","3","Louis","#8896B0",4),
+    test("4","3","Jule","#9b7fdb",5),
+    test("28","3","Phil","#97e488",6),
+    test("27","3","Boas","#97e488",7),
+    test("13","7","Jakob","#d45353",8),
+    test("12","5","Robert","#00a2ff",9),
+    test("20","5","Caro","#db7fdb",10),
+    test("27","7","Michel","#8896B0",11),
+    test("5","8","Jim","#88c2e4",12),
+    test("24","10","Paul Simon","#ecac59",13),
+    test("16","11","Lia","#fc9bfc",14),
+    test("24","11","Lukas","#57473a",15),
     // test("30","9","Mimi",14),
-    // test("30","9","Robert",15),
-    test("16","1","Lynn","#31eebf",13),
+    // test("30","9","Hannah",9),
+    // test("30","9","Anna-Madeleine",11),
 ];
 
 
