@@ -1328,157 +1328,157 @@ if(month === 8){
 
     console.log(augustday);
 }
-if(augustday === 214){
+if(augustday === 1){
     verse.innerHTML = "Du bist ein Gott, der mich sieht.";
     headline_texte.innerHTML = "Ansehen";
     texte.innerHTML = "Auch wenn es nicht jedem vergönnt ist - hoch angesehen zu werden, mögen wir. Deshalb bewundern wir Promis und folgen Influencern. <br>Für Jesus zählte kein Ansehen der Person: weder Stellung, Job noch Name. Er begegnete jedem Menschen mit den besten Absichten, niemand wurde von ihm gefeiert und niemand gedisst. Für den hochgestellten Geistlichen namens Nikodemus hatte er ein Wort, das ihn auf den Boden der Tatsachen brachte und zugleich zum geistlichen Durchbruch verhalf. Der Frau, die am Rand der Gesellschaft lebte und ihr Glück in fünf Ehen gesucht hatte, stillte er ihren Lebensdurst. <br>Mit derselben Liebe begegnet Jesus Christus auch dir. Er schaut heute vom Himmel auf die Menschen. Er ist ein Gott, der dich sieht und dem du wichtig bist! Er liebt dich unabhängig von deinem Ansehen bei Menschen. Er will dein Glück!";
 }
-if(augustday === 215){
+if(augustday === 2){
     verse.innerHTML = "Und seid dankbar.";
     headline_texte.innerHTML = "Lied & lebendig";
     texte.innerHTML = "An dieser Stelle ist eigentlich ein Lied.";
 }
-if(augustday === 216){
+if(augustday === 3){
     verse.innerHTML = "Der König sprach zu den Dienern: Bindet ihm Füße und Hände und werft ihn hinaus in die äußerste Finsternis: Dort wird das Weinen und das Zähneknirschen sein.";
     headline_texte.innerHTML = "Himmel? Oder Hölle?";
     texte.innerHTML = "Manche Menschen halten den Himmel für langweilig, andere, vielleicht auch dieselben, erwarten in der Hölle Party, Spaß und Gesellschaft. Alles das ist falsch. <br>Die Bibel teilt uns mit, dass es im Himmel herrlich ist, während die Hölle schrecklicher ist als der schlimmste Platz, den man sich denken kann. <br>Der Himmel ist der Wohnort Gottes. Da ist Leben, Frieden und Freude. In der Hölle dagegen wird absolute Einsamkeit sein. Dort wird Weinen und Zähneknirschen sein: über verpasste Gelegenheiten, aufgeschobene Entscheidungen und Gleichgültigkeit. Ein Ort der Strafe – und das ewig, ohne jede Chance auf eine Änderung. <br>Die Entscheidung, wo ich die Ewigkeit verbringe, habe ich nur hier im Leben. Danach ist es zu spät, ewig zu spät. Deshalb: Heute, wenn du Gottes Stimme hörst, verhärte bitte dein Herz nicht (Hebräer 4,7)! Sonst könnte es für dich zu spät sein.";
 }
-if(augustday === 217){
+if(augustday === 4){
     verse.innerHTML = "Da fragte Jesus sie wieder: Wen sucht ihr? Sie aber sprachen: Jesus, den Nazaräer. Jesus antwortete: Ich habe euch gesagt, dass ich es bin; wenn ihr nun mich sucht, so lasst diese gehen!";
     headline_texte.innerHTML = "Jesus, mein Stellvertreter";
     texte.innerHTML = "Jesus Christus ist mit seinen Jüngern im Garten Gethsemane: Es ist die Nacht vor dem Tag der Kreuzigung und die Soldaten sind gekommen, um ihn festzunehmen. Er fragt sie, wen sie suchen. Auf ihre Antwort: „Jesus, den Nazaräer”, sagt er: „Ich bin es.” Da weichen sie zurück und fallen zu Boden. <br>Jesus fragt sie in zweites Mal: „Wen sucht ihr?”, und wieder antworten sie: „Jesus, den Nazaräer.” Diesmal fügt Jesus seiner Antwort: „Ich bin es”, ein bemerkenswertes Wort hinzu: „Wenn ihr nun mich sucht, so lasst diese [die Jünger] gehen!“ <br>​​​​​​​Damit stellt Jesus sich schützend vor seine Jünger. Er ist bereit sich festnehmen zu lassen und dann am Kreuz zu sterben. Aber seine Jünger sollen nicht angetastet werden. Was für eine aufopfernde Liebe zeigt Jesus gegenüber seinen Jüngern! Weil er in die Bresche springt, können sie gehen. Auch für mich trifft das zu: Weil Jesus starb, bin ich erlöst.";
 }
-if(augustday === 218){
+if(augustday === 5){
     verse.innerHTML = "Gott hat uns nicht einen Geist der Furchtsamkeit gegeben, sondern der Kraft und der Liebe und der Besonnenheit.";
     headline_texte.innerHTML = "Besonnenheit";
     texte.innerHTML = "Besonnenheit ist ein Wort, das laut Duden nicht besonders häufig im allgemeinen Sprachgebrauch ist. Als Synonyme werden angeführt: Überlegtheit, Umsicht, Bedachtheit, darüber hinaus auch Disziplin, Selbstbeherrschung.<br>Besonnenheit ist eine Eigenschaft, die einen Menschen kennzeichnet, der mit Gott lebt; ein Christ ist von sich aus nicht unbedingt weise und besonnen, weiß aber um die Tatsache, die im Tagesvers ausgedrückt ist: Gott gibt seinen Leuten einen Geist der Besonnenheit – gegen hilfloses und kopfloses Agieren, um schwierige Fragen oder Problemstellungen weise abwägen zu können, statt sämtlichen Fake News und jeder Desinformation schutzlos aufzusitzen.<br><br>Wenn aber jemand von euch Weisheit mangelt, so erbitte er sie von Gott, der allen willig gibt und nichts vorwirft, und sie wird ihm gegeben werden.<br><br>Jakobus 1,5";
 }
-if(augustday === 219){
+if(augustday === 6){
     verse.innerHTML = "Da sprach Gott zu Mose: „Ich bin, der ich bin.“ Und er sprach: So sollst du zu den Kindern Israel sagen: „Ich bin“ hat mich zu euch gesandt.";
     headline_texte.innerHTML = "Der Ewige";
     texte.innerHTML = "Wer ist Gott? Wie ist Gott? Wie kann man ihn nennen oder beschreiben? Gott selbst gibt auf diese Fragen die Antwort: „Ich bin, der ich bin.“ Respekt! In dieser Aussage steckt Erhabenheit. <br>Gott sagt es nicht ungeduldig und genervt, so wie Eltern ihren Kindern manchmal auf ihre unzähligen Warum-Fragen antworten: „Es ist, wie es ist; du verstehst es sowieso nicht.“ Nein, hier enthüllt er etwas von seinem Wesen: Er war immer, existiert jetzt und wird immer sein. Er ist das Leben und die Kraft, die hinter allem steht. Er ist ewig. Wenn um uns herum alles variabel und relativ wird – Gott bleibt konstant und absolut. Gott ist treu, auf ihn ist Verlass. <br>​​​​​​​„Du, Herr, hast im Anfang die Erde gegründet, und die Himmel sind Werke deiner Hände. Sie werden untergehen, du aber bleibst; und sie alle werden veralten wie ein Gewand, und wie einen Mantel wirst du sie zusammenrollen, und sie werden verwandelt werden. Du aber bist derselbe, und deine Jahre werden nicht vergehen” (Hebräer 1,10-12).";
 }
-if(augustday === 220){
+if(augustday === 7){
     verse.innerHTML = "Ihr gingt in der Irre wie Schafe, aber ihr seid jetzt zurückgekehrt zu dem Hirten und Aufseher eurer Seelen.";
     headline_texte.innerHTML = "Heilung für die Seele";
     texte.innerHTML = "Ablehnung, Schmerz, Verzweiflung, Enttäuschung, mangelhaftes Selbstwertgefühl – Gefühle, die wir wahrscheinlich alle kennen. Verletzungen, die wir hinnehmen mussten. Folgen, an denen mancher von uns vielleicht heute noch zu knabbern hat. Im Ergebnis oft ein Selbstmitleid, das jede übrig gebliebene Energie ersticken will.<br>Doch Jesus Christus, der im heutigen Bibelvers als „Aufseher unserer Seelen“ bezeichnet wird, kann selbst schwerste Wunden heilen. Es spielt keine Rolle, wer uns verwundet hat oder wann. Wenn wir zu Jesus kommen und bei ihm Hilfe suchen, dann werden wir erleben, dass er uns Erleichterung und Frieden schenkt. Die „Therapie” basiert allerdings nicht auf der Suche nach den Schuldigen außerhalb von uns. Wir müssen schon bei uns selbst anfangen: Ich irrte umher. Nur so kann der Hirte unsere Seelen „heilen” und mit einem Blick ausstatten, der manches vergessen und uns die Dinge sehen lässt, die echte Lebensenergie geben, weil sie von Gott kommen und in Ewigkeit bleiben.";
 }
-if(augustday === 221){
+if(augustday === 8){
     verse.innerHTML = "Denkt in eurem Herzen nach ... und seid still!";
     headline_texte.innerHTML = "Sound of Silence";
     texte.innerHTML = "Samstags, 15:30 Uhr. Kurz vor Anpfiff. Die Fußballspieler versammeln sich gemeinsam im Kreis. Von jetzt auf gleich sind 80.000 Menschen, die bei Bretzel und Bratwurst beste Laune haben, ruhig. Es gibt eine Schweigeminute. Ein Erdbeben in der Türkei hat viele Menschenopfer gefordert, derer nun gedacht werden soll. Absolute Stille. Die Sekunden vergehen und je länger die Stille dauert, desto unwohler fühlen sich die Beteiligten. Denken wirklich alle an die Opfer oder wird nur ausgehalten, bis man endlich wieder laut sein darf? Seit Kurzem wird statt Schweigen ein gemeinsames Applaudieren geduldet, um die Stille der Minute nicht aushalten zu müssen.<br>Kennst du noch stille Zeiten? Ruhe zum Nachdenken? Im Smartphone-Zeitalter fällt das enorm schwer. Hörst du lieber Musik oder guckst dir eine Serie an, um die Stille nicht ertragen zu müssen? Trau dich, lass Stille zu und denk nach: Was zählt im Leben wirklich? Und wo geht die Reise hin?";
 }
-if(augustday === 222){
+if(augustday === 9){
     verse.innerHTML = "Damit ihr aber wisst, dass der Sohn des Menschen Gewalt hat, auf der Erde Sünden zu vergeben";
     headline_texte.innerHTML = "Aus dem Leben von Jesus – Vergebung";
     texte.innerHTML = "Jesus predigt in einem Haus. Durch unzählige Zuhörer ist das Haus schon brechend voll, als vier Freunde versuchen, einen Gelähmten zu ihm zu bringen. Es gibt kein Durchkommen! Was nun?<br>Die vier Freunde denken nicht ans Aufgeben. Sie gehen auf das Dach des Hauses und brechen es auf. Alles schaut nach oben. Was ist da los? Durch die Öffnung lassen sie den Gelähmten auf einer Trage direkt vor Jesus zu Boden. Jesus sieht den Mann an und sagt: „Deine Sünden sind vergeben.“ Einige Zuhörer denken empört: „Wer kann Sünden vergeben als nur einer, Gott?“ Jesus kennt ihre Gedanken und stellt eine Frage: „Was ist leichter zu sagen? Deine Sünden sind vergeben, oder: Steh auf und geh umher?“<br>Um zu zeigen, dass er tatsächlich die Macht hat, Sünden zu vergeben, sagt er zu dem Gelähmten: „Steh auf, nimm dein Bett und geh in dein Haus.“ Das Wunder geschieht. Der Gelähmte steht auf und geht. Jesus zeigt, dass er Gottes Sohn ist – gekommen, um Menschen die Sünden zu vergeben und sie zu retten.";
 }
-if(augustday === 223){
+if(augustday === 10){
     verse.innerHTML = "Lehre uns zählen unsere Tage, damit wir ein weises Herz erlangen!";
     headline_texte.innerHTML = "Wettlauf gegen die Zeit";
     texte.innerHTML = "Eine Fußballmannschaft, die kurz vor Abpfiff knapp zurückliegt, wirft sich noch mal mächtig ins Zeug, um wenigstens ein Unentschieden herauszuholen. Es beginnt ein Wettlauf gegen die Zeit. <br>Rettungsmannschaften, die im Erdbebengebiet nach Verschütteten suchen, befinden sich ebenfalls im Wettlauf gegen die Zeit, weil die Opfer unter den Trümmern ums Überleben kämpfen. <br>Jedes Menschenleben ist letztlich ein Wettlauf gegen die Zeit – nicht nur, weil man statistisch gesehen insgesamt ca. 80 Jahre zur Verfügung hat, sondern weil das Leben schon gleich zu Ende sein kann. <br>In dieser Zeit muss man Gott finden, sonst ist es zu spät. Deshalb heißt es in den Sprüchen des weisen Salomo: „Wer mich findet, hat das Leben gefunden und Wohlgefallen erlangt von dem HERRN. Wer mich aber verfehlt, tut seiner Seele Gewalt an” (Kap. 8,35.36). <br>Ein Wettlauf gegen die Zeit ist das Gegenteil davon, die Sache mit Gott auf die lange Bank zu schieben.";
 }
-if(augustday === 224){
+if(augustday === 11){
     verse.innerHTML = "Jesus Christus ist vor allen, und alle Dinge bestehen durch ihn.";
     headline_texte.innerHTML = "Gerade & heraus";
     texte.innerHTML = "An dieser Stelle ist eigentlich ein Video.";
 }
-if(augustday === 225){
+if(augustday === 12){
     verse.innerHTML = "Ich werde euch ein neues Herz geben und einen neuen Geist in euer Inneres geben.";
     headline_texte.innerHTML = "Besser als Concealer";
     texte.innerHTML = "Montagmorgen. Schlaftrunken schlurft Gina ins Bad – und ist schlagartig hellwach, als ihr aus dem Spiegel zwei Pandaaugen entgegenstarren. Hektisch wird die Make-up-Schublade durchgekramt. Unter der Foundation wollen die Augenringe noch nicht verschwinden. Nicht verzagen, Concealer auftragen! Noch ein bisschen Blush und Mascara – endlich kann Gina wieder lächeln.<br>Eine ganze Beautyindustrie lebt von unserem Hang, Macken zu verstecken. „Der Mensch sieht auf das Äußere“, sagt schon die Bibel, „aber der HERR sieht auf das Herz“ (1. Samuel 16,7). Letzteres verdrängt man gern. Peinlich, wenn Gott alle fiesen Gedanken oder unsere dreckigen Fantasien mitkriegen würde. Welcher „Abdeckstift“ hält vor Gottes Blick stand? Freundliches Auftreten vielleicht? Dritte-Welt-Spenden? Oder ehrenamtliches Engagement in der Kirche? Auf den Gute-Taten-Trick fällt Gott ganz bestimmt nicht rein. Hier muss etwas Größeres passieren als Fehlerkaschierung: Ein neues Herz muss her, ein sauberes, ein gutes.";
 }
-if(augustday === 226){
+if(augustday === 13){
     verse.innerHTML = "Bei all diesem sündigte Hiob nicht und schrieb Gott nichts Ungereimtes zu.";
     headline_texte.innerHTML = "Trotz Leid – Gott ehren?";
     texte.innerHTML = "Hiob – ein Mann aus der Bibel, der als tiefgläubig und fromm beschrieben wird. Vom Bösen hielt er sich fern, wie man es heute von einem authentischen Christen erwarten würde. <br>Hiob gehörte zu den Reichen: 10 Kinder, mehr als 11.000 Tiere und jede Menge Angestellte <br>Plötzlich ein schwerer Schicksalsschlag: Hiob verlor alles, wirklich alles: seine Kinder durch ein Unglück und seine Tiere durch einen feindlichen Überfall. <br>„Wie kann Gott das zulassen?”, fragt man heute vielfach. „Nein, mit Gott möchte ich nichts zu tun haben.” Und wie reagierte Hiob?” Bei all diesem sündigte Hiob nicht und schrieb Gott nichts Ungereimtes zu” (siehe Tagesvers). <br>Es dauerte nicht lange, da wurde Hiob schwer krank. Er hatte Geschwüre – so schlimm, dass sogar seine Freunde ihn nicht wiedererkannten. Die Empfehlung seiner Frau: „Sage dich los von Gott und stirb!” Hiob entgegnete: „Wir sollten das Gute von Gott annehmen, und das Böse sollten wir nicht auch annehmen? Bei all diesem sündigte Hiob nicht mit seinen Lippen” (Hiob 2,9.10).";
 }
-if(augustday === 227){
+if(augustday === 14){
     verse.innerHTML = "Meine Wege habe ich erzählt, und du hast mich erhört; lehre mich deine Satzungen!";
     headline_texte.innerHTML = "Bibellesen oder Beten?";
     texte.innerHTML = "Im 19. Jahrhundert wurde dem bekannten englischen Evangelisten Charles Haddon Spurgeon einmal folgende Frage gestellt: „Was ist wichtiger, Bibellesen oder Beten?“ Ohne lange zu zögern, antwortete der erfahrene Prediger mit einer Gegenfrage: „Was ist wichtiger, Einatmen oder Ausatmen?“<br>Wir Menschen sind von Gott so angelegt, dass wir beides brauchen. Dasselbe gilt für das Glaubensleben: Durch die Bibel lassen wir Gott zu uns sprechen, und wenn wir Beten, sprechen wir zu ihm.<br>Doch die Bibel ist so dick. Wo soll ich da anfangen sie zu lesen? Du musst nicht unbedingt vorne anfangen. Nimm dir zuerst das Evangelium von Markus vor. Es hat nur 16 Kapitel und gibt dir einen Überblick über das vollkommene Leben von Jesus.<br>Aber ich weiß nicht, wie ich beten soll. Du brauchst kein Gebetsbuch. Sprich mit ihm, ehrlich, offen und ehrfürchtig. Er hört!";
 }
-if(augustday === 228){
+if(augustday === 15){
     verse.innerHTML = "Jesus sprach aber zu allen: Wenn jemand mir nachkommen will, so verleugne er sich selbst und nehme täglich sein Kreuz auf und folge mir nach.";
     headline_texte.innerHTML = "Mensch & mutig";
     texte.innerHTML = "An dieser Stelle ist eigentlich ein Einblick in das Leben eines Christen.";
 }
-if(augustday === 229){
+if(augustday === 16){
     verse.innerHTML = "Das Herz dieses Volkes ist dick geworden … ihre Augen haben sie geschlossen, damit sie nicht etwa mit den Augen sehen und sich bekehren.";
     headline_texte.innerHTML = "Ich glaube nur an das, was ich sehe";
     texte.innerHTML = "Wenn man sich mit Menschen über den Glauben unterhält, dann hört man immer mal wieder: „Ich glaube nur an das, was ich sehe.“ <br>Glauben wir das wirklich? Wie ist es zum Beispiel mit dem Wind? Oder mit dem Strom? <br>Matthias Claudius hat es seinerzeit treffend formuliert: <br>Seht ihr den Mond dort stehen? <br>Er ist nur halb zu sehen <br>und ist doch rund und schön. <br>So sind wohl manche Sachen, <br>die wir getrost belachen, <br>weil unsere Augen sie nicht sehn. <br>Auch Gott kann man nicht sehen. Aber mit bloßem Auge ist sowohl seine ewige Kraft zu erkennen als auch seine Göttlichkeit, die seit Erschaffung der Welt in dem Gemachten wahrgenommen werden kann (Römer 1,20). <br>Kann es sein, dass wir nur das glauben, was wir sehen wollen?";
 }
-if(augustday === 230){
+if(augustday === 17){
     verse.innerHTML = "Das Endergebnis des Ganzen lasst uns hören: Fürchte Gott und halte seine Gebote; denn das ist der ganze Mensch.";
     headline_texte.innerHTML = "Lesen & staunen";
     texte.innerHTML = "An dieser Stelle ist eigentlich eine Buchempfehlung.";
 }
-if(augustday === 231){
+if(augustday === 18){
     verse.innerHTML = "Der Hohn hat mein Herz gebrochen, und ich bin ganz elend; und ich habe auf Mitleid gewartet, und da war keins, und auf Tröster, und ich habe keine gefunden.";
     headline_texte.innerHTML = "Seltsame Zeugen (3) – Ohne Mitleid";
     texte.innerHTML = "Die aufgehetzte Menge johlt ihre Zustimmung: Jesus soll gekreuzigt werden! Unheimlich, diese böse Dynamik in einer kopflosen Masse, in der kein Einziger den allerleisesten Grund für eine solche Forderung hat. <br>Pilatus beugt sich dem Druck der Hetzer und der Aufgehetzten: Jesus von Nazareth wird gefoltert und gekreuzigt. <br>Die Zuschauer haben kein Mitleid, gar keins. Sie spotten. Alle. Die Ankläger, die Masse, sogar die mit Jesus gekreuzigten Verbrecher. „Steig herab vom Kreuz, dann wollen wir an dich glauben! Bist du Gottes Sohn, so beweise es!“ <br>Eine wahrhaft teuflische Versuchung! Denn Jesus, der Herr, der Schöpfer, der Sohn Gottes, könnte in jedem einzelnen Moment die grauenvolle „Mission Kreuz“ abbrechen. Es liegt in seiner Hand. <br>Doch er tut es nicht! Um Gottes Ehre willen und zu unserer Rettung, auch zu deiner!";
 }
-if(augustday === 232){
+if(augustday === 19){
     verse.innerHTML = "Die Hoffnung, die wir als einen sicheren und festen Anker der Seele haben.";
     headline_texte.innerHTML = "Was schreibt ein Atheist?";
     texte.innerHTML = "Stell dir vor, der Freund eines Atheisten hat gerade die Diagnose erhalten, todkrank zu sein. Der Atheist ist erschrocken und will ihm eine Nachricht schicken. Was könnte er ihm schreiben? „Keine Sorge, wenn du stirbst, ist doch eh alles aus“? „Nimm es nicht so schwer, du hattest doch ein tolles Leben!“? „Viele waren schon krank und sind gestorben“? „Das Sterben ist nicht schlimm, du wirst einfach in deine Atome zerfallen“?<br>Wie sinn- und hoffnungslos ist ein Leben ohne Gott! Wie reich und getröstet dagegen das Leben der Gläubigen! Sie wissen, dass das Schönste noch kommt: für immer bei Jesus Christus im Himmel zu sein.<br>Unser Herr Jesus Christus und Gott, unser Vater, der uns geliebt und uns ewigen Trost und gute Hoffnung gegeben hat durch die Gnade.<br>Nach 2. Thessalonicher 2,16";
 }
-if(augustday === 233){
+if(augustday === 20){
     verse.innerHTML = "Alle Schrift ist von Gott eingegeben und nützlich zur Lehre, zur Überführung, zur Zurechtweisung, zur Unterweisung in der Gerechtigkeit …";
     headline_texte.innerHTML = "Die Bibel ist Gottes Wort";
     texte.innerHTML = "Die Bibel ist ein besonderes Buch. Obwohl dieses Buch aus 66 einzelnen Büchern besteht und mindestens 40 Schreiber über einen Zeitraum von ca. 1500 Jahren an seiner Entstehung mitwirkten, ist es wie aus einem Guss geschrieben; kein Buch der Weltgeschichte wurde so oft gelesen, übersetzt, verkauft oder gedruckt. <br>Die Bibel ist Gottes Botschaft an uns Menschen. Dabei ist die Bibel von Gott inspiriert. „Inspiriert“ bedeutet so viel wie „eingehaucht“. Gott benutzte die Schreiber der Bibel über viele Jahrhunderte hinweg, um seine Worte aufschreiben zu lassen. Jedes einzelne Wort wurde von Gott eingegeben (man nennt das auch „Verbalinspiration”) und doch spiegelt jedes einzelne Buch der Bibel den Charakter und die Umstände des jeweiligen Schreibers wider, den Gott benutzt hat. <br>Die Bibel enthält nicht nur Worte Gottes, sondern sie ist Gottes Wort. Weil Gott selbst der Autor ist, ist die Bibel unfehlbar und besitzt absolute Autorität.";
 }
-if(augustday === 234){
+if(augustday === 21){
     verse.innerHTML = "Jesus spricht: Ich bin der Weg und die Wahrheit und das Leben.";
     headline_texte.innerHTML = "Ich bin die Wahrheit";
     texte.innerHTML = "Der Anspruch Jesu „Ich bin die Wahrheit!“ ist einzigartig. Er unterscheidet sich grundlegend von allen anderen „Wahrheitsmodellen”. <br>Er behauptet nicht nur: <br>„Ich sage die Wahrheit“ – wie ein Prophet; oder <br>„Ich entfalte die Wahrheit“ – wie ein Lehrer; oder <br>„Ich vertrete die Wahrheit“ – wie ein Märtyrer. <br>Nein! Jesus beansprucht für sich selbst: „Ich bin die Wahrheit”, bin sie in meiner Person. Im christlichen Glauben geht es also nicht um ein Programm, eine Lehre oder ein neues Menschenbild. Nein, im Zentrum steht eine Person: Jesus Christus. In ihm ist die Wahrheit Gottes in Person zu uns Menschen gekommen. Deshalb können wir in Jesus die Wahrheit über Gott und Menschen erkennen. <br>Diese Person sagt aber auch: „Ich bin der Weg“ und „ich bin das Leben”. In ihm finden wir also alles, was für unseren Weg zu Gott brauchen!";
 }
-if(augustday === 235){
+if(augustday === 22){
     verse.innerHTML = "Alle haben gesündigt und erreichen nicht die Herrlichkeit Gottes und werden umsonst gerechtfertigt durch seine Gnade, durch die Erlösung, die in Christus Jesus ist.";
     headline_texte.innerHTML = "Gefühl und Wirklichkeit";
     texte.innerHTML = "In meiner Wetter-App werden zwei unterschiedliche Temperaturen angegeben: die gefühlte Temperatur und die tatsächliche. Die Angaben für heute: „Die Temperatur fühlt sich aktuell an wie -4°, tatsächlich sind es aber 0°“. Aha, es gibt also einen Unterschied zwischen gefühlter und tatsächlicher Wirklichkeit. Im Leben scheint es mir auch so eine Rubrik „gefühlt“ zu geben. Da könnte es heißen: Dein Leben fühlt sich aktuell richtig gut an, aber ist es auch wirklich gut, was ich mache? <br>Da lob ich mir das Barometer „Bibel”. Hier kann ich meine Gefühlswelt abgleichen und sehen, was wirklich stimmt. Und tatsächlich, sie macht deutlich: Wer ohne Gott lebt, geht verloren. Klingt wie eine Unwetterwarnung, aber ich weiß wenigstens, wo ich dran bin. <br>Und die Prognose für mich? Jeder Glaubende, der die Erlösung in Christus Jesus für sich annimmt, wird freigesprochen. Das fühlt sich nicht nur gut an – das ist richtig gut!";
 }
-if(augustday === 236){
+if(augustday === 23){
     verse.innerHTML = "Wenn nun der Sohn euch frei macht, werdet ihr wirklich frei sein.";
     headline_texte.innerHTML = "Endlich frei?";
     texte.innerHTML = "Als Menschen streben wir von Jugend an nach Freiheit und Unabhängigkeit im Leben – ein selbstbestimmtes Leben ist unser Ideal. <br>Jesus hingegen sagt, dass wahre Freiheit nur in ihm zu finden ist. Er sagt auch, dass Sünde und Schuld uns binden. Wir sind nicht frei, wenn wir Schlechtes tun, das wir nicht lassen können. Alkohol, Sex und Drogen können uns ungeheuer fest im Griff haben. Auch Ängste können uns die Freiheit rauben, weil wir falsch über Gott, über uns selbst oder über andere denken. Das sind nur ein paar Beispiele für freiheitsraubende Zwänge. <br>Doch Jesus kam in die Welt, um „Gefangenen Befreiung auszurufen und Zerschlagene in Freiheit hinzusenden” (Lukas 4,18). Dafür starb er sogar am Kreuz. <br>Wer die Befreiung angenommen hat, lässt sich von Gott und seinem Wort leiten und sein Leben von ihm gestalten. Ja, das bindet uns an ihn. Aber diese Bindung ist die größte Freiheit, die Menschen erleben können.";
 }
-if(augustday === 237){
+if(augustday === 24){
     verse.innerHTML = "Jesus Christus spricht: Ich bin nicht gekommen, Gerechte zu rufen, sondern Sünder.";
     headline_texte.innerHTML = "Aus dem Leben von Jesus – Zöllner und Sünder";
     texte.innerHTML = "Jesus kommt an einem Zollhaus vorbei. Dort sitzt Levi und geht seiner Arbeit nach. Er ist Jude, steht aber im Dienst der römischen Besatzungsmacht und treibt deren Steuern ein. Kein Wunder, dass seine Landsleute ihn verachten. Jesus spricht ihn an: „Folge mir nach!“ Levi steht auf. Dieser Jesus zieht ihn so an, dass er alles stehen und liegen lässt und ihm folgt. Jesus wird sein neuer Herr und zugleich sein Vorbild. Levi macht Jesus ein großes Mahl, und weil er möchte, dass auch seine ehemaligen Arbeitskollegen ihn kennenlernen, sind auch viele Zöllner dabei. <br>Da regt sich Widerstand: Die religiöse Elite kann nicht fassen, dass Jesus und seine Jünger mit „Zöllnern und Sündern“ essen. Sie selbst würden das niemals tun. Doch Jesus ist anders. Er sagt dazu: „Nicht die Gesunden brauchen einen Arzt, sondern die Kranken; ich bin nicht gekommen, Gerechte zu rufen, sondern Sünder zur Buße.“ Es ist seine Liebe, die diesen verachteten Zöllnern und Sündern begegnet. Für sie gibt es mehr Hoffnung als für die selbstgerechten Pharisäer.";
 }
-if(augustday === 238){
+if(augustday === 25){
     verse.innerHTML = "Jesus sprach zu ihnen: Geht hin in die ganze Welt und predigt der ganzen Schöpfung das Evangelium. Wer da glaubt und getauft wird, wird errettet werden; wer aber nicht glaubt, wird verdammt werden.";
     headline_texte.innerHTML = "Live & farbig";
     texte.innerHTML = "An dieser Stelle ist eigentlich ein Livestream.";
 }
-if(augustday === 239){
+if(augustday === 26){
     verse.innerHTML = "Woher kommen Kriege und woher Streitigkeiten unter euch? Nicht daher: aus euren Begierden, die in euren Gliedern streiten?";
     headline_texte.innerHTML = "Dem Frieden nachjagen";
     texte.innerHTML = "Im Jahr 2022 gab es ca. 40 ausgewachsene Kriege und weitere 170 sogenannte gewaltsame Krisen. Über 100 Millionen Menschen waren auf der Flucht. Frieden? Unvorstellbar! Dabei hat Jesus Christus uns gelehrt, dass wir Frieden miteinander haben und unsere Feinde lieben sollen. <br>Was bedeutet „Frieden“ eigentlich? Frieden bedeutet nicht nur, dass es keine Kriege oder Konflikte gibt. Es geht in erster Linie um unser Inneres. Jeder Konflikt hat den Ursprung letztlich dort, wo der Sitz unserer Begierden ist – so nennt es die Bibel in unserem Tagesvers. Wenn unser Herz mit dem Gott des Friedens in Einklang ist, wenn wir Frieden mit Gott haben, ist für die Lust auf Streit in unserem Inneren kein Platz mehr. <br>Wenn wir in der Nachfolge Jesu unterwegs sind, sind wir aufgerufen, Frieden zu stiften. „Suche Frieden und jage ihm nach”, sagt der Apostel Petrus (1. Petrus 3,11). Im Hinblick auf die Menschen, die uns täglich umgeben, ist das eine wichtige Aufforderung!";
 }
-if(augustday === 240){
+if(augustday === 27){
     verse.innerHTML = "Wem wollt ihr Gott vergleichen?";
     headline_texte.innerHTML = "Gottesbilder";
     texte.innerHTML = "Mit einer Portion Ironie nennt Jesaja zwei Antwortmöglichkeiten auf die Frage: „Wem wollt ihr Gott vergleichen?“<br>1. Der Luxus-Gott: „Hat der Künstler das Bild gegossen, so überzieht es der Schmelzer mit Gold und schweißt silberne Ketten daran“ (Jesaja 40,19).<br>2. Der Arme-Leute-Gott: „Wer arm ist, sodass er nicht viel opfern kann, der wählt ein Holz, das nicht fault; er sucht sich einen geschickten Künstler, um ein Bild herzustellen, das nicht wankt“ (V. 20).<br>Ganz im Ernst macht Jesaja an gleicher Stelle klar, dass Gott kein kreativ-totes Kunstwerk ist, sondern von unermesslicher Größe. Er fragt:<br>​​​​​​​Größe. Er fragt: „Wer hat die Wasser gemessen mit seiner hohlen Hand und die Himmel abgegrenzt mit der Spanne und hat den Staub der Erde in ein Maß gefasst und die Berge mit der Waage gewogen und die Hügel mit Waagschalen?“ (V. 12). Gottes Größe ist wirklich unfassbar!";
 }
-if(augustday === 241){
+if(augustday === 28){
     verse.innerHTML = "Wir müssen alle vor dem Richterstuhl des Christus offenbar werden, damit jeder empfange, was er in dem Leib getan hat, nach dem er gehandelt hat, es sei Gutes oder Böses.";
     headline_texte.innerHTML = "31er (Einunddreißiger)";
     texte.innerHTML = "Einundreißiger!“ Schon einmal gehört? Die Bezeichnung spielt auf §31 des deutschen Betäubungsmittelgesetzes an. Er sieht vor, dass die Strafe für einen Täter gemildert wird, wenn er mit den Richtern kooperiert und zum Beispiel weitere Täter nennt. Er wird dann von anderen als Verräter oder eben „31er“ abgestempelt. ​​​​​​​Wenn unser Leben hier auf der Erde zu Ende ist, werden wir im Gerichtssaal vor Jesus Christus erscheinen. Wir werden auf unser Leben mit einer Menge von Straftaten zurückblicken. Sicher würden uns Menschen aus unserem Umfeld einfallen, die genauso so böse wie wir gehandelt haben – oder sogar noch schlimmer. Doch das wird dann keine Rolle spielen. Paragraph 31 wird nicht funktionieren. Keine Chance auf Strafmilderung durch Kooperation und Verrat. Gott ist ein gerechter Richter. Keine Sünde wird ignoriert. Es gibt nur eine einzige Lösung: Freispruch durch Jesus Christus selbst. Wer ihn heute als Retter kennt, wird ihn nie als Richter erleben.";
 }
-if(augustday === 242){
+if(augustday === 29){
     verse.innerHTML = "Der Gerechte wird aus Glauben leben.";
     headline_texte.innerHTML = "Entdeckung in der Nacht";
     texte.innerHTML = "Der junge Augustinermönch traute seinen Augen nicht! Wieder las er bis in die Nacht im Klosterturm in der Bibel. Doch diesmal war er auf einen Satz gestoßen, der sein Leben für immer verändern sollte. „Kann das wirklich wahr sein?“, murmelte er leise vor sich hin. <br>Seit Jahren quälte den jungen Mönch der Gedanke an seine eigene Lebensschuld. Doch er spürte, dass er nicht genug gute Werke vollbringen konnte, um dem Strafgericht Gottes zu entgehen. Nun las er im schwachen Kerzenlicht: „Der Gerechte wird aus Glauben leben.“ Er wusste, dass es um das ewige Leben bei Gott ging, das er sich so sehr wünschte. Es sind also nicht die guten Werke, durch die man das Heil bekommt, sondern durch Glauben an den Retter Jesus Christus. Jetzt fing er an zu begreifen, worin die Gerechtigkeit Gottes besteht: Gott spricht jeden Menschen frei, der glaubt, dass Gott seinen Sohn für fremde Schuld sterben ließ. – Das war der Durchbruch im Leben dieses Mönchs mit Namen Martin Luther.";
 }
-if(augustday === 243){
+if(augustday === 30){
     verse.innerHTML = "Mose baute dem Herrn einen Altar und gab ihm den Namen: „Der Herr ist mein Banner!“";
     headline_texte.innerHTML = "Namen Gottes im Alten Testament – Jahwe-Nissi";
     texte.innerHTML = "Das Volk Israel ist in der Wüste unterwegs, nachdem Gott sie kurz zuvor aus der Sklaverei im Land Ägypten befreit hatte. <br>Nach relativ kurzer Zeit wird das Volk in unwirtlichem Gelände von Feinden angegriffen. Während Mose mit dem Stab Gottes auf einen nahe gelegenen Hügel steigt, führt Josua, Moses Diener, die Soldaten des Volkes Israel im Gefecht an. <br>Im Blick auf diese „hybride Kampfführung” wird ein interessantes Detail berichtet: Solange Mose seine Arme hochhält, hat Israel im Kampf die Oberhand; sobald er sie sinken lässt, werden die Feinde wieder stark. Schließlich werden die Feinde mit Gottes Hilfe besiegt und Mose baut einen Altar mit dem Namen: Jahwe-Nissi („der HERR ist mein Banner!“). <br>Auch im Leben von Christen gibt es immer wieder Anfeindungen und Probleme. Doch in Jesus, dem lebenden Herrn, haben wir eine wunderbare Hilfe – „oben” im Himmel und bei uns. Gern stellen wir uns unter seine Flagge.";
 }
-if(augustday === 244){
+if(augustday === 31){
     verse.innerHTML = "Wer mich findet, hat das Leben gefunden und Wohlgefallen erlangt von dem HERRN.";
     headline_texte.innerHTML = "Das wahre Leben finden";
     texte.innerHTML = "Endlich! Der heiß ersehnte Urlaub. Den ganzen Stress der Arbeit vergessen und einfach nur entspannen. Ist das ein wunderbares Leben! Wenn es doch immer so sein könnte … <br>Nach zwei wunderbaren Wochen kommst du aus dem Urlaub zurück und könntest gleich noch mal los. Bald schon wird der nächste Urlaub geplant oder wenigstens ein verlängertes Wochenende … <br>Alles wird versucht, um glücklich zu sein, aber selbst der genialste Urlaub stillt unsere Sehnsucht nach Frieden, Glück und Erfüllung nicht auf Dauer. Es ist wie beim Trinken an einem heißen Sommertag: Das Wasser stillt den Durst für kurze Zeit, aber der Durst kommt schnell wieder. <br>In der Bibel stellt sich Jesus Christus als „das Leben” vor (Johannes 14,6) und er zeigt, dass es darauf ankommt, eine Beziehung zu ihm zu haben. Er ist auf die Erde gekommen, um unseren Lebensdurst für immer zu stillen. Wer ihn findet, hat das Leben gefunden.";
@@ -1503,152 +1503,152 @@ if(month === 9){
 
     console.log(septemberday);
 }
-if(septemberday === 245){
+if(septemberday === 1){
     verse.innerHTML = "Er sprach zu Jesus: Gedenke meiner, Herr, wenn du in deinem Reich kommst! Und Jesus sprach zu ihm: Wahrlich, ich sage dir: Heute wirst du mit mir im Paradies sein.";
     headline_texte.innerHTML = "Seltsame Zeugen (4) – Johannes, die Frauen, der Verurteilte";
     texte.innerHTML = "Vorbei die Tage, als Jesus von hilfesuchenden Menschenmengen geradezu verfolgt wird. Von denen, die von ihm profitiert haben, ist niemand mehr da. Überhaupt niemand? Doch halt, da stehen die Frauen, die Jesus von Galiläa aus auf seinen Reisen begleitet haben. Darunter auch Maria, die Mutter Jesu und Maria aus Magdala. Und ein Einziger von den Jüngern: Johannes, vermutlich der Jüngste von ihnen. Sie harren aus, sie halten aus. Ertragen irgendwie das Unerträgliche, das sie mitansehen müssen. Ein kleiner Trost für Jesus? Ganz bestimmt. <br>Da meldet sich der eine Verurteilte, der mit Jesus hingerichtet wird, zu Wort. Eben noch hat er mit gespottet, doch jetzt weist er die Spötter zurecht. „Herr“, sagt er zu Jesus. „Herr, denke an mich.“ Dieser Mann hat irgendwie einen Blick für die herrliche Wirklichkeit hinter dieser äußerlich völlig trostlosen Szene bekommen. Das Versprechen, das er von Jesus bekommt, ist wundervoll.";
 }
-if(septemberday === 246){
+if(septemberday === 2){
     verse.innerHTML = "Eng ist die Pforte und schmal der Weg, der zum Leben führt, und wenige sind, die ihn finden.";
     headline_texte.innerHTML = "Der Zug zum Tor";
     texte.innerHTML = "Sepp Herberger war Bundestrainer der Fußball-Nationalmannschaft (von 1950–1964). <br>Einem seiner Spieler schrieb er: „Ich vermisse in Ihrem Spiel den zielstrebigen Zug zum Tor und den Torschuss. Immer und immer wieder muss ich Ihnen sagen, dass zum erstklassigen Spieler und zum erstklassigen Spiel eben auch der abschließende Torschuss gehört!“ Er beendete seinen Brief mit den Worten: „Hier muss vieles besser werden“. <br>Auch viele Menschen lassen den „Zug zum Tor“ vermissen: Manche leben erstklassig, andere lassen sich durchs Leben treiben, und wieder andere haben es schwer. Eins haben sie gemeinsam: Sie vergessen das Ziel ihres Lebens, „sie treffen nicht“ (in der Sprache der Fußballer), um dann wirklich etwas in den Händen zu haben. Um etwas Bleibendes mitzunehmen. <br>Du vielleicht auch? „Wer an den Sohn glaubt, hat ewiges Leben“ (Johannes 3,36). Das kann sich sehen lassen. Und das bleibt.";
 }
-if(septemberday === 247){
+if(septemberday === 3){
     verse.innerHTML = "Wem wollt ihr Gott vergleichen? Er ist der Schöpfer der Enden der Erde; … unergründlich ist sein Verstand. ";
     headline_texte.innerHTML = "Unergründlich";
     texte.innerHTML = "Im sichtbaren Universum gibt es laut einer Hochrechnung von Forschern ca. 70 Trilliarden Sterne (eine 70 mit 21 Nullen). Schätzungsweise gibt es auf unserem Planeten ca. 15 Millionen Tierarten – von denen aber bislang nur etwa 1,8 Millionen Millionen bekannt und wissenschaftlich beschrieben sind. Gott ruft jeden der unzähligen Sterne mit Namen (Jesaja 40,26) und er kennt jede noch so kleine Insektenart im Amazonas-Regenwald ganz genau, weil er der Schöpfer ist. <br>Gott selbst ist für unsere menschlichen Augen zwar unsichtbar, aber sein unergründlicher Verstand lässt sich in der Schöpfung bewundern – im Makro- wie im Mikrokosmos. Das zeigt auch ein anderer Bibelvers sehr deutlich: <br>Das Unsichtbare von ihm (Gott) wird geschaut, sowohl seine ewige Kraft als auch seine Göttlichkeit, die von Erschaffung der Welt an in dem Gemachten wahrgenommen werden – damit sie (die Menschen) ohne Entschuldigung seien (Römer 1,20).";
 }
-if(septemberday === 248){
+if(septemberday === 4){
     verse.innerHTML = "Die nun sein Wort aufnahmen, wurden getauft. Sie verharrten aber in der Lehre der Apostel und in der Gemeinschaft, im Brechen des Brotes und in den Gebeten.";
     headline_texte.innerHTML = "Die Glaubensfamilie – Gemeinde Gottes";
     texte.innerHTML = "Das Leben als Christ ist keine Soloveranstaltung. Christen sind keine Einzelgänger, sondern gehen gemeinsam durchs Leben. Christen gehören zusammen und bilden eine große Familie. <br>Die ersten Christen in Jerusalem trafen sich regelmäßig, um ihre Zeit miteinander zu teilen, zu beten, das Abendmahl zu halten und Gottes Wort zu hören. Als sich das Christentum weiter ausbreitete, entstanden an vielen Orten Gemeinden: in Ephesus (Türkei), Korinth (Griechenland), Rom (Italien) und noch weit darüber hinaus. Überall lebten die Gläubigen miteinander und trafen sich zu den Gottesdiensten. Das ist bis heute so. <br>Bist du auf der Suche nach Gemeinschaft mit Christen? Dann bitte den Herrn Jesus, dir zu zeigen, wo Christen sind, die sich an die Lehre der Apostel in den Briefen des Neuen Testaments halten. Denn darauf basieren die drei weiteren Bestandteile des Gemeindelebens: Gemeinschaft, Abendmahl und Gebete. – Gemeinde Gottes zu erleben ist ein großer Segen!";
 }
-if(septemberday === 249){
+if(septemberday === 5){
     verse.innerHTML = "Pilatus wollte der Volksmenge einen Gefallen tun, er ließ ihnen Barabbas frei und überlieferte Jesus, nachdem er ihn hatte geißeln lassen, damit er gekreuzigt würde.";
     headline_texte.innerHTML = "Die Hände in Unschuld waschen";
     texte.innerHTML = "Eine bizarre Situation: Jesus auf der einen Seite – „der Gerechte“, wie Pilatus ihn nennt. Auf der anderen Seite Pilatus, der Ungerechte, der sich als Richter an dem Fall Jesus nicht die Finger schmutzig machen will. Also wäscht er sich nach dem Verhör vor allen die Hände und teilt mit: „Ich bin schuldlos an dem Blut dieses Gerechten“ (Matthäus 27,24). <br>Wirklich Pilatus? Wieso lässt du dann den Gerechten auspeitschen? Wieso machst du mehrfach deutlich, dass du keine Schuld an Jesus findest und lässt ihn trotzdem kreuzigen? Du bist weder schuldlos noch bist du deine Schuld los. Du wusstest genau, dass man Jesus aus Neid angeklagt hatte. Du hattest die Juden doch durchschaut. Deine Frau hat dich noch gewarnt, nichts zu schaffen zu haben mit jenem Gerechten. An deinen Fingern klebt Blut – da kannst du sie noch so oft waschen. <br>​​​​​​​Wir sind nicht besser als Pilatus. Wir haben uns an Gott schuldig gemacht, weil wir seine Gebote übertreten haben. Da hilft nur ein aufrichtiges Bekenntnis.";
 }
-if(septemberday === 250){
+if(septemberday === 6){
     verse.innerHTML = "Meine Stärke und mein Gesang ist Jah, denn er ist mir zur Rettung geworden; dieser ist mein Gott, und ich will ihn verherrlichen, meines Vaters Gott, und ich will ihn erheben.";
     headline_texte.innerHTML = "Lied & lebendig";
     texte.innerHTML = "An dieser Stelle ist eigentlich ein Lied.";
 }
-if(septemberday === 251){
+if(septemberday === 7){
     verse.innerHTML = "Rufe zu mir, und ich will dir antworten und will dir große und unerreichbare Dinge kundtun, die du nicht weißt.";
     headline_texte.innerHTML = "Keine Antwort in Vegas";
     texte.innerHTML = "1999. Der Schauspieler David Strickland zieht durch die Stripclubs in der Spielerstadt Las Vegas. Tagelang ist er auf Partys aufzufinden. Bis zum 22. März. In dem Motel Oasis wird Strickland tot aufgefunden. Er hat sich erhängt. Warum das nach einer scheinbar erlebnisreichen Suche nach dem Glück?<br>In einem Abschiedsbrief eines anderen Selbstmörders in Las Vegas findet sich der vielsagende Satz: „Hier gibt es keine Antworten!“ Und tatsächlich: In einem Leben ohne Gott gibt es auf viele Fragen keine Antworten. Die wirklich großen Fragen bleiben unbeantwortet, zum Beispiel:<br>• Woher komme ich?<br>• Wohin gehe ich?<br>• Wofür lebe ich?<br>• Warum gibt es Leid in dieser Welt?<br>• Warum wird Macht missbraucht?<br>• Woher kommt der Moralbegriff?<br>​​​​​​​Gott gibt Antworten, vor allem durch die Bibel. Deshalb wende dich an ihn und er wird dir antworten!";
 }
-if(septemberday === 252){
+if(septemberday === 8){
     verse.innerHTML = "Durch die Gnade seid ihr errettet, mittels des Glaubens; und das nicht aus euch, Gottes Gabe ist es; nicht aus Werken, damit niemand sich rühme.";
     headline_texte.innerHTML = "Gerade & heraus";
     texte.innerHTML = "An dieser Stelle ist eigentlich ein Video.";
 }
-if(septemberday === 253){
+if(septemberday === 9){
     verse.innerHTML = "Willst du gesund werden?";
     headline_texte.innerHTML = "Aus dem Leben von Jesus – Gesund";
     texte.innerHTML = "„Willst du gesund werden?“ Jesus schaut eine Person an, die seit 38 Jahren schwer krank ist. Mit vielen anderen Kranken liegt sie an einem Teich in Jerusalem. Von Zeit zu Zeit bewegt ein Engel das Wasser dort. Und wem es gelingt, als Erstes ins Wasser zu kommen, wird geheilt. Deshalb lautet die Antwort des Kranken: „Herr, ich habe keinen Menschen, dass er mich, wenn das Wasser bewegt worden ist, in den Teich wirft.“ Andere sind immer schneller als er. <br>„Willst du gesund werden?” Die Frage bleibt offen, weil der Kranke noch nicht realisiert, wer ihn gefragt hat. Jesus sieht ihn erneut an und sagt zu ihm: „Steh auf, nimm dein Bett auf und geh umher!“ Doch jetzt hören wir keine ausweichende Antwort. Jetzt begreift der Kranke, dass er geheilt worden ist. Er glaubt der Aufforderung Jesu und steht auf, nimmt sein Bett und läuft herum. <br>​​​​​​​Jesus tritt auch in unser Leben, will etwas verändern, will einen Neuanfang schenken. Trauen wir es ihm zu, selbst wenn die Lage hoffnungslos aussieht?";
 }
-if(septemberday === 254){
+if(septemberday === 10){
     verse.innerHTML = "Heute, wenn ihr seine Stimme hört, verhärtet eure Herzen nicht.";
     headline_texte.innerHTML = "Zu spät";
     texte.innerHTML = "Am Flughafen: Ein Paar kommt zu spät zum Boarding. Doch das Gate ist schon geschlossen. Die beiden diskutieren lange mit der Flughafenangestellten, doch vergebens. „Ich habe Sie doch dreimal aufgerufen, warum sind Sie denn nicht gekommen?“ Die beiden haben seelenruhig in der Abflughalle gesessen und die Durchsage leider nicht wahrgenommen. Drei Durchsagen, drei Chancen – nun ist das Gate geschlossen. Das sichtlich enttäuschte Paar realisiert langsam: „Das Flugzeug wird ohne uns starten.” – Zu spät!<br>Ein solches „Zu spät!“ ist ärgerlich, aber zu verkraften. Wenn es allerdings darum geht, unsere Sache mit Gott zu regeln, wäre ein „Zu spät!” fatal. Solange das Zeitfenster dafür noch offen ist, muss man handeln. Spätestens beim Tod wird es geschlossen: „Und ebenso wie es den Menschen gesetzt ist, einmal zu sterben, danach aber das Gericht …“ (Hebräer 9,27). Sorge dafür, dass du niemals von Gott hören musst: „Zu spät“.";
 }
-if(septemberday === 255){
+if(septemberday === 11){
     verse.innerHTML = "Wer auf sein Herz vertraut, der ist ein Tor (ein Narr oder Dummkopf).";
     headline_texte.innerHTML = "Folge deinem Herzen";
     texte.innerHTML = "Stell dir vor, du wirst mitten in der Wüste ausgesetzt. Ohne Smartphone, Karte und Kompass. Nur mit dem Ratschlag: Folge deinem Herzen, dann findest du den richtigen Weg! Wäre das nicht absurd? – Es wäre Mord! Du würdest hoffnungslos zugrunde gehen. <br>Aber ergeht es dir bei deiner Lebensplanung nicht ähnlich? Auf Ratschläge von Älteren oder sonstigen Spießern zu hören, ist out. Die Devise lautet: Vertrau auf dein Gefühl! Glaub an dich! Geh deinen Weg, egal was andere denken. <br>Aber Hand aufs Herz: Suchen wir nicht alle nach Orientierung, nach Vorbildern, nach Inspiration? Nach jemand, der uns sagt, wo es langgeht? <br>Aber Hand aufs Herz: Suchen wir nicht alle nach Orientierung, nach Vorbildern, nach Inspiration? Nach jemand, der uns sagt, wo es langgeht? <br>Folge nicht deinem Herzen, sondern ihm!";
 }
-if(septemberday === 256){
+if(septemberday === 12){
     verse.innerHTML = "Kein Geschöpf ist vor ihm unsichtbar, sondern alles ist bloß und aufgedeckt vor den Augen dessen, mit dem wir es zu tun haben.";
     headline_texte.innerHTML = "Maskerade";
     texte.innerHTML = "Menschen tragen vielfach Masken. Nicht nur zu Fasching oder Karneval verstecken wir uns hinter dem, was wir gerade darstellen wollen. Im Job, bei unseren Freunden und sogar in der Familie spielen wir unsere Rollen und versuchen manchmal zu verbergen, was wirklich in uns vorgeht. <br>Einem können und müssen wir allerdings nichts vormachen: Gott. Er durchschaut uns. Er sieht durch jede Maskerade direkt in unser Herz. Unangenehm? Wenn wir uns schuldig fühlen – ja. Wenn wir uns ihm ganz öffnen – nein. Dann sagen wir ihm alles, was uns belastet und klammern nichts aus. Denn er meint es nur gut mit uns, will uns vergeben, annehmen und glücklich machen. <br>Gottes durchdringende Augen sind zugleich liebende Augen!";
 }
-if(septemberday === 257){
+if(septemberday === 13){
     verse.innerHTML = "Christus selbst hat unsere Sünden an seinem Leib auf dem Holz getragen, damit wir, den Sünden abgestorben, der Gerechtigkeit leben, durch dessen Wunden ihr heil geworden seid.";
     headline_texte.innerHTML = "The sacrificial leaf";
     texte.innerHTML = "Die Mangrove ist ein Baum, der an tropischen und subtropischen Küstenlinien oder Flussmündungen wächst. Mit ihren stelzenartigen Wurzeln steht sie mitten im Salzwasser, das schädlich für das Biosystem von Pflanzen ist. Trotzdem überlebt dieser Baum – aber wie macht er das?! <br>Die Mangrove hat ein einzigartiges, eingebautes Filtersystem. Wie der Mechanismus genau funktioniert, ist noch nicht ganz geklärt, aber dieser Baum schafft es, dass das Salz nur in eins der vielen Blätter geleitet wird. Dieses immer gelber werdende Blatt sammelt das Salz, stirbt schließlich ab und fällt zu Boden. Ein Blatt stirbt, damit der Baum überleben kann. Diese Blätter nennt man passenderweise „sacrificial leaf“ (sacrifice = Opfer; leaf = Blatt). <br>​​​​​​​Dieses Phänomen erinnert einen Christen an unseren Herrn Jesus Christus, der sich stellvertretend am Kreuz für unsere Schuld und Sünden aufgeopfert hat, um uns ewiges Leben zu schenken. Faszinierend, wie der große Gott sich selbst in der Schöpfung vorstellt.";
 }
-if(septemberday === 258){
+if(septemberday === 14){
     verse.innerHTML = "Soll das ein Fasten sein, an dem ich Gefallen habe, … wenn ein Mensch seinen Kopf hängen lässt wie Schilf?... Wollt ihr das ein Fasten nennen und einen Tag, an dem der Herr Wohlgefallen hat?";
     headline_texte.innerHTML = "Den Kopf nicht hängen lassen";
     texte.innerHTML = "„Lass den Kopf nicht hängen!”, mit diesen Worten versuchen wir jemand aufzumuntern und benutzen eine Redensart aus der Bibel. Geprägt wurde sie vom Propheten Jesaja, der im 8. Jahrhundert vor Christus lebte und von Gott den Auftrag bekam: „Erhebe deine Stimme wie eine Posaune und tu meinem Volk seine Übertretung kund!” <br>Das tat Jesaja. Ohne Umschweife, klar und herausfordernd. Er zeigte den Israeliten ihre hohle religiöse Fassade auf. Zu der gehörte, dass sie fasteten und den Kopf hängen ließen, als ob sie besonders fromme Leute wären. In Wirklichkeit beuteten sie ihre Angestellten aus, lebten in Zank und Streit und ballten die Faust in der Tasche. <br>Das Schlimme daran: Ihre Heuchelei verhinderte, dass sie das Richtige taten: entschieden gegen das Böse aufstehen, den Opfern von Gewalt helfen, Notleidenden helfen und Obdachlosen ein Dach über dem Kopf anbieten. – Klingt das nicht 2.700 Jahre später immer noch topaktuell?";
 }
-if(septemberday === 259){
+if(septemberday === 15){
     verse.innerHTML = "Ebenso spotteten auch die Hohenpriester samt den Schriftgelehrten untereinander und sprachen: Andere hat er gerettet, sich selbst kann er nicht retten.";
     headline_texte.innerHTML = "Sich selbst retten?";
     texte.innerHTML = "Jesus hängt am Kreuz vor den Toren der Stadt Jerusalem; zahlreiche Leute laufen an der Hinrichtungsstätte vorbei. Zeigen sie Mitgefühl? Nein, sie verspotten ihn! Auch die führenden Theologen der Stadt mischen sich unter die Spötter. „Andere hat er gerettet“, sagen sie und bestätigen damit ungewollt die Echtheit seiner vielen Wunder. „Sich selbst kann er nicht retten“, behaupten sie voller Verachtung und Spott im Anschluss.<br>Konnte Jesus wirklich nicht vom Kreuz herabsteigen und seine eigenen Wunden heilen? Er ist doch Gottes Sohn, der alles kann!<br>Seine Allmacht hatte Jesus durch Wunder und Zeichen bereits vielfach unter Beweis gestellt – hier am Kreuz zeigt er insbesondere seine unfassbar große Liebe zu dir und zu mir. Er musste sterben, um andere zu retten. Deshalb konnte er sich nicht selbst retten. – Danke Herr, dass du mein Retter geworden bist!";
 }
-if(septemberday === 260){
+if(septemberday === 16){
     verse.innerHTML = "Und so besitzen wir das prophetische Wort umso fester, auf das zu achten ihr wohltut, als auf eine Lampe, die an einem dunklen Ort leuchtet.";
     headline_texte.innerHTML = "Mit dem Fernglas sieht man weiter";
     texte.innerHTML = "Als die Titanic am 14. April 1912 durch die kalte, dunkle Nacht pflügte, hatten die beiden Matrosen im Ausguck kein Fernglas. Warum? Weil der Fernrohrschrank verschlossen war. Der Matrose, der den Schlüssel dazu besaß, hatte in Liverpool das Schiff verlassen, weil er gefeuert worden war <br>So mussten die beiden Matrosen mit bloßem Auge und im kalten Fahrtwind in der stockfinsteren Neumondnacht das Meer nach Hindernissen absuchen. Es gab keinen Suchscheinwerfer, keinen zusätzlichen Ausguck am Schiffsbug und in der spiegelglatten See keine Wellen, die sich an einem Hindernis gebrochen hätten. <br>Plötzlich tauchte aus dem Nichts ein schwacher Schatten vor dem Sternenhimmel auf. Ein Eisberg! Er besiegelte die Katastrophe der Titanic. <br>​​​​​​​Die Bibel ist wie ein Fernglas. Sie lässt dich über deine Zukunft nicht im Unklaren. Lies sie! Sie warnt – aber sie weist dich auch auf die Rettung hin!";
 }
-if(septemberday === 261){
+if(septemberday === 17){
     verse.innerHTML = "Gott wird jede Träne von ihren Augen abwischen, und der Tod wird nicht mehr sein noch Trauer noch Geschrei noch Schmerz wird mehr sein; denn das Erste ist vergangen.";
     headline_texte.innerHTML = "Wie ist der Himmel?";
     texte.innerHTML = "Wenn man über das Leben nach dem Tod nachdenkt, kommt man früher oder später zu der Frage, wie man sich den Himmel vorstellen muss. Der Tagesvers gibt uns einen Eindruck, der aber längst nicht vollständig ist: Tränen, Tod, Trauer, Geschrei und Schmerz werden dort nicht sein. Wenn wir uns diese Dinge einmal aus unserer heutigen Welt wegdenken, entstände schon ein schönes Bild, oder? <br>Aber das wäre noch viel zu wenig. Die Bibel verwendet verschiedene Begriffe, um die Schönheit des Himmels zu beschreiben, zum Beispiel: Ruhe, Freude, Liebe, ewiges Leben, Paradies, Herrlichkeit. <br>Der entscheidende Punkt ist, dass im Himmel Gott wohnt, alles hundertprozentig zu ihm passt und alle Bewohner des Himmels ihn verehren. Also nicht der Mensch steht im Mittelpunkt, sondern Gott, der Schöpfer und Erlöser. <br>Wer sich zu den Berufenen Gottes zählt, freut sich auf den Himmel: wunschlos glücklich zu sein – für ewig!";
 }
-if(septemberday === 262){
+if(septemberday === 18){
     verse.innerHTML = "Dieser ist mein geliebter Sohn, an dem ich Wohlgefallen gefunden habe.";
     headline_texte.innerHTML = "Aus dem Leben von Jesus – Unauffällig";
     texte.innerHTML = "Volksauflauf. Hunderte Menschen sind an den See Genezareth gekommen, um Jesus zu hören und geheilt zu werden. Ein Boot wird bereitgestellt. So kann Jesus dieser Menschenmasse entgehen, denn sie stürmen auf ihn ein, um ihn zu berühren. An diesem Tag heilt er viele Menschen. Doch er bittet sie, ihn nicht bekannt zu machen. Er will von niemanden gehypt werden. Ganz im Gegenteil – er handelt ganz im Sinn der Prophezeiung aus dem Buch Jesaja, wo Gott bereits 600 Jahre zuvor über ihn sagt: „Siehe, mein Knecht, den ich erwählt habe, mein Geliebter, an dem meine Seele Wohlgefallen gefunden hat; ich werde meinen Geist auf ihn legen ... Er wird nicht streiten noch schreien, noch wird jemand seine Stimme auf den Straßen hören.“ <br>So macht Jesus keinen Hype um sich selbst, sucht keine Likes, sondern tut in unaufdringlicher Weise das, was Gott ihm aufgetragen hat. Zu dessen Freude und zum Nutzen der Menschen.";
 }
-if(septemberday === 263){
+if(septemberday === 19){
     verse.innerHTML = "Hierin ist die Liebe: nicht dass wir Gott geliebt haben, sondern dass er uns geliebt und seinen Sohn gesandt hat als Sühnung für unsere Sünden.";
     headline_texte.innerHTML = "Echte Liebe";
     texte.innerHTML = "Du tust alles, damit Gott dich liebt?<br><br>falsch!<br><br>Gott hat alles für dich getan,<br>weil er dich liebt!<br><br>Gott liebt dich nicht, weil du so liebenswert bist, sondern weil es seinem Charakter entspricht zu lieben. „Gott ist Liebe“ (1. Johannes 4,8)<br><br>Du kannst nichts tun, um dir Gottes Liebe zu verdienen. Es ist sein Geschenk an dich.<br>„Gott aber erweist seine Liebe zu uns darin, dass Christus, da wir noch Sünder waren, für uns gestorben ist“ (Römer 5,8).";
 }
-if(septemberday === 264){
+if(septemberday === 20){
     verse.innerHTML = "Die Türhüterin spricht zu Petrus: Bist nicht auch du einer von den Jüngern dieses Menschen? Er antwortet: Ich bin es nicht.";
     headline_texte.innerHTML = "Notlüge";
     texte.innerHTML = "In der Familie, im Berufsleben oder in der Politik gehört die Unwahrheit – konkreter ausgedrückt: die Lüge – zum Standardrepertoire, wenn es darum geht, den eigenen Kopf aus der Schlinge zu ziehen. Sehr gern verwendet man in solchen Fällen auch den Begriff der Notlüge – klingt so schön harmlos.<br>Auch Petrus, der Jünger Jesu, wollte seinen Kopf aus der Schlinge ziehen. Als er „entdeckt” wurde, hatte er Angst, das gleiche zu erleben wie Jesus: verhaftet und misshandelt zu werden. Deshalb stritt er ab, zu Jesus zu gehören.<br>Wenn es um Leib und Leben geht, haben wir viel Verständnis für eine Notlüge, oder? Aber was wird Jesus empfunden haben, als Petrus ihn verleugnete? Dieser hatte ihn doch drei Jahre lang auf Schritt und Tritt begleitet!<br>Die Bibel, Gottes Wort, kennt beim Thema „Lügen“ keine Grauzone. Die halbe Wahrheit ist eine ganze Lüge. Und was wird aus Notlügen? Sagen wir es so: Die Not vergeht, die Lüge bleibt!";
 }
-if(septemberday === 265){
+if(septemberday === 21){
     verse.innerHTML = "Ich bin der gute Hirte; der gute Hirte lässt sein Leben für die Schafe.";
     headline_texte.innerHTML = "Lesen & staunen";
     texte.innerHTML = "An dieser Stelle ist eigentlich eine Buchempfehlung.";
 }
-if(septemberday === 266){
+if(septemberday === 22){
     verse.innerHTML = "Den ersten Bericht habe ich [Lukas] verfasst, o Theophilus, von allem, was Jesus anfing, sowohl zu tun als auch zu lehren.";
     headline_texte.innerHTML = "Flavius Josephus";
     texte.innerHTML = "„Dieser Jesus vollbrachte nämlich ganz unglaubliche Taten und war der Lehrer aller Menschen.“ – Liest sich wie die Fortsetzung unseres heutigen Tagesverses, oder? Das Zitat stammt jedoch nicht aus der Bibel, sondern vom römisch-jüdischen Historiker Flavius Josephus. Wie viele andere Historiker beschreibt er das Leben dieses Jesus von Nazareth. <br>Von kaum einer anderen historischen Person ist die Existenz so gut belegt, wie von Jesus, dem Sohn Gottes. Der Römer Tacitus zum Beispiel beschreibt das schreckliche Ende dieses Jesus: „Der Urheber des Namens „Christen’ ist Christus, der unter der Regierung des Tiberius von Pontius Pilatus hingerichtet worden war.“ Offensichtlich hat die Person Jesu die Historiker total fasziniert. Sie „mussten” für die Nachwelt detailliert festhalten, was sie gehört oder gesehen hatten. <br>Bist auch du von Jesus beeindruckt? In der Bibel, dem Wort Gottes, findest du viel mehr über ihn als bei jedem Historiker. Einfach empfehlenswert!";
 }
-if(septemberday === 267){
+if(septemberday === 23){
     verse.innerHTML = "So erkenne denn heute und nimm zu Herzen, dass der Herr der Gott ist im Himmel oben und auf der Erde unten, keiner sonst.";
     headline_texte.innerHTML = "Beziehung gesucht";
     texte.innerHTML = "Hast du auch schon einmal von „dem da oben gesprochen? Es klingt dann so, als ob Gott weit weg wäre und sich nicht um uns Menschen kümmern würde. Dass ihm egal wäre, was auf der Erde passiert. Er ist da oben – und wir sind hier unten. Und der eine interessiert sich nicht für den anderen. Doch das stimmt nicht. Gott ist sehr wohl an mir und meinem Leben interessiert. Er ist nicht nur da oben – sondern auch hier unten. Er will eine persönliche Beziehung zu mir aufnehmen. Doch wie kann ich ihm begegnen? Gott hört mich, wenn ich zu ihm spreche. Und er will mir auch seine Gedanken mitteilen. Dafür hat er sein Wort, die Bibel gegeben. Aber die Bibel liest sich nicht wie eine Zeitung. Ich muss es auf eine Beziehung anlegen und offen dafür sein, was Gott mir zeigen will. Deshalb auch das aufrichtige Gebet (ohne Gebetsbuch). So lerne ich Gott immer besser kennen. Wenn ich es ernst meine, lohnt es sich auf jeden Fall!";
 }
-if(septemberday === 268){
+if(septemberday === 24){
     verse.innerHTML = "Dein Wort ist Wahrheit.";
     headline_texte.innerHTML = "Live & farbig";
     texte.innerHTML = "An dieser Stelle ist eigentlich ein Livestream.";
 }
-if(septemberday === 269){
+if(septemberday === 25){
     verse.innerHTML = "Dann wirst du auf deinem Weg Erfolg haben, und dann wird es dir gelingen. Habe ich dir nicht geboten: Sei stark und mutig?";
     headline_texte.innerHTML = "Von Erfolg gekrönt …";
     texte.innerHTML = "… nennt man ein Projekt, das erfolgreich abgeschlossen wird. Auch die Bibel kennt was von Erfolg. Im heutigen Tagesvers geht es um ein riesiges Projekt: Josua, der Anführer des Volkes Israel, soll es über den Jordan nach Kanaan führen. Die Herausforderung: Kanaan ist von gegnerischen Völkern bewohnt, die schwere Sünden begehen. Deshalb sollen sie Schritt für Schritt erobert werden. In dieser Situation spricht Gott ganz persönlich Josua Mut zu. Er sagt zu ihm: „Ich werde dich nicht versäumen und dich nicht verlassen. Sei stark und mutig” (Josua 1,5). Keine Ahnung, vor welcher Herausforderung du stehst. Aber einen besseren Weg zum Erfolg gibt es nicht: Vertraue auf Gott und nimm ihn beim Wort, das du in der Bibel nachlesen kannst! Dann wird dein Projekt „von Erfolg gekrönt sein”, weil du weißt: Ich habe Gott auf meiner Seite. Seine Anerkennung ist mir viel wichtiger als die Bewunderung meiner Mitmenschen.";
 }
-if(septemberday === 270){
+if(septemberday === 26){
     verse.innerHTML = "Das Leben ist für mich Christus, und das Sterben Gewinn. (Paulus)";
     headline_texte.innerHTML = "Verlust oder Gewinn?";
     texte.innerHTML = "Das Sterben ist Gewinn? Wie kann das sein? Ist es nicht der größte Verlust? Ich verliere mein Leben hier auf der Erde und kann nichts von dem mitnehmen, wofür ich vorher gelebt habe: Familie, Freunde, Besitz, Ansehen, Einfluss, Schönheit, Urlaube ... Alles vorbei. <br>Bevor der Apostel Paulus zum Glauben an Jesus Christus kam, war er ein ehrgeiziger jüdischer Theologe. Er war klug, gebildet und erfolgreich. <br>Doch als er Jesus Christus kennenlernte, war er so erfüllt von ihm, seinem Retter und Herrn, dass er sein ganzes Leben auf ihn ausrichtete und ihm diente. Er wusste: Wenn ich hier die Augen schließe, werde ich bei Christus im Himmel sein. Dort ist es weit besser. Es übertrifft alles, was mir das Leben hier an Freude und Erfüllung bieten kann. <br>Aus dieser Perspektive betrachtet ist das Sterben Gewinn. Alles, was der Glaubende hier mit dem Tod verliert, ist ungleich weniger als was er im Paradies dazugewinnt. Das Schönste kommt eben noch.";
 }
-if(septemberday === 271){
+if(septemberday === 27){
     verse.innerHTML = "Gepriesen sei der Gott und Vater unseres Herrn Jesus Christus, der Vater der Erbarmungen und Gott allen Trostes, der uns tröstet in all unserer Bedrängnis.";
     headline_texte.innerHTML = "Trost";
     texte.innerHTML = "Trost – der Ausdruck kommt aus dem Althochdeutschen und ist verwandt mit dem Wortstamm treu. Das ergibt Sinn, denn wirksam trösten kann uns nur, wer wirklich treu an unserer Seite ist. Trösten bedeutet schließlich mehr als ein „Kopf hoch, wird schon wieder“ oder ein monoton gemurmeltes „mein Beileid“.<br>Trösten, das bedeutet Festigkeit und seelischen Halt geben, Ermutigung und Zuspruch im Leid.<br>Gott wird in der Bibel Vater der Erbarmungen und Gott allen Trostes genannt, das bedeutet:<br>• Gott ist der absolute Experte für Mitgefühl und Trost.<br>• Allein der Trost, den Gott spendet, reicht wirklich bis in die Tiefe des Leids hinab.<br>• Wen Gott tröstet, der ist getröstet!<br><br>Siehe, um Trost war mir sehr bange. Du aber hast dich meiner Seele herzlich angenommen<br>Jesaja 38,17, Luther-Übersetzung";
 }
-if(septemberday === 272){
+if(septemberday === 28){
     verse.innerHTML = "Aber ich nehme keine Rücksicht auf mein Leben.";
     headline_texte.innerHTML = "Keine Rücksicht";
     texte.innerHTML = "Er liegt blutig und schmutzig am Boden. Die Kleider sind zerrissen. Schwere Prellungen und Wunden am Kopf und am ganzen Körper. Er bewegt sich nicht mehr. Wütend hat man Steine aufgehoben und ihn so lange beworfen, bis man ihn tot glaubte. Dann hat man seinen leblosen Körper aus der Stadt geschleift und ihn hier draußen in den Dreck geschmissen.<br>Jetzt umringen ihn ein paar Freunde. Plötzlich geschieht etwas völlig Unerwartetes. Der Totgeglaubte bewegt sich! Er steht wieder auf. Paulus lebt! Große Freude! Er blickt sich um und geht ohne zu zögern in genau die Stadt hinein, aus der er gerade herausgeschleift wurde.<br>Einen Tag später zieht er weiter und verkündigt der nächsten Stadt das Evangelium. Die gute Botschaft ist ihm wichtiger als sein Leben. Es ist die Botschaft von Jesu Tod und Auferstehung. Er selbst hat es erlebt – das Evangelium ist Gottes Kraft zur Rettung für jeden, der glaubt. Er fühlt sich gedrängt, es weiterzusagen und nimmt dafür vieles in Kauf. Kannst du Paulus verstehen?";
 }
-if(septemberday === 273){
+if(septemberday === 29){
     verse.innerHTML = "Ich bin gekommen, damit sie Leben haben und es in Überfluss haben.";
     headline_texte.innerHTML = "Live & farbig";
     texte.innerHTML = "An dieser Stelle ist eigentlich ein Livestream.";
 }
-if(septemberday === 274){
+if(septemberday === 30){
     verse.innerHTML = "Als aber Jesus sie sah, rief er sie zu sich und sprach zu ihr: Frau, du bist befreit von deiner Schwäche! Und er legte ihr die Hände auf, und sogleich richtete sie sich auf und verherrlichte Gott.";
     headline_texte.innerHTML = "Änderung der Perspektive";
     texte.innerHTML = "Die Frau, um die es in dem heutigen Bibelwort geht, hatte 18 Jahre unter ihrer Schwachheit gelitten. Sie war zusammengekrümmt und ganz unfähig, sich aufzurichten. Ob sie noch Hoffnung hatte, jemals geheilt zu werden? <br>Spiegelt ihre Situation nicht das wider, was sich manchmal innerlich bei uns abspielt? Wenn Trauer oder Sorgen da sind, dann ist unser Blick gesenkt und alles dunkel. Wir schauen auf uns selbst, sind deprimiert und schaffen es nicht, uns aufzurichten. Die Perspektive auf unser Leben ist sehr eingeschränkt. <br>Jesus sah die Not der Frau und rief sie zu sich. Zuerst ein Wort, dann eine Berührung: Sofort richtete sie sich auf und gab Gott Ehre. <br>Heute lebt Jesus im Himmel. Dennoch kann und will er uns befreien von allem, was uns nach unten zieht und uns hindert, auf Gott zu schauen und glücklich zu sein.";
@@ -1673,157 +1673,157 @@ if(month === 10){
 
     console.log(octoberday);
 }
-if(octoberday === 275){
+if(octoberday === 1){
     verse.innerHTML = "Jesus sprach zu dem Hauptmann: Geh hin, dir geschehe, wie du geglaubt hast.";
     headline_texte.innerHTML = "Aus dem Leben von Jesus – Glauben";
     texte.innerHTML = "Ein römischer Hauptmann kommt zu Jesus. Er hat ein großes Problem: Einer seiner Diener wird von einer fiesen Krankheit gequält. Jesus sagt zu ihm: „Ich will kommen und ihn heilen.“ Der Hauptmann lehnt ab: „Ich bin nicht wert, dass du unter mein Dach trittst“, ist seine Antwort. Er denkt sehr gering von sich selbst, aber sehr hoch von Jesus: Wenn Jesus nur ein Wort aus der Ferne sprechen würde, wäre sein Diener gleich gesund. Zum Vergleich nennt er seine eigene Autorität: Wenn er anderen Befehle erteilt, werden diese gleich befolgt.<br>Jesus wundert sich über den großen Glauben des Hauptmanns. Dieser Römer traut ihm mehr zu als seine Landsleute. Deshalb sagt er: „Selbst nicht in Israel habe ich so großen Glauben gefunden.“ Dann wendet er sich wieder dem Hauptmann zu: „Geh hin, dir geschehe, wie du geglaubt hast.“<br>So heilt Jesus den Diener des Hauptmanns durch ein Wort, ohne ihn gesehen zu haben und belohnt den Glauben eines Menschen, der ihm alles zutraut.";
 }
-if(octoberday === 276){
+if(octoberday === 2){
     verse.innerHTML = "Wenn wir unsere Sünden bekennen so ist Gott treu und gerecht dass er uns die Sünden vergibt.";
     headline_texte.innerHTML = "Bitte keine unbequemen Themen!";
     texte.innerHTML = "Miese Stimmung? Nicht mit mir. Immer positiv denken, immer schön lächeln. Klingt nach einer chilligen Lebenseinstellung – oder? Kritisch wird’s nur, wenn gute Stimmung zum obersten Gesetz wird. Wenn keine unbequemen Themen, keine Kritik mehr zugelassen ist. Doch eins ist sicher: Gott hält sich nicht an unsere Regeln. In der Bibel sagt er klipp und klar, was Sache ist.<br>Wer ist Gott für dich? Eine anonyme höhere Macht? Wie sieht deine Beziehung zu ihm aus? Distanz statt Vertrautheit, Funkstille statt Kommunikation?<br>Wie kommt das? Ganz einfach: Gott ist heilig – du nicht. Deine Gedanken, dein Lebensstil, das passt nicht zu Gott. Doch Gott ignoriert dein Problem nicht. Im Gegenteil, er will es lösen: Er war sich nicht zu schade, dafür selbst auf die Erde zu kommen – als Mensch! Von wegen anonyme Macht – in Jesus wurde Gott so sichtbar wie nie zuvor. Er ist ein Gott der Vergebung, gnädig und barmherzig, langsam zum Zorn und groß an Güte (Nehemia 9,17).";
 }
-if(octoberday === 277){
+if(octoberday === 3){
     verse.innerHTML = "Da verließen ihn die Jünger alle und flohen.";
     headline_texte.innerHTML = "Da verließen sie ihn";
     texte.innerHTML = "Diese Redewendung hat ihren Ursprung in der Bibel. Heute hört man sie, wenn jemand in einer Prüfung einen Blackout hat oder wenn ein Motor nach dem letzten Stottern endgültig aufgibt. Die alltägliche Bedeutung lautet also: Jetzt weiß er/sie nicht mehr weiter oder: Jetzt ist alles aus und vorbei.<br>Interessant ist der Kontext der Redewendung im Matthäusevangelium: Jesus wird in einer Nacht-und-Nebel-Aktion gefangen genommen. In diesem Moment verlassen ihn alle Jünger. Das erschüttert ihn zutiefst! Hat er sie nicht drei Jahre lang durch Palästina begleitet? Hat er nicht zahllose Mahlzeiten bei guter Tischgemeinschaft mit ihnen gehabt? Und sind seine eindrucksvollen Predigten und Wunder aus ihrem Gedächtnis verschwunden?<br>​​​​​​​Jetzt, wo es brenzlig wird, verlassen sie ihn – und Jesus geht den Weg allein zum Kreuz. Er hätte die Macht, sich aus dieser verlassenen und leidvollen Situation zu befreien. Doch geht er hin, um für das Versagen anderer am Kreuz zu büßen – auch für mich.";
 }
-if(octoberday === 278){
+if(octoberday === 4){
     verse.innerHTML = "Wiederum nun redete Jesus zu ihnen und sprach: Ich bin das Licht der Welt; wer mir nachfolgt, wird nicht in der Finsternis wandeln, sondern wird das Licht des Lebens haben";
     headline_texte.innerHTML = "Lied & lebendig";
     texte.innerHTML = "An dieser Stelle ist eigentlich ein Lied.";
 }
-if(octoberday === 279){
+if(octoberday === 5){
     verse.innerHTML = "Weißt du es nicht? Oder hast du es nicht gehört? Ein ewiger Gott ist der Herr, der Schöpfer der Enden der Erde; er ermüdet nicht und ermattet nicht, unergründlich ist sein Verstand.";
     headline_texte.innerHTML = "Fliegen – Laufen – Gehen";
     texte.innerHTML = "Wem denn wollt ihr mich vergleichen, dem ich gleich wäre?“, fragt Gott im Jesaja-Kapitel unseres Tagesverses. „Blickt nach oben und seht“, fährt er fort und verweist auf den Sternenhimmel, „wer hat diese geschaffen? Er, der ihr Heer hervortreten lässt nach der Zahl, ruft sie alle mit Namen“. 70 Trilliarden Sterne soll es geben. Ungefähr. Keiner kann bis dahin zählen. Doch Gott kennt sie alle mit Namen. Wie unbegreiflich groß ist Gott! Kein Gottesbild kann ihn nachzeichnen. Wir sind auf seine eigene Offenbarung angewiesen – wie zum Beispiel in Jesaja 40. <br>Und ausgerechnet in diesem Kapitel über seine unfassbare Größe steht auch dieser Satz: „Die auf den Herrn harren, gewinnen neue Kraft: Sie heben die Schwingen empor wie die Adler; sie laufen und ermatten nicht, sie gehen und ermüden nicht“. Gott kümmert sich liebevoll um jeden, der auf ihn hofft und hat ein Auge auf den individuellen Rhythmus: Manche fliegen wie Adler durchs Leben, andere „gehen“ – er gibt Kraft. Vertraue auf Gottes Größe!";
 }
-if(octoberday === 280){
+if(octoberday === 6){
     verse.innerHTML = "Von der sechsten Stunde an kam eine Finsternis über das ganze Land bis zur neunten Stunde. Um die neunte Stunde aber schrie Jesus auf mit lauter Stimme und sagte: Eli, Eli, lama sabachtani?, das ist: Mein Gott, mein Gott, warum hast du mich verlassen?";
     headline_texte.innerHTML = "Seltsame Zeugen (5) – Dunkelheit";
     texte.innerHTML = "Drei Stunden Leiden und Spott für Jesus am Kreuz. Dann wird es mitten am Tag dunkel. Drei Stunden lang, so halten es die biblischen Berichterstatter Matthäus, Markus und Lukas fest. Es ist, als halte die Schöpfung selbst den Atem an, als stände die Zeit still, als der Schöpfer für die Schuld seiner rebellischen und doch so geliebten Geschöpfe gerichtet wird.<br>Dieses Gericht, das Gott an Jesus unsertwegen vollzieht, wird auch äußerlich allen Blicken und aller Vorstellung der Menschen entzogen. Bis heute! Doch wer es im Glauben für sich annimmt, ist gerettet!<br>Wer hat dich so geschlagen, mein Heil, und dich mit Plagen so übel zugericht?<br>Ich, ich und meine Sünden, die sich wie Körnlein finden des Sandes an dem Meer.<br>(Paul Gerhardt)";
 }
-if(octoberday === 281){
+if(octoberday === 7){
     verse.innerHTML = "Der Knabe wird frech auftreten gegen den Greis und der Verachtete gegen den Geehrten.";
     headline_texte.innerHTML = "Respekt – noch zeitgemäß?";
     texte.innerHTML = "Laut Wikipedia ist Respekt eine Form der Wertschätzung, Aufmerksamkeit und Ehrerbietung gegenüber einem anderen Lebewesen oder einer Institution. Leider gibt es immer mehr Leute, die Respekt als uncool, unnötig oder fast schon peinlich ansehen. Wie sonst erklärt sich die zunehmende Respektlosigkeit gegenüber Eltern, Lehrern, Polizisten, Rettungskräften, Politikern, Vorgesetzten, Verkehrsteilnehmern, Behörden usw.? Gegenseitiger Respekt ist ein uraltes biblisches Prinzip und das einzige Konzept für ein intaktes gesellschaftliches Leben – festgelegt von Gott z. B. in den 10 Geboten in 2. Mose 20.<br>Wer Gott liebt und sein Leben nach der Bibel ausrichtet, für den ist respektvoller Umgang mit anderen selbstverständlich. Oder um es mit den Worten der Bibel zu sagen:<br>„Gebt allen, was ihnen gebührt: die Steuer, dem die Steuer, den Zoll, dem der Zoll, die Furcht, dem die Furcht, die Ehre, dem die Ehre gebührt ”<br>Römer 13,7";
 }
-if(octoberday === 282){
+if(octoberday === 8){
     verse.innerHTML = "Wer irgend sein Leben erretten will, wird es verlieren; wer aber irgend sein Leben verliert um meinetwillen, der wird es erretten.";
     headline_texte.innerHTML = "Neustart";
     texte.innerHTML = "So ein Neustart mit Jesus ist eine radikale Sache. <br>Es fängt damit an, dass Gott in deinem Herzen eine Grundreinigung durchführt. Danach darfst du glücklich aufatmen: Alle deine Sünden sind vergeben! Aber dann geht es weiter: Gott will dir helfen, auch dein Leben aufzuräumen: Alltagsgewohnheiten, Freizeitaktivitäten, Beziehungen. Gibt’s noch irgendwelche Sachen, die dein Leben vermüllen? Dann weg damit. <br>Besonders belastend sind Schuldgefühle und kaputte Beziehungen. Fällt es dir schwer, Fehlverhalten zu bekennen oder anderen zu vergeben? Tu es trotzdem, mit Gottes Hilfe. Es ist total befreiend! <br>Niemandem fällt es leicht, loszulassen. Jesus Christus zu folgen kann bedeuten, dass wir Wünsche zurückstellen und vielleicht sogar jahrelange Träume begraben müssen. Doch er lässt sich nichts schenken. Wer für ihn verzichtet, wird schon in diesem Leben hundertfach empfangen und im Himmel das ewige Leben genießen. Wag es – es lohnt sich!";
 }
-if(octoberday === 283){
+if(octoberday === 9){
     verse.innerHTML = "Vertraut ewig auf den Herrn; denn in Jah, dem Herrn, ist ein Fels der Ewigkeiten.";
     headline_texte.innerHTML = "Ausgedient?";
     texte.innerHTML = "Er war erfolgreich, ohne Frage. Der erste von ihm rollte 1938 vom Band, der letzte 1978 in Europa und 1996 in Brasilien. Und am 30. Juli 2003 war dann auch in Mexiko Schluss. Von dem Symbol des deutschen Wirtschaftswunders wurden 21.529.464 Stück gebaut, dann hatte er ausgedient, der VW-Käfer<br>Manche halten auch die Botschaft der Bibel für ausgedient. Früher war Jesus Christus vielleicht mal wichtig – doch jetzt hat er ausgedient – in der Gesellschaft, im Leben der Menschen, bei dir.<br>Doch anders als der VW-Käfer ist das Evangelium ein echtes „Erfolgsmodell”, wird die Bibel immer noch übersetzt und verbreitet, wird Jesus Christus immer noch gepredigt, werden Menschen immer noch errettet. Sie lernen Jesus kennen, bekennen ihm ihre Schuld, vertrauen ihm, erfahren ihn und leben mit ihm. Und reden von ihm. Wie gut, dass er derselbe ist,<br>„ gestern und heute und in Ewigkeit “<br>Hebräer 13,8";
 }
-if(octoberday === 284){
+if(octoberday === 10){
     verse.innerHTML = "Was sollen wir tun, um die Werke Gottes zu wirken? Jesus antwortete und sprach zu ihnen: Dies ist das Werk Gottes, dass ihr an den glaubt, den er gesandt hat.";
     headline_texte.innerHTML = "Gute Werke";
     texte.innerHTML = "• Handlungen, die sich an der Bibel orientieren und damit Gottes Gedanken entsprechen,<br>• werden „aus Glauben” getan und sind der Beweis, dass Glaube vorhanden ist;<br>• zu unterscheiden von vermeintlich guten Werken: Handlungen, die zwar gut aussehen, aber für Gott „tot” sind, weil sie der eigenen Vorstellung entspringen;<br>• können keine „bösen Werke” kompensieren;<br>• bilden keine Eintrittskarte für den Himmel.";
 }
-if(octoberday === 285){
+if(octoberday === 11){
     verse.innerHTML = "Der Sohn des Menschen ist gekommen, zu suchen und zu erretten, was verloren ist.";
     headline_texte.innerHTML = "Gott hat mitgebohrt";
     texte.innerHTML = "„Gott hat mitgebohrt“ lautete die Schlagzeile eines Boulevardblatts am Tag nach der Rettung beim „Wunder von Lengede“. Was war passiert? <br>Am 24. Oktober 1963 versank die Eisenerz-Grube „Mathilde“ in Lengede unter einer Welle von Schlamm- und Wassermassen. Zu diesem Zeitpunkt befanden sich noch 129 Bergleute unter Tage. 11 von ihnen konnten sich in einen Hohlraum von 5m x 2m x 3m retten. Dort fand sie am 3. November eine Suchbohrung durch eine „glückliche Fügung“. <br>Eine erste Rettungsbohrung musste abgebrochen werden – die Eingeschlossenen hatten, ungeübt, Nord und Süd verwechselt. Eine zweite Bohrung erreichte sie. Der Innendurchmesser der Verrohrung maß 480 mm. Verpackt in der „Dahlbuschbombe“ konnten alle Bergleute gerettet werden. <br>Die Eingeschlossenen konnten sich selbst nicht retten – die Hilfe musste von oben kommen. Weil du und ich uns selbst nicht retten konnten, sandte Gott seinen Sohn. Sein Tod am Kreuz bahnte uns den Weg in die Freiheit. Das ist das Wunder von Golgatha!";
 }
-if(octoberday === 286){
+if(octoberday === 12){
     verse.innerHTML = "Der Herr ist mein Hirte, mir wird nichts mangeln.";
     headline_texte.innerHTML = "Namen Gottes im Alten Testament – Jahwe-Rohi";
     texte.innerHTML = "Psalm 23 ist wahrscheinlich der bekannteste Psalm in der Bibel. Selbst diejenigen, die mit dem christlichen Glauben nicht viel am Hut haben, werden den Tagesvers schon einmal gelesen oder gehört haben. Hier lässt sich der große Gott im Himmel, der Schöpfer des Universums ganz persönlich Jahwe-Rohi – der Herr, MEIN Hirte – nennen. Er kümmert sich ganz persönlich um jeden einzelnen Menschen. Er weiß immer, was gut für uns ist und will uns führen, weiden, Erfrischung und Ruhe schenken. <br>Was David in Psalm 23 bereits aus eigener Erfahrung über Gott schreiben konnte, bestätigt Jesus Christus selbst im Neuen Testament: „Ich bin der gute Hirte; der gute Hirte lässt sein Leben für die Schafe“ (Johannes 10,11). <br>So weit geht die Hirten-Liebe Gottes also: Er kommt als Mensch auf diese Erde, um sein Leben für uns zu lassen. Einen größeren Liebesbeweis kann es nicht geben – einen besseren Hirten ebenfalls nicht!";
 }
-if(octoberday === 287){
+if(octoberday === 13){
     verse.innerHTML = "Plötzlich umstrahlte ihn ein Licht aus dem Himmel; und er fiel auf die Erde und hörte eine Stimme, die zu ihm sprach: Saul, Saul, was verfolgst du mich? Er aber sprach: Wer bist du, Herr? Er aber sprach: Ich bin Jesus, den du verfolgst.";
     headline_texte.innerHTML = "Gerade & heraus";
     texte.innerHTML = "An dieser Stelle ist eigentlich ein Video.";
 }
-if(octoberday === 288){
+if(octoberday === 14){
     verse.innerHTML = "Wir werden ihn sehen, wie er ist.";
     headline_texte.innerHTML = "Endlich bei Jesus!";
     texte.innerHTML = "• Wenn wir eine schwere Zeit durchlebt haben, sagen wir am Ende: Endlich geschafft!<br>• Wenn wir eine Prüfung bestanden haben, sagen wir: Endlich vorbei!<br>• Doch kaum jemand wird sich auf sein Lebensende freuen und sagen: Endlich tot!<br>Für viele Menschen ist mit dem Tod alles aus und vorbei (was nicht stimmt!). Für diejenigen, die Jesus Christus folgen, aber nicht. Für sie fängt dann das Schönste erst an. Deshalb können sie dann sagen: Endlich bei Jesus!<br>Ein Christ freut sich darauf, den zu sehen, der für ihn gestorben ist, der seine Sündenschuld bezahlt und ihm ewiges Leben geschenkt hat. Er freut sich darauf, den zu sehen, der ihm den Himmel geöffnet hat. Er freut sich auf seinen Retter und Herrn, auf Jesus Christus in der Herrlichkeit.";
 }
-if(octoberday === 289){
+if(octoberday === 15){
     verse.innerHTML = "Durch Glauben verstehen wir, dass die Welten durch Gottes Wort bereitet worden sind, so dass das, was man sieht, nicht aus Erscheinendem geworden ist.";
     headline_texte.innerHTML = "Mensch & mutig";
     texte.innerHTML = "An dieser Stelle ist eigentlich ein Einblick in das Leben eines Christen.";
 }
-if(octoberday === 290){
+if(octoberday === 16){
     verse.innerHTML = "Weine nicht!";
     headline_texte.innerHTML = "Aus dem Leben von Jesus – Trauer";
     texte.innerHTML = "Jesus nähert sich der Stadt Nain, als gerade ein Trauerzug den Ort verlässt. Sie tragen einen Toten heraus, gefolgt von seiner weinenden Mutter. Sie hat bereits ihren Mann beerdigen müssen und jetzt ist auch noch ihr einziger Sohn gestorben. Hoffnungslosigkeit, Verzweiflung und Trauer spiegeln sich in ihren verweinten Augen wider.<br>Von dem Leid der Frau tief bewegt, geht Jesus zu ihr. Er schaut sie an und sagt: „Weine nicht!“ Dann geht er zur Bahre und fasst sie an. Die Träger bleiben stehen. Es ist totenstill. Dann sagt Jesus zu dem toten Jungen: „Ich sage dir, steh auf!“ Das Unfassbare geschieht: Der Tote setzt sich auf und beginnt zu reden. Er lebt! Was für ein Wunder!<br>Jesus gibt einem Toten das Leben zurück und heilt damit unaufgefordert das zerbrochene Herz einer Mutter<br>​​​​​​​Die Menschen um ihn herum packt die Ehrfurcht: „Gott hat sein Volk besucht,“ geben sie staunend zu.";
 }
-if(octoberday === 291){
+if(octoberday === 17){
     verse.innerHTML = "Du sollst das Wort aus meinem Mund hören und sie in meinem Namen warnen.";
     headline_texte.innerHTML = "Frühwarnsysteme";
     texte.innerHTML = "Auf der ganzen Welt werden Frühwarnsysteme eingesetzt. Das Militär nutzt zum Beispiel luftgestützte Radarsysteme, damit Angriffe aus der Luft schnell erfasst werden. Städte und Kommunen setzen Pegelsensoren ein, um die Bevölkerung vor Hochwassergefahr zu warnen. Diese Systeme dienen in erster Linie dazu, Leben zu retten.<br>Im Gegensatz zu diesen technischen Hilfsmitteln sind Gottes Frühwarnsysteme zu 100% zuverlässig und seine Warnungen rechtzeitig. Er warnt uns allerdings nicht vor Naturkatastrophen oder Unglücken. Diese benutzt er sogar manchmal, um uns zu warnen. Noch deutlicher ist seine Warnung, wenn er durch die Bibel zu uns spricht. In jedem Fall will er verhindern, dass unsere Seele „ins Geschoss rennt”. Gott handelt aus Liebe und will uns retten. Schlage seine Warnung nicht in den Wind.<br>„Wenn sie aber nicht hören, so rennen sie ins Geschoss und verscheiden ohne Erkenntnis”<br>Hiob 33,18; 36,12";
 }
-if(octoberday === 292){
+if(octoberday === 18){
     verse.innerHTML = "Gott sprach zu Abraham: Nimm deinen Sohn, deinen einzigen, den du lieb hast, den Isaak, und zieh hin in das Land Morija und opfere ihn dort als Brandopfer auf einem der Berge, den ich dir sagen werde.";
     headline_texte.innerHTML = "Den eigenen Sohn nicht verschont";
     texte.innerHTML = "Er ist ein tief gläubiger Mann und ist fest davon überzeugt: Meinem Gott kann ich zu 100% vertrauen; er macht keinen Fehler'<br>In diesem Vertrauen macht sich Abraham auf die schwerste Reise seines Lebens. Er zieht mit seinem geliebten Sohn Isaak drei Tage zu dem Ort, den Gott ihm genannt hat. Dort soll er Isaak opfern. Und er ist tatsächlich bereit, es zu tun. Als er schließlich das Messer in die Hand nimmt, ruft ihm der Engel des Herrn zu: „Abraham, Abraham ... Strecke deine Hand nicht aus nach dem Knaben, und tu ihm gar nichts! Denn nun weiß ich, dass du Gott fürchtest und deinen Sohn, deinen einzigen, mir nicht vorenthalten hast” (1. Mose 22, 11.12).<br>In Römer 8,32 finden wir eine erstaunliche Parallele zu dieser Geschichte: Gott hat seinen eigenen Sohn nicht verschont, sondern ihn für uns alle hingegeben. Abraham war bereit, seinen Sohn zu opfern, brauchte es aber schließlich nicht zu tun. Gott hat es tatsächlich getan: Um uns zu erretten, musste Jesus, sein geliebter Sohn, sterben.";
 }
-if(octoberday === 293){
+if(octoberday === 19){
     verse.innerHTML = "Nachdem Gott vielfältig und auf vielerlei Weise ehemals zu den Vätern geredet hat in den Propheten, hat er am Ende dieser Tage zu uns geredet im Sohn.";
     headline_texte.innerHTML = "Lesen & staunen";
     texte.innerHTML = "An dieser Stelle ist eigentlich eine Buchempfehlung.";
 }
-if(octoberday === 294){
+if(octoberday === 20){
     verse.innerHTML = "Denn es hat ja Christus einmal für Sünden gelitten, der Gerechte für die Ungerechten, damit er uns zu Gott führe, getötet nach dem Fleisch, aber lebendig gemacht nach dem Geist.";
     headline_texte.innerHTML = "Unschuldig zum Tod verurteilt";
     texte.innerHTML = "Wann ist je jemand zum Tode verurteilt und hingerichtet worden, über den …<br>• … derjenige, der ihn an seine Feinde verriet, sagte: „Ich habe gesündigt, indem ich schuldloses Blut überliefert habe“ (Matthäus 27,4)?<br>• … derjenige, der das Todesurteil sprach, urteilte: „Ich finde keine Schuld an diesem Menschen” (Lukas 23,4) und von seiner Frau gewarnt worden war: „Habe du nichts zu schaffen mit jenem Gerechten” (Matthäus 27,19)?<br>• … derjenige, der mit ihm gekreuzigt wurde, feststellte: „Wir empfangen, was unsere Taten wert sind; dieser aber hat nichts Ungeziemendes getan (Lukas 23,41);<br>• … derjenige, der mit seinen Soldaten das Urteil vollstreckte, sagte: „Wahrhaftig, dieser Mensch war gerecht“ (Lukas 23,47)?";
 }
-if(octoberday === 295){
+if(octoberday === 21){
     verse.innerHTML = "Wenn ich anschaue deine Himmel, deiner Finger Werk, den Mond und die Sterne, die du bereitet hast: Was ist der Mensch, dass du seiner gedenkst?";
     headline_texte.innerHTML = "Jeder Mensch – äußerst wertvoll";
     texte.innerHTML = "Im Vergleich zu dem unermesslichen Weltraum erscheint der schwache sterbliche Mensch völlig unbedeutend. Was bewegt den großen Gott dazu, an uns zu denken und sich uns zuzuwenden? Die Antwort liegt in seinem Wesen begründet: Er ist Liebe. Und Liebe wird tätig. Liebe gibt. Liebe wünscht dem anderen das Beste und setzt sich dafür ein. <br>Das Beste, was Gott uns geben kann und will, ist eine vertraute Beziehung zu ihm selbst – und das für ewig. Doch weil wir Sünder sind und durch unser eigenwilliges Verhalten Gott beleidigt haben, kann er nicht ohne Weiteres eine Beziehung zu uns eingehen. Deshalb hat Gott sein Sohn Jesus Christus gesandt. Er wurde das Sühnopfer; ihn traf das Gerichtsurteil, das wir verdient hatten. <br>Gott hat alles getan, damit wir das Ziel erreichen, das er für uns gesteckt hat: die ewige Seligkeit. So viel sind wir ihm wert! Und was müssen wir tun? Bereuen, umkehren und glauben.";
 }
-if(octoberday === 296){
+if(octoberday === 22){
     verse.innerHTML = "Der Herr sprach in seinem Herzen: Nicht noch einmal will ich den Erdboden verfluchen wegen des Menschen.";
     headline_texte.innerHTML = "Nicht noch einmal!";
     texte.innerHTML = "Wie die heftige Wasserflut die ganze Erde zerstörte und eine einzige Familie in einem riesigen Schiff (Arche) überlebte – den Bericht muss man im Original gelesen haben (er steht im ersten Buch Mose, Kapitel 6–8). Die Flut war das gerechte Strafgericht Gottes, weil die Menschen der damaligen Zeit extrem böse waren. <br>Nach der Flut sagt Gott: „Nicht noch einmal … Warum das? Sind die Menschen nach der Flut besser geworden? Keinesfalls! Hat Gott vor der Bosheit kapituliert? Unvorstellbar – Gott ist heilig! Es war Noahs Brandopfer, das Gott veranlasst hat, keine Flut mehr über die Erde zu bringen. Und das hat er sogar mit einem Zeichen besiegelt: dem Regenbogen. <br>Gott kann das Böse der Menschen nach der Flut nicht ungestraft lassen. Aber durch den Sühnetod seines Sohnes Jesus Christus kann er jetzt den Menschen seine Gnade anbieten. So ist Gott – Er will uns retten! Er gibt jedem eine echte Chance. Nutzen wir sie, indem wir den Tod Jesu stellvertretend für uns annehmen.";
 }
-if(octoberday === 297){
+if(octoberday === 23){
     verse.innerHTML = "Christus Jesus, der in Gestalt Gottes war, achtete es nicht für einen Raub, Gott gleich zu sein, sondern er entäußerte sich selbst …, indem er in Gleichheit der Menschen geworden ist.";
     headline_texte.innerHTML = "Von ganz oben nach ganz unten";
     texte.innerHTML = "Jeder will nach oben: Sven will auf der Karriereleiter hoch hinaus; Judith will im Kreis der Freundinnen den Ton angeben; der Sohnemann will auf dem Schulhof der Beliebteste sein; und das Töchterchen träumt davon, ein berühmter Star zu sein. Alle wollen groß rauskommen. <br>Doch einer war ganz anders: Jesus Christus. Er kam vom Himmel auf die Erde; er war und ist Gott und wurde Mensch; für uns eine unvorstellbare Entäußerung; er war als Baby abhängig von der Liebe und Fürsorge seiner Mutter; und selbst als Erwachsener erniedrigte er sich – bis in den Tod. Warum? <br>Weil du ihm so wertvoll bist und er dich einmal bei sich haben will. Deshalb kam er, von ganz oben nach ganz unten. Um dich, der du unten bist, nach ganz oben zu ziehen, wo er jetzt wieder ist. <br>​​​​​​​Jesus betete: „Vater, ich will, dass die, die du mir gegeben hast, auch bei mir seien, wo ich bin.” (Johannes 17,24) – Gehörst du dazu?";
 }
-if(octoberday === 298){
+if(octoberday === 24){
     verse.innerHTML = "Ich will dich beraten, mein Auge auf dich richten.";
     headline_texte.innerHTML = "Da ist guter Rat teuer";
     texte.innerHTML = "Wenn „guter Rat teuer“ ist, stehen wir meistens vor einem unvorhergesehenen oder unlösbaren Problem. „Teuer“ bedeutet in einem solchen Fall, dass der passende Tipp für die Problemlösung nicht vorhanden und somit „unbezahlbar“ ist. <br>In anderer Hinsicht ist guter Rat auch teuer – nämlich immer dann, wenn sich Fachleute die Beratung von Firmen, Politikern oder Privatleuten fürstlich bezahlen lassen. Dann bleibt zu hoffen, dass eine solche Beratung sich auch bezahlt macht, also zu Lösungen und Erfolgen führt. <br>Gott macht denen, die mit ihm leben und ihm vertrauen, ein in der Tat unbezahlbar wertvolles „Beratungsangebot”: „Wenn aber jemand von euch Weisheit mangelt, so erbitte er sie von Gott, der allen einfach gibt und nichts vorwirft, und sie wird ihm gegeben werden“ (Jakobus 1,5). Allerdings kommen wir nicht umhin, die Bibel zu lesen: „Deine Zeugnisse sind auch meine Wonne, meine Ratgeber” (Psalm 119,24).";
 }
-if(octoberday === 299){
+if(octoberday === 25){
     verse.innerHTML = "Ich bin gekommen, damit sie Leben haben und es in Überfluss haben.";
     headline_texte.innerHTML = "Wovon bist du erfüllt?";
     texte.innerHTML = "Bist du zufrieden? Glücklich? Erfüllt? Liebst du dein Leben? Oder quälst du dich gerade durch … lustlos, unmotiviert, genervt? Wünschst du dir eine grundlegende Veränderung? Manchmal hört man Sätze wie: „So richtig glücklich bin ich erst, wenn ich den neuen Job habe.“ Oder: „Wenn ich im Auto sitze und in den Urlaub fahre, dann geht das Leben los“. Oder: „Wenn ich mal Kinder habe, dann bin ich glücklich.“ Alles nachvollziehbar. Aber ist es nicht eine Illusion, dass der Erfüllungsgrad in unserem Leben irgendwann vollständig erreicht ist? Ist es nicht so, dass mit jeder Wunscherfüllung gleich ein neuer Wunsch entsteht? <br>Der heutige Bibelvers ändert meinen Blickwinkel radikal: Weg von mir, hin zu Jesus Christus. Er ist gekommen, damit wir Leben haben und es in Überfluss haben. Das meint nicht ein Leben mit Geld und Luxus. Es geht um eine gelebte, vertrauensvolle Beziehung mit ihm und Gott, dem Vater. Sie macht glücklich und erfüllt. Jetzt und für immer.";
 }
-if(octoberday === 300){
+if(octoberday === 26){
     verse.innerHTML = "Das Gras ist verdorrt, die Blume ist abgefallen; aber das Wort unseres Gottes besteht in Ewigkeit.";
     headline_texte.innerHTML = "Haltbar bis in Ewigkeit";
     texte.innerHTML = "„I bims, ein Jugendwort des Jahres. Aber vong Trend her, werde ich kaum noch genutzt. – Smombie und Babo sind genauso wenig fly!“ <br>Wenn heute jemand mit Jugendwörtern der vorigen Jahre „um sich wirft“, ist es doch eher ziemlich cringe, oder? Wer damals swag hatte, war vor kurzem noch smash. Und während du diesen Zettel liest, gibt es schon einen neuen Ausdruck für jemanden, bei dem es läuft. Die Jugendwörter kommen und gehen. Und der Wandel der gesamten Jugendsprache ist so wyld, dass man kaum noch hinterherkommt. <br>Im heutigen Bibelvers wird diese Vergänglichkeit anhand der Natur veranschaulicht. Während Jahreszeiten (oder eben Jugendwörter) kommen und gehen, gibt es eine Konstante: das Wort Gottes. Es hat kein Verfallsdatum. Vor Tausenden Jahren hat es zu Menschen gesprochen. Heute spricht es zu dir und morgen wird es genauso hochaktuell sein.";
 }
-if(octoberday === 301){
+if(octoberday === 27){
     verse.innerHTML = "Das ganze Haus Israel wisse nun zuverlässig, dass Gott ihn sowohl zum Herrn als auch zum Christus gemacht hat, diesen Jesus, den ihr gekreuzigt habt.";
     headline_texte.innerHTML = "Live & farbig";
     texte.innerHTML = "An dieser Stelle ist eigentlich ein Livestream.";
 }
-if(octoberday === 302){
+if(octoberday === 28){
     verse.innerHTML = "... in der Hoffnung des ewigen Lebens, das Gott, der nicht lügen kann, vor ewigen Zeiten verheißen hat.";
     headline_texte.innerHTML = "Was Gott nicht kann";
     texte.innerHTML = "Menschen enttäuschen. Betrügen. Lügen. Der allmächtige Gott dagegen kann so etwas nicht. Was? Ein Gott, der etwas nicht kann?<br>Genau! Gott ist allmächtig, dabei aber absolut integer. Es ist ihm nicht möglich, gegen sein Wesen zu handeln. Damit ist er zutiefst vertrauenswürdig. Gibt es einen Menschen, von dem du das Gleiche sagen kannst? Wenn du so jemand an deiner Seite hast im Leben – wäre das nicht genial? Du könntest alles mit ihm besprechen. Ohne Angst, betrogen zu werden, mit absoluter Gewissheit, dass Gott immer zu dem steht, was er versprochen hat.<br>Wenn Gott also das ewige Leben verheißt, dann gibt er es auch. Aber wem? Allen Menschen? Nein, das kann er nicht tun. Gott kann keine einzige Sünde in seiner Gegenwart dulden, weil er zu heilig dafür ist (Habakuk 1,13). Nur derjenige, der eine innere Waschung und Erneuerung erlebt hat, wird Erbe des ewigen Lebens sein (Titus 3,3-7). Gott hat es versprochen und er kann nicht lügen!";
 }
-if(octoberday === 303){
+if(octoberday === 29){
     verse.innerHTML = "Deine Worte waren vorhanden, und ich habe sie gegessen, und deine Worte waren mir zur Wonne und zur Freude meines Herzens.";
     headline_texte.innerHTML = "Mit den besten Empfehlungen";
     texte.innerHTML = "George Washington (1732–1799), erster Präsident der Vereinigten Staaten von Amerika, bei seinem Amtseid: „So wahr mir Gott helfe”. Von ihm stammt auch dieses Zitat: „Ohne Gott und die Bibel ist es unmöglich, die Welt richtig zu regieren”. <br>John Quincy Adams (1735–1826), der zweite Präsident der USA: „Ich habe es mir schon vor vielen Jahren zur Gewohnheit gemacht, die Bibel einmal im Jahr durchzulesen“. <br>Abraham Lincoln (1809–1865), der 16. Präsident: „Ich glaube, dass die Bibel das beste Geschenk ist, das Gott den Menschen jemals gegeben hat. Alles Gute von dem Erlöser der Welt wird uns in diesem Buch mitgeteilt“. <br>Dwight D. Eisenhower (1890–1969), der 34. Präsident, fasste die Stellung der Bibel in einer Rede vor der amerikanischen Bibelgesellschaft wie folgt zusammen: „Die Bibel wurde durch die Jahrhunderte bestätigt. Unsere Gesellschaft ist auf ihren Worten aufgebaut“.";
 }
-if(octoberday === 304){
+if(octoberday === 30){
     verse.innerHTML = "Alle Flüsse laufen ins Meer, und das Meer wird nicht voll; an den Ort, wohin die Flüsse laufen, dorthin laufen sie immer wieder.";
     headline_texte.innerHTML = "Alle Wasser laufen ins Meer";
     texte.innerHTML = "Erkennst du in der Redensart den ersten Teil vom Tagesvers wieder? Geschrieben hat sie König Salomo und er zeichnet ein anschauliches Bild: Alle Flüsse fließen ins Meer. Über dem Meer verdunstet das Wasser und bildet Wolken. Diese regnen woanders ab. Die Tropfen sammeln sich zu Bächen und Flüssen, die ins Meer laufen – ein sich ständig wiederholender Kreislauf, den Salomo mit den Worten zusammenfasst: „Es gibt gar nichts Neues unter der Sonne” (Prediger 1,9). <br>Da stellt sich die Frage: Welchen Sinn hat mein Leben, wenn alles einer gewissen Gesetzmäßigkeit folgt? Der weise Salomo kam zum Ergebnis: Alles ist Nichtigkeit und ein Haschen nach Wind. <br>Aber ein sinnloses und leeres Leben entsteht nur dann, wenn man Gott und seine Absichten außer Acht lässt. Wer entdeckt hat, welchen Reichtum Gott für uns Menschen bereithält – Vergebung, Versöhnung, Frieden, Liebe, Hoffnung etc. – weiß, was ein erfülltes Leben mit Perspektive ist.";
 }
-if(octoberday === 305){
+if(octoberday === 31){
     verse.innerHTML = "Kämpfe den guten Kampf des Glaubens.";
     headline_texte.innerHTML = "Die vier Soli der Reformation";
     texte.innerHTML = "Der berühmte Reformator Martin Luther (1483–1546) kämpfte für die Wahrheit der Bibel. Das machen die berühmten vier „Soli“ deutlich:<br>1. Solus Christus: allein Christus<br>2. Sola scriptura: allein die Schrift<br>3. Sola gratia: allein die Gnade<br>4. Sola fide: allein der Glaube<br>Eine knackige Zusammenfassung dessen, was Martin Luther nach und nach verstanden hatte. Zu jedem der vier Punkte lässt sich eine Bibelstelle zuordnen:<br>1. Jesus [Christus] spricht zu Thomas: Ich bin der Weg und die Wahrheit und das Leben. Niemand kommt zum Vater als nur durch mich (Johannes 14,6).<br>​​​​​​​2. Dein [Gottes] Wort ist Wahrheit (Johannes 17,17).<br>3. Denn durch die Gnade seid ihr errettet (Epheser 2,8).<br>4. Der Gerechte aber wird aus Glauben leben (Römer 1,17).";
@@ -1849,152 +1849,152 @@ if(month === 11){
 
     console.log(novemberday);
 }
-if(novemberday === 306){
+if(novemberday === 1){
     verse.innerHTML = "";
     headline_texte.innerHTML = "";
     texte.innerHTML = "";
 }
-if(novemberday === 307){
+if(novemberday === 2){
     verse.innerHTML = "";
     headline_texte.innerHTML = "";
     texte.innerHTML = "";
 }
-if(novemberday === 308){
+if(novemberday === 3){
     verse.innerHTML = "";
     headline_texte.innerHTML = "";
     texte.innerHTML = "";
 }
-if(novemberday === 309){
+if(novemberday === 4){
     verse.innerHTML = "";
     headline_texte.innerHTML = "";
     texte.innerHTML = "";
 }
-if(novemberday === 310){
+if(novemberday === 5){
     verse.innerHTML = "";
     headline_texte.innerHTML = "";
     texte.innerHTML = "";
 }
-if(novemberday === 311){
+if(novemberday === 6){
     verse.innerHTML = "";
     headline_texte.innerHTML = "";
     texte.innerHTML = "";
 }
-if(novemberday === 312){
+if(novemberday === 7){
     verse.innerHTML = "";
     headline_texte.innerHTML = "";
     texte.innerHTML = "";
 }
-if(novemberday === 313){
+if(novemberday === 8){
     verse.innerHTML = "";
     headline_texte.innerHTML = "";
     texte.innerHTML = "";
 }
-if(novemberday === 314){
+if(novemberday === 9){
     verse.innerHTML = "";
     headline_texte.innerHTML = "";
     texte.innerHTML = "";
 }
-if(novemberday === 315){
+if(novemberday === 10){
     verse.innerHTML = "";
     headline_texte.innerHTML = "";
     texte.innerHTML = "";
 }
-if(novemberday === 316){
+if(novemberday === 11){
     verse.innerHTML = "";
     headline_texte.innerHTML = "";
     texte.innerHTML = "";
 }
-if(novemberday === 317){
+if(novemberday === 12){
     verse.innerHTML = "";
     headline_texte.innerHTML = "";
     texte.innerHTML = "";
 }
-if(novemberday === 318){
+if(novemberday === 13){
     verse.innerHTML = "";
     headline_texte.innerHTML = "";
     texte.innerHTML = "";
 }
-if(novemberday === 319){
+if(novemberday === 14){
     verse.innerHTML = "";
     headline_texte.innerHTML = "";
     texte.innerHTML = "";
 }
-if(novemberday === 320){
+if(novemberday === 15){
     verse.innerHTML = "";
     headline_texte.innerHTML = "";
     texte.innerHTML = "";
 }
-if(novemberday === 321){
+if(novemberday === 16){
     verse.innerHTML = "";
     headline_texte.innerHTML = "";
     texte.innerHTML = "";
 }
-if(novemberday === 322){
+if(novemberday === 17){
     verse.innerHTML = "";
     headline_texte.innerHTML = "";
     texte.innerHTML = "";
 }
-if(novemberday === 323){
+if(novemberday === 18){
     verse.innerHTML = "";
     headline_texte.innerHTML = "";
     texte.innerHTML = "";
 }
-if(novemberday === 324){
+if(novemberday === 19){
     verse.innerHTML = "";
     headline_texte.innerHTML = "";
     texte.innerHTML = "";
 }
-if(novemberday === 325){
+if(novemberday === 20){
     verse.innerHTML = "";
     headline_texte.innerHTML = "";
     texte.innerHTML = "";
 }
-if(novemberday === 326){
+if(novemberday === 21){
     verse.innerHTML = "";
     headline_texte.innerHTML = "";
     texte.innerHTML = "";
 }
-if(novemberday === 327){
+if(novemberday === 22){
     verse.innerHTML = "";
     headline_texte.innerHTML = "";
     texte.innerHTML = "";
 }
-if(novemberday === 328){
+if(novemberday === 23){
     verse.innerHTML = "";
     headline_texte.innerHTML = "";
     texte.innerHTML = "";
 }
-if(novemberday === 329){
+if(novemberday === 24){
     verse.innerHTML = "";
     headline_texte.innerHTML = "";
     texte.innerHTML = "";
 }
-if(novemberday === 330){
+if(novemberday === 25){
     verse.innerHTML = "";
     headline_texte.innerHTML = "";
     texte.innerHTML = "";
 }
-if(novemberday === 331){
+if(novemberday === 26){
     verse.innerHTML = "";
     headline_texte.innerHTML = "";
     texte.innerHTML = "";
 }
-if(novemberday === 332){
+if(novemberday === 27){
     verse.innerHTML = "";
     headline_texte.innerHTML = "";
     texte.innerHTML = "";
 }
-if(novemberday === 333){
+if(novemberday === 28){
     verse.innerHTML = "";
     headline_texte.innerHTML = "";
     texte.innerHTML = "";
 }
-if(novemberday === 334){
+if(novemberday === 29){
     verse.innerHTML = "";
     headline_texte.innerHTML = "";
     texte.innerHTML = "";
 }
-if(novemberday === 335){
+if(novemberday === 30){
     verse.innerHTML = "";
     headline_texte.innerHTML = "";
     texte.innerHTML = "";
@@ -2019,160 +2019,160 @@ if(month === 12){
 
     console.log(decemberday);
 }
-if(decemberday === 336){
-    verse.innerHTML = "";
-    headline_texte.innerHTML = "";
-    texte.innerHTML = "";
+if(decemberday === 1){
+    verse.innerHTML = "Jesus ging hinaus zu der Stätte, genannt Schädelstätte, die auf Hebräisch Golgatha heißt, wo sie ihn kreuzigten und zwei andere mit ihm, auf dieser und auf jener Seite, Jesus aber in der Mitte.";
+    headline_texte.innerHTML = "Jesus in der Mitte";
+    texte.innerHTML = "Der Herr Jesus wurde auf Golgatha mit zwei Verbrechern gekreuzigt. So erfüllte sich die Prophezeiung Jesajas, dass der Messias zu den Abtrünnigen gezählt werden würde (Jesaja 53,12). Dabei behandelte man den Herrn so, als sei er der größte Verbrecher gewesen. Denn man nagelte ihn zuerst an das Holz und sorgte dafür, dass sein Kreuz in der Mitte platziert wurde<br>Nach seiner Auferstehung nimmt der Herr wieder einen Platz in der Mitte ein: bei seinen Jüngern (vgl. Johannes 20,19.26).<br>Auch in der Ewigkeit wird Jesus Christus der Mittelpunkt der Gläubigen sein. Der Apostel Johannes sah „inmitten der Ältesten ein Lamm stehen wie geschlachtet“ (Offenbarung 5,6).<br>Die Menschen, die den Herrn kreuzigten, taten ihm mit dem Platz in der Mitte die größte Schmach an. Die Gläubigen dagegen geben ihm diesen Platz, weil ihm alle Autorität und Ehre zukommt. Er ist das Zentrum ihrer Anbetung – jetzt und in Ewigkeit!";
 }
-if(decemberday === 337){
-    verse.innerHTML = "";
-    headline_texte.innerHTML = "";
-    texte.innerHTML = "";
+if(decemberday === 2){
+    verse.innerHTML = "Paulus und Barnabas ermahnten sie, im Glauben zu verharren und dass wir durch viele Trübsale in das Reich Gottes eingehen müssen.";
+    headline_texte.innerHTML = "Frei von Sorge und Leid?";
+    texte.innerHTML = "Was hat man eigentlich davon, wenn man Christ wird, d.h. Jesus Christus als seinen Retter und Herrn annimmt? Werden sich dann alle Probleme in Luft auflösen? Wird man immer gesund und munter sein? Wird in Familie und Beruf alles glattlaufen?<br>Diese Erwartungshaltung entspricht nicht dem, was Gott uns in der Bibel mitteilt. Wenn wir dem Herrn Jesus Christus folgen und ihm dienen, befreit uns das nicht vor allen körperlichen, seelischen und geistigen Einschränkungen unseres menschlichen Daseins. Selbst der größte Glaube ändert daran nichts. Und es kann sogar sein, dass unser Leben mit Jesus Verzicht bedeuten kann, Unverständnis und Konflikte in unserem familiären Umfeld hervorruft.<br>Doch bei allem, was uns begegnet, können wir zuversichtlich sagen: „Der Herr ist mein Helfer, und ich will mich nicht fürchten; was wird mir ein Mensch tun?” (Hebräer 13,6).<br>Das Ziel des Gläubigen ist das Reich Gottes, dort, wo Gott wohnt und thront. Dort erwartet ihn eine ewige Ruhe.";
 }
-if(decemberday === 338){
-    verse.innerHTML = "";
-    headline_texte.innerHTML = "";
-    texte.innerHTML = "";
+if(decemberday === 3){
+    verse.innerHTML = "Kein Mensch hat Macht über den Wind, den Wind zurückzuhalten; und niemand hat Macht über den Tag des Todes.";
+    headline_texte.innerHTML = "Drohender Tod im Paradies";
+    texte.innerHTML = "Der Geirangerfjord in Norwegen ist durch seine atemberaubende Natur ein echter Hotspot für Touristen aus aller Welt. Schon allein die Bilder und Drohnen-Videos auf YouTube liefern faszinierende Eindrücke. Doch die Bewohner sehen in der spektakulären Felskulisse viel mehr eine ständige Gefahr um ihr Leben. Grund ist eine wachsende Felsspalte am nahe gelegenen Berg Åkerneset. Löst sich der Felsbrocken dort, wird der Fjord innerhalb von zehn Minuten von einer 80 Meter hohen Tsunami-Welle geflutet – mit verheerenden Folgen.<br>​​​​​​​Der Berg ist mit Sensoren gespickt, Handys bleiben dauerhaft an. Alles ist darauf ausgerichtet, die Menschen im Katastrophenfall schnellstmöglich zu warnen und zu evakuieren.<br>Die größte Katastrophe für den Menschen ist der Tod. Vor ihm versuchen wir uns zu schützen, aber irgendwann erreicht er jeden, manchmal ohne Vorbereitungszeit. Was für ein Glück, wenn man dann Frieden mit Gott hat und in den Himmel „evakuiert” wird.";
 }
-if(decemberday === 339){
-    verse.innerHTML = "";
-    headline_texte.innerHTML = "";
-    texte.innerHTML = "";
+if(decemberday === 4){
+    verse.innerHTML = "Gottes Wort ist lebendig und wirksam.";
+    headline_texte.innerHTML = "Lies die Bibel";
+    texte.innerHTML = "„Ich habe in meinem Leben viele kluge und gute Bücher gelesen. Aber ich habe in ihnen allen nichts gefunden, was mein Herz so still und froh gemacht hätte wie die vier Worte aus dem 23. Psalm: Du bist bei mir.“<br>Keine Ahnung, wie ernst Immanuel Kant dieses Statement war; jedenfalls war er kein bekennender Christ. Dennoch haben die Worte offenbar Wirkung hinterlassen. Und ja, wer die Bibel aufschlägt, fühlt sich angesprochen. Sie hinterlässt einen Eindruck beim Leser. Manchmal empfindet man sogar Druck. Man schlägt sie auf, um schonende Bestätigung für eine Situation zu erhalten, sie hält aber einen schonungslosen Spiegel vor, der Fehler aufdeckt. Andererseits: Wie viel Verzweiflung konnte schon „entzweifelt“ werden durch einen tröstenden Vers aus der Bibel. Wie viel Mutlosigkeit ist durch ein mutmachendes Gotteswort vertrieben worden.<br>​​​​​​​Lies die Bibel – nicht nur den Psalm 23, auch wenn dieser großartig ist!";
 }
-if(decemberday === 340){
-    verse.innerHTML = "";
-    headline_texte.innerHTML = "";
-    texte.innerHTML = "";
+if(decemberday === 5){
+    verse.innerHTML = "Alles, was mir der Vater gibt, wird zu mir kommen, und wer zu mir kommt, den werde ich nicht hinausstoßen.";
+    headline_texte.innerHTML = "Gegensätze ziehen sich an";
+    texte.innerHTML = "Magnete sind faszinierend. Sie haben einen Nordpol und einen Südpol. Wie die Erde, die übrigens selbst ein gigantisches Magnetfeld ist. Wenn man zwei Magnete aneinander hält, stellt man fest, dass unterschiedliche Magnetpole sich anziehen, gleiche Magnetpole dagegen sich abstoßen.<br>Gegensätze ziehen sich an – das gilt nicht nur für Magnete oder zwischenmenschliche Beziehungen, es lässt sich auch auf die Beziehung zwischen Menschen und Gott anwenden. Gott möchte jeden Menschen zu sich ziehen. Das geht aber nur, wenn ein Mensch bereit ist, sich wie ein Magnet so umzudrehen, dass er von Gott angezogen werden kann. Wenn er sich eingesteht, dass sein eigenes Leben in völligem Gegensatz zu Gott steht.<br>Wer mit dieser Einstellung zu Gott kommt, wird mit offenen Armen empfangen, wird angezogen wie ein Magnet. Er wird nicht hinausgestoßen.<br>Es kann niemand zu mir kommen, es sei denn, ihn ziehe der Vater<br>Johannes 6,44";
 }
-if(decemberday === 341){
-    verse.innerHTML = "";
-    headline_texte.innerHTML = "";
-    texte.innerHTML = "";
+if(decemberday === 6){
+    verse.innerHTML = "Heute, wenn ihr seine Stimme hört, verhärtet eure Herzen nicht.";
+    headline_texte.innerHTML = "Lied und lebendig";
+    texte.innerHTML = "An dieser Stelle ist eigentlich ein Lied.";
 }
-if(decemberday === 342){
-    verse.innerHTML = "";
-    headline_texte.innerHTML = "";
-    texte.innerHTML = "";
+if(decemberday === 7){
+    verse.innerHTML = "Der Engel sprach zu ihnen: Fürchtet euch nicht, denn siehe, ich verkündige euch große Freude, die für das ganze Volk sein wird; denn euch ist heute in der Stadt Davids ein Erretter geboren, welcher ist Christus, der Herr.";
+    headline_texte.innerHTML = "Happy Christmas! Wirklich?";
+    texte.innerHTML = "Der erste Advent ist Geschichte, Nikolaus ebenso. Die Freude steigt merklich, Weihnachten steht schließlich an. Happy Christmas! Fette Vorfreude, oder? Sorry, ich muss den Spielverderber machen. Ich denke gerade an Menschen, die gerade überhaupt keine Freude haben – wegen Krankheit, Leid, Trauer, Schmerzen, Einsamkeit. Nur weil wir das gern ausblenden, heißt nicht, dass es das nicht gibt. Leid existiert, vielleicht ganz in unserer Nähe. Da hat alles Platz, aber keine Freude! Oder? Die Bibel liefert uns dazu eine erstaunliche Aussage des Apostels Paulus: „in Bedrängnissen, in Nöten, in Ängsten … als Traurige, aber allezeit uns freuend (2. Korinther 6,4-10). Aber wie schaffen es einige, sich bei Krankheit und Not trotzdem zu freuen? Überspielen sie ihre Situation mit Humor? Nein, jedenfalls nicht der Paulus. Das Geheimnis seiner Freude lag in seiner Beziehung zu Jesus Christus, seinem Retter und Herrn. Diese Freude konnte ihm niemand nehmen.";
 }
-if(decemberday === 343){
-    verse.innerHTML = "";
-    headline_texte.innerHTML = "";
-    texte.innerHTML = "";
+if(decemberday === 8){
+    verse.innerHTML = "Wir sehen aber Jesus, der ein wenig unter die Engel wegen des Leidens des Todes erniedrigt war, mit Herrlichkeit und Ehre gekrönt – sodass er durch Gottes Gnade für alles den Tod schmeckte.";
+    headline_texte.innerHTML = "Gerade & heraus";
+    texte.innerHTML = "An dieser Stelle ist eigentlich ein Video.";
 }
-if(decemberday === 344){
-    verse.innerHTML = "";
-    headline_texte.innerHTML = "";
-    texte.innerHTML = "";
+if(decemberday === 9){
+    verse.innerHTML = "Abraham gab diesem Ort den Namen: „Der Herr wird ersehen.“";
+    headline_texte.innerHTML = "Namen Gottes im Alten Testament – Jahwe-Jireh";
+    texte.innerHTML = "Sehr merkwürdig: Gott forderte den Patriarchen Abraham dazu auf, seinen Sohn zu opfern. Gott hatte keinerlei Interesse oder Gefallen daran, Abrahams Sohn wirklich sterben zu lassen, sondern er wollte Abrahams Glauben prüfen. Abraham bestand diese Prüfung meisterhaft und war bereit, Gott bedingungslos zu vertrauen. Gott ließ es allerdings nicht dazu kommen, dass Abraham seine Bereitschaft auch in die Tat umsetzte. Er sorgt für Ersatz: Der Widder im Dickicht wurde geopfert. <br>Der Name, den Abraham daraufhin diesem Ort gab, lautet Jahwe-Jireh und bedeutet: „Der HERR wird ersehen“ oder „Der HERR wird vorhersehen“. <br>​​​​​​​Gott sah schon weiter. Er hatte bereits für das Heil der Menschen einen Plan. Gott hatte nämlich seinen Sohn Jesus Christus als Sühnopfer für sündige Menschen ausersehen. Für Jesus gab es keinen Ersatz – der Sohn Gottes selbst musste sterben und starb tatsächlich, damit wir ewiges Leben haben können.";
 }
-if(decemberday === 345){
-    verse.innerHTML = "";
-    headline_texte.innerHTML = "";
-    texte.innerHTML = "";
+if(decemberday === 10){
+    verse.innerHTML = "Der Zöllner ... wollte nicht einmal die Augen zum Himmel erheben, sondern schlug sich an die Brust und sprach: O Gott, sei mir, dem Sünder, gnädig!";
+    headline_texte.innerHTML = "Kapitulation";
+    texte.innerHTML = "Am 8. Mai 1945 endete der Zweite Weltkrieg in Europa mit der Kapitulation der deutschen Wehrmacht. Die deutsche Führung hatte erkannt, dass die Alliierten die Oberhand hatten und ein Fortführen der Kämpfe sinnlos war. Damit starb auch der Nationalsozialismus und der Weg war frei für einen Neuanfang.<br>Der Zöllner aus dem heutigen Bibeltext hatte auch erkannt, dass er es selbst nicht schaffte, vor Gott gut dazustehen. Vielleicht hatte er schon einige Versuche unternommen, sich zu bessern. Denn meistens hatten die Zöllner sich an den Händlern bereichert. Er kapitulierte, indem er sich als Sünder bezeichnete und Gott um Gnade flehte.<br>Mehr erwartet Gott nicht von uns Menschen, auch heute nicht. Keine guten Werke, keine Rituale. Mit diesem schlichten, aber aufrichtigen Bekenntnis kann jeder Mensch seine persönliche Kapitulation ausdrücken und damit einen Neuanfang, ein Leben mit ihm beginnen.";
 }
-if(decemberday === 346){
-    verse.innerHTML = "";
-    headline_texte.innerHTML = "";
-    texte.innerHTML = "";
+if(decemberday === 11){
+    verse.innerHTML = "Fürchte dich nicht, wenn ein Mann sich bereichert, wenn sich die Herrlichkeit seines Hauses vergrößert. Denn wenn er stirbt, nimmt er das alles nicht mit; seine Herrlichkeit folgt ihn nicht hinab.";
+    headline_texte.innerHTML = "Ich werde mindestens 150 Jahre alt!";
+    texte.innerHTML = "Das Guinness Buch der Weltrekorde listet ihn als den erfolgreichsten Entertainer aller Zeiten. Er verkaufte 750 Millionen Tonträger weltweit. Keiner brachte mehr Nr.-1-Singles heraus als er. Seine Fans nannten ihn den „King of Pop“. Michael Jackson hatte alles erreicht, was als Musiker zu erreichen war. Doch ein letzter, tiefer Wunsch verblieb in seinem Innersten: Er wollte ein langes Leben – ein sehr langes. Denn er hatte Angst vor dem Tod.<br>Aus diesem Grund besorgte er sich für 100.000 Dollar eine gläserne Sauerstoffkammer. Darin schlief er und versprach sich davon Anti-Aging-Effekte. Journalisten berichtete er, dass er sich anschließend wie neugeboren fühle. Sein Ziel: „Ich will mindestens 150 Jahre alt werden! Ich möchte so lange leben, dass ich noch eine Welt in Frieden sehen kann, eine Welt ohne Hunger, eine Welt, in der Kinder und alle Menschen nicht mehr leiden müssen.“<br>Am 25. Juni 2009 wurde er für tot erklärt. Er wurde 50 Jahre alt.";
 }
-if(decemberday === 347){
-    verse.innerHTML = "";
-    headline_texte.innerHTML = "";
-    texte.innerHTML = "";
+if(decemberday === 12){
+    verse.innerHTML = "Du bist gut und tust Gutes.";
+    headline_texte.innerHTML = "Gott: ist gut";
+    texte.innerHTML = "Du scheiterst, haderst, verzweifelst siehst Fehler, Versagen, Ohnmacht keine Lösung, Wahrheit, Vollendung Wisse Gott hat dich gewollt und gemacht redet zu dir immer wieder, jetzt hat für dich seinen eigenen Sohn gegeben denn er will dich retten Erkenne Gott hat Gutes getan. Er ist gut!";
 }
-if(decemberday === 348){
-    verse.innerHTML = "";
-    headline_texte.innerHTML = "";
-    texte.innerHTML = "";
+if(decemberday === 13){
+    verse.innerHTML = "Sogleich fiel es wie Schuppen von seinen Augen, und Saulus sah wieder und stand auf und wurde getauft.";
+    headline_texte.innerHTML = "Wie Schuppen von den Augen";
+    texte.innerHTML = "„Wie Schuppen von den Augen fallen”. Jeder kennt das Gefühl, wenn man plötzlich begreift, was einem vorher verborgen war. Der Ursprung dieser Redewendung liegt in der Geschichte von Saulus ...<br>Drei Tage war er nun schon blind. Sein bisheriges Leben zog an seinem inneren Auge vorüber. Er hatte die Christen bis aufs Äußerste verfolgt. Aber vor drei Tagen war etwas Unvorstellbares passiert. Auf der Reise nach Damaskus hatte ihn plötzlich ein Licht aus dem Himmel umstrahlt. Seitdem konnte er nicht mehr sehen.<br>Da betritt ein Mann das Haus, in dem er sich aufhält, und sagt: „Bruder Saul, der Herr hat mich gesandt, Jesus, der dir erschienen ist auf dem Weg, den du kamst, damit du wieder siehst.”<br>​​​​​​​Was bei Saulus dann buchstäblich passierte, geschieht bei uns im übertragenen Sinn: Wenn Jesus, der Herr, in unser Leben tritt und wir erkennen, wer er wirklich ist, dann fällt es uns wie Schuppen von den Augen.";
 }
-if(decemberday === 349){
-    verse.innerHTML = "";
-    headline_texte.innerHTML = "";
-    texte.innerHTML = "";
+if(decemberday === 14){
+    verse.innerHTML = "Du, Herr, bist gut und zum Vergeben bereit und groß an Güte für alle, die dich anrufen.";
+    headline_texte.innerHTML = "Live & farbig";
+    texte.innerHTML = "An dieser Stelle ist eigentlich ein Livestream.";
 }
-if(decemberday === 350){
-    verse.innerHTML = "";
-    headline_texte.innerHTML = "";
-    texte.innerHTML = "";
+if(decemberday === 15){
+    verse.innerHTML = "Da sprachen sie zu ihm: Wer bist du? Jesus sprach zu ihnen: Durchaus das, was ich auch zu euch rede";
+    headline_texte.innerHTML = "Echt und authentisch";
+    texte.innerHTML = "Wenn du dir einen Burger bestellst, dann ist dir klar, dass er tatsächlich nicht so toll aussieht wie auf dem leuchtenden Werbeplakat<br>Dass Dinge schöner dargestellt werden, als sie in Wirklichkeit sind, ist für uns fast normal. Wir selbst geben uns ja oft genauso: mehr Schein als Sein.<br>Jesus Christus war da ganz anders. Er gab sich nicht anders, als er war. Er verstellte sich nicht, um besser anzukommen. Er war immer wahrhaftig. Nie log oder täuschte er, indem er nur die halbe Wahrheit sagte. Wenn er lächelte, dann war das echt. Wenn er etwas sagte, kam es von Herzen. Seine Worte passten zu seinem Verhalten und waren immer ein Stück Selbstoffenbarung. Er war echt, authentisch und stand zu dem, was er sagte.<br>​​​​​​​Das zeichnete den Sohn Gottes hier vor 2000 Jahren auf der Erde aus. Und das zeichnet ihn heute immer noch aus. Willst du dich selbst von dieser einmaligen Person überzeugen? Die Bibel berichtet seitenweise von ihm. Du wirst nicht enttäuscht!";
 }
-if(decemberday === 351){
-    verse.innerHTML = "";
-    headline_texte.innerHTML = "";
-    texte.innerHTML = "";
+if(decemberday === 16){
+    verse.innerHTML = "Ich sage euch: Ebenso wird Freude im Himmel sein über einen Sünder, der Buße tut.";
+    headline_texte.innerHTML = "Mensch & mutig";
+    texte.innerHTML = "An dieser Stelle ist eigentlich ein Einblick in das Leben eines Christen.";
 }
-if(decemberday === 352){
-    verse.innerHTML = "";
-    headline_texte.innerHTML = "";
-    texte.innerHTML = "";
+if(decemberday === 17){
+    verse.innerHTML = "Wendet euch zu mir und werdet gerettet, alle ihr Enden der Erde! Denn ich bin Gott, und keiner sonst.";
+    headline_texte.innerHTML = "Wende dich an Gott";
+    texte.innerHTML = "„An wen kann ich mich wenden?” – so fragen wir öfter im Alltag, z. B. wenn wir etwas beantragen wollen oder eine Genehmigung brauchen. Oder wenn wir wegen Krankheitssymptomen einen Arzt suchen. Manchmal finden wir schnell den richtigen Ansprechpartner für unser Problem. Manchmal laufen wir allerdings auch von Pontius zu Pilatus.<br>In allen Fällen, wo wir Rat und Hilfe suchen, dürfen wir uns zuerst an den allwissenden Gott wenden. Das setzt allerdings Glauben voraus: Denn wer zu Gott kommt, muss glauben, dass er existiert und dass er die belohnt, die ihn suchen (vgl. Hebräer 11,6)<br>​​​​​​​Wenn es um existenzielle Lebensfragen geht, um das Woher – Warum – Wohin, warum wenden wir uns dann nicht an den lebendigen Gott, den Urheber von allem? Er selbst fordert uns dazu auf, weil er größtes Interesse an uns hat. Er will uns zeigen, wer wir sind und wer Er ist. Er weiß auch, wohin unsere Reise geht. Warum fällt es uns so schwer, uns an ihn zu wenden, wo er doch nur das Beste für uns will?";
 }
-if(decemberday === 353){
-    verse.innerHTML = "";
-    headline_texte.innerHTML = "";
-    texte.innerHTML = "";
+if(decemberday === 18){
+    verse.innerHTML = "Bethlehem-Ephrata, aus dir wird mir hervorkommen, der Herrscher über Israel sein soll.";
+    headline_texte.innerHTML = "Erfüllte Prophezeiung";
+    texte.innerHTML = "Von Prophezeiungen spricht man im Allgemeinen, wenn zukünftige Ereignisse „vorhergesagt“ werden. Solche Prophezeiungen sind jedoch nichts anderes als das Ergebnis von Daten und Fakten, die man zusammengetragen hat und die das Eintreten eines Ereignisses wahrscheinlich werden lassen. Aber eben nur wahrscheinlich, nicht sicher. <br>Biblische Prophezeiungen dagegen sind sicher; sie erfüllen sich, weil sie von Gott kommen. Gerade im Alten Testament finden wir eine Menge Prophezeiungen, die sich entweder kurz danach oder auch erst Jahrhunderte später erfüllten. Manche werden sich sogar erst in Zukunft erfüllen. Faszinierend dabei ist immer die Präzision dieser Aussprüche. <br>Der heutige Bibeltext ist eine Prophezeiung über die Geburt Jesu Christi: Er würde in der unbedeutenden Stadt Bethlehem geboren werden. Der Evangelist Lukas beschreibt, dass das 400 Jahre vorhergesagte Ereignis exakt eingetroffen ist. – Halleluja!";
 }
-if(decemberday === 354){
-    verse.innerHTML = "";
-    headline_texte.innerHTML = "";
-    texte.innerHTML = "";
+if(decemberday === 19){
+    verse.innerHTML = "Hiob sprach zu Gott: Ich erkenne, dass du alles vermagst und kein Vorhaben dir verwehrt werden kann.";
+    headline_texte.innerHTML = "Nichts ist unmöglich";
+    texte.innerHTML = "Mit dem Slogan „Nichts ist unmöglich“ warb der Konzern Toyota in den frühen 80ern für seine Automobile und versprach damit dem Käufer unbegrenzte Möglichkeiten in puncto Fahrspaß und Sicherheit.<br>„Nichts ist unmöglich” trifft buchstäblich nur auf Gott zu (siehe Tagesvers). Und doch wundert man sich, dass Jesus es auch Menschen zuspricht, die Gott restlos vertrauen. Als nämlich damals ein Mann mit seinem besessenen Sohn zu Jesus kam, war er sich nicht sicher, ob Jesus ihn heilen könnte. „Wenn du etwas kannst, so erbarme dich unser und hilf uns”, bat er den Herrn. Dann kam die unerwartete Antwort: „Was das ‚wenn du kannst’ betrifft – dem Glaubenden ist alles möglich.”<br>Wie das? Ganz einfach: Der Glaubende stützt sich auf die Allmacht Gottes. Wir sind begrenzt – Gott aber nicht! Ihm können wir vertrauen.<br>​​​​​​​Der Mann hatte es begriffen. Er sagte: „Ich glaube; hilf meinem Unglauben!”";
 }
-if(decemberday === 355){
-    verse.innerHTML = "";
-    headline_texte.innerHTML = "";
-    texte.innerHTML = "";
+if(decemberday === 20){
+    verse.innerHTML = "Was nützt es einem Menschen, wenn er die ganze Welt gewinnt, sich selbst aber verliert oder einbüßt?";
+    headline_texte.innerHTML = "Der mächtigste Herrscher seiner Zeit";
+    texte.innerHTML = "Sie sind das letzte Aufgebot des mächtigsten Herrschers seiner Zeit: 8000 Soldaten, bewaffnet, angeführt von Generälen und Offizieren. Eine Furcht einflößende Streitmacht. Doch dass es sie gibt, ist ein Zeichen des Scheiterns. Denn ihr Befehlshaber, der Kaiser, ist tot.<br>Sie bestehen nicht aus Fleisch und Blut – sondern aus Terrakotta. Als lebensgroße Grabbeigabe sollen sie dem chinesischen Kaiser im Jenseits dienen. Alle Gegner hat dieser Kaiser bezwungen – nur den Tod nicht. Nun muss er allein die letzte Reise antreten. Wie jeder Mensch!<br>Dieser Kaiser wollte vorsorgen – darin unterscheidet er sich von manchen Menschen heute. Leider hat er nicht weit genug gedacht – darin gleicht er manchen Menschen heute.<br>​​​​​​​Gott, der Herr über Leben und Tod, hat uns in seinem Wort mitgeteilt, wohin unsere Reise geht und wie wir mit Sicherheit das himmlische Ziel erreichen. Warum lesen viele nicht die Bibel?";
 }
-if(decemberday === 356){
-    verse.innerHTML = "";
-    headline_texte.innerHTML = "";
-    texte.innerHTML = "";
+if(decemberday === 21){
+    verse.innerHTML = "Der Stern, den sie im Morgenland gesehen hatten, ging vor ihnen her, bis er kam und oben über dem Ort stehen blieb, wo das Kind war. Als sie aber den Stern sahen, freuten sie sich mit sehr großer Freude.";
+    headline_texte.innerHTML = "Lesen & staunen";
+    texte.innerHTML = "An dieser Stelle ist eigentlich eine Buchempfehlung.";
 }
-if(decemberday === 357){
-    verse.innerHTML = "";
-    headline_texte.innerHTML = "";
-    texte.innerHTML = "";
+if(decemberday === 22){
+    verse.innerHTML = "Denn wenn die Menschen Gottes Weisheit erkannt hätten, so hätten sie wohl den Herrn der Herrlichkeit nicht gekreuzigt.";
+    headline_texte.innerHTML = "Fehleinschätzung";
+    texte.innerHTML = "Sie alle haben Jesus Christus ans Kreuz gebracht:<br><br><br>• Der Hohepriester Kajaphas, die höchste religiöse Autorität des jüdischen Glaubens, urteilte, dass es nützlich sei, dass besser ein Mensch für das Volk sterbe, damit nicht die ganze Nation umkomme (Johannes 11,49.50).<br>• Herodes, Gouverneur von Galiläa (eine Provinz im Norden von Israel), behandelte ihn geringschätzend und verspottete ihn (Lukas 23,11).<br>• Die Volksmenge schrie „Kreuzige, kreuzige ihn!“, und ließ nicht locker, bis der verantwortliche Richter ihrer Forderung entsprach (Lukas 23,21.23).<br>• Pilatus, die höchste politische Instanz in Jerusalem, überlieferte ihn, nachdem er ihn hatte geißeln lassen, damit er gekreuzigt würde (Markus 15,15).<br>• Die Soldaten verspotteten ihn, spuckten ihn an, geißelten und kreuzigten ihn.<br>​​​​​​​• … und wäre ich damals dabei gewesen, hätte ich auch in ihren Chor miteingestimmt. Ganz sicher! Was für eine Ungerechtigkeit und Fehleinschätzung!";
 }
-if(decemberday === 358){
-    verse.innerHTML = "";
-    headline_texte.innerHTML = "";
-    texte.innerHTML = "";
+if(decemberday === 23){
+    verse.innerHTML = "… Es starb aber auch der Reiche und wurde begraben. Und als er im Hades seine Augen aufschlug und in Qualen war, sieht er ...";
+    headline_texte.innerHTML = "Aufs falsche Pferd gesetzt";
+    texte.innerHTML = "Das Leben flog ihm einfach zu. Klar, er war fleißig, aber er hatte auch eine Menge Glück. Geld, Ehre, Öffentlichkeitsarbeit, Frauen – es lief einfach bombastisch. Ohne Ende Follower, viele Talkshows. Er war gefragt und er wurde gefragt. Ein Sympathieträger im Rampenlicht. Doch der kometenhafte Aufstieg endete plötzlich und unerwartet. Keine 40 und das Leben war vorbei. Zwei bis drei Wochen hielt er sich auch nach seinem Tod noch in der Presse, dann ebbte alles ab. Er hatte nicht vorgesorgt, das Gezerre ums Erbe ging los und damit das Unternehmen den Bach runter.<br>Er muss mit Erschrecken feststellen, dass das letzte Hemd keine Taschen hat. Weder Geld noch Ehre kann er ins Jenseits retten. Unter Ausschluss der Öffentlichkeit steht er plötzlich da und – hat gar nichts. Er dachte, er hätte alles im Griff gehabt – aber er hat sich verrechnet.<br>​​​​​​​Von Gott und Jesus Christus wollte er nichts wissen. Jetzt bekommt er das, wozu er sich entschieden hat.";
 }
-if(decemberday === 359){
-    verse.innerHTML = "";
-    headline_texte.innerHTML = "";
-    texte.innerHTML = "";
+if(decemberday === 24){
+    verse.innerHTML = "Wie lieblich sind auf den Bergen die Füße dessen, der frohe Botschaft bringt, der Frieden verkündigt, der frohe Botschaft des Guten bringt, der Rettung verkündigt.";
+    headline_texte.innerHTML = "Alles Gute kommt von oben";
+    texte.innerHTML = "Bist du gerade im Schatten eines Tals unterwegs? Lähmt dich die Jahreszeit, graut es dir vor der Einsamkeit an Weihnachten oder gibt es anderes, was dir gerade dein Leben verdunkelt? Wenn dich jetzt plötzlich eine gute Nachricht flashen würde, was für ein Mutmacher wäre das!<br>An Jesus’ Geburtstag hielten die Hirten nachts Wache. Plötzlich strahlte Licht auf sie herab: „Die Herrlichkeit Gottes umleuchtete sie“, berichtet die Bibel in der sogenannten Weihnachtsgeschichte. Und dann kommt die gute Nachricht von oben: „Ich verkündige euch große Freude ... ein Erretter ist geboren ... Friede auf der Erde.”<br>Go, tell it on the mountain, Over the hills and everywhere. Go, tell it on the mountain, That Jesus Christ is born.<br>​​​​​​​Auch für dich gilt die gute Nachricht von oben: Freude, Rettung, Frieden durch den Glauben an Jesus Christus. Für dich ganz persönlich. – Das Gute kommt von oben.";
 }
-if(decemberday === 360){
-    verse.innerHTML = "";
-    headline_texte.innerHTML = "";
-    texte.innerHTML = "";
+if(decemberday === 25){
+    verse.innerHTML = "Gott sei Dank für seine unaussprechliche Gabe";
+    headline_texte.innerHTML = "Das beste Geschenk";
+    texte.innerHTML = "Bei einem Geschenk kann ich mit einer schönen Verpackung die Vorfreude und Erwartung des Beschenkten steigern. Doch die Verpackung sagt nichts über den tatsächlichen Wert des Inhalts aus.<br>Gott hat bei seinem „Geschenk” an uns Menschen nicht den Fokus auf eine ansprechende Verpackung gelegt. Sonst hätte das Äußere vom Wert seiner Gabe abgelenkt. Auf ganz schlichte Weise hat Gott seinen Sohn gegeben: Jesus Christus kam als Baby in unsere Welt – arm, hilfsbedürftig und unscheinbar. Mit 33 Jahren wurde Jesus dann gekreuzigt – für viele deshalb ein Verlierer. Doch für die Glaubenden ist der Herr Jesus eine Kostbarkeit, weil er den Sühnetod starb, nach drei Tagen auferstanden ist und jetzt im Himmel lebt. Mit seinem Sohn hat Gott uns Menschen alles gegeben: „Christus Jesus ist uns Weisheit von Gott geworden und Gerechtigkeit und Heiligkeit und Erlösung” (1. Korinther 1,30).<br>​​​​​​​Wer Gottes Gabe angenommen hat, wird mit ihm von Herzen Danke sagen.";
 }
-if(decemberday === 361){
-    verse.innerHTML = "";
-    headline_texte.innerHTML = "";
-    texte.innerHTML = "";
+if(decemberday === 26){
+    verse.innerHTML = "Ein barmherziger Gott ist der HERR, dein Gott; er wird dich nicht lassen.";
+    headline_texte.innerHTML = "Barmherzigkeit";
+    texte.innerHTML = "Die Professorin Käte Hamburger definiert Barmherzigkeit als tätige Nächstenliebe. Der Nächste sei jeweils der, den der Mensch durch barmherziges Handeln zu seinem Nächsten mache. Mitleid sei hingegen keine Charaktereigenschaft, sondern gehöre dem menschlichen Gefühlsleben an. Barmherzigkeit bezeichnet somit eine existenzielle Betroffenheit im Innersten und ein Tun, das mehr ist als bloßes Gefühl des Mitleidens. (wikipedia)<br><br><br>Gott wird in der Bibel vielfach als gnädiger und barmherziger Gott beschrieben. Denn Gott bedauert den jammervollen Zustand seiner Menschen nicht nur voller Mitleid, sondern er hat alles dafür getan, um sie daraus zu befreien und in seine Nähe zu bringen.<br>„Gott aber, der reich ist an Barmherzigkeit, wegen seiner vielen Liebe, womit er uns geliebt hat, hat auch uns, als wir in den Vergehungen tot waren, mit dem Christus lebendig gemacht” (Epheser 2,4.5).";
 }
-if(decemberday === 362){
-    verse.innerHTML = "";
-    headline_texte.innerHTML = "";
-    texte.innerHTML = "";
+if(decemberday === 27){
+    verse.innerHTML = "Und sie fingen an, ihm zuzureden, aus ihrem Gebiet wegzugehen. Als Jesus in das Schiff stieg, bat ihn der Besessene, dass er bei ihm sein dürfe.";
+    headline_texte.innerHTML = "Jeder bekommt das, was er will";
+    texte.innerHTML = "Die Menschen, die östlich vom See Genezareth wohnen, haben sich davon überzeugen können, dass Jesus einen besessenen Mann vollständig geheilt hat. Denn er ist wie umgewandelt. Doch anstatt sich mitzufreuen, bitten sie den Herrn, ihre Gegend zu verlassen.<br>Der Sohn Gottes drängt sich niemand auf. Deshalb steigt er wieder ins Schiff, um mit seinen Jüngern auf die andere Seite des Sees zurückzufahren. Doch da möchte noch jemand mitfahren. Der befreite Mann ist seinem Retter unendlich dankbar und fühlt sich zu ihm hingezogen. Er möchte so gern bei ihm bleiben. – Was für ein krasser Gegensatz zu seinen Mitmenschen, die Jesus loswerden wollen!<br>Nach dem Tod wird jeder Mensch das bekommen, was er sich hier gewünscht hat: Die Gläubigen werden für ewig bei Christus im Himmel sein; diejenigen, die ihn ablehnen, werden „Strafe erleiden, ewiges Verderben weg vom Angesicht des Herrn“ (2. Thessalonicher 1,9).";
 }
-if(decemberday === 363){
-    verse.innerHTML = "";
-    headline_texte.innerHTML = "";
-    texte.innerHTML = "";
+if(decemberday === 28){
+    verse.innerHTML = "Alles ist nichtig und ein Haschen nach Wind.";
+    headline_texte.innerHTML = "Wozu lebe ich?";
+    texte.innerHTML = "Wozu lebe ich? Über diese Frage zerbrach sich schon der berühmte König Salomo vor rund 3000 Jahren den Kopf. Scharfsinnig analysierte er das Leben in seinen unterschiedlichsten Facetten. Aber alle Beobachtungen und Erlebnisse bestätigten seinen Eindruck: Immer wieder spielte sich dasselbe ab.<br>Salomo ließ es krachen am Königshof – die unbefriedigende Leere blieb; er baute riesige Plantagen, Prunkschlösser, Parkanlagen – die Leere blieb. Schließlich versuchte er es mit dem schönsten Vergnügen und nahm sich Frauen über Frauen – die Leere blieb.<br>​​​​​​​Worum dreht sich dein Leben? Um Gott oder um die eigene Achse? Genau das macht den Unterschied zwischen Lebensqualität und Leere. Ohne Gott als Zentrum bleibt dein Leben leer! In Jesus Christus, dem Sohn Gottes, findest du das ewige Leben. Ohne Verfallsdatum. Nicht einmal der Tod kann es beenden. – Haben oder nicht haben, das ist hier die Frage!";
 }
-if(decemberday === 364){
-    verse.innerHTML = "";
-    headline_texte.innerHTML = "";
-    texte.innerHTML = "";
+if(decemberday === 29){
+    verse.innerHTML = "Als aber der Hauptmann und die, die mit ihm Jesus bewachten, das Erdbeben sahen und das, was geschehen war, fürchteten sie sich sehr und sprachen: Wahrhaftig, dieser war Gottes Sohn!";
+    headline_texte.innerHTML = "Seltsame Zeugen (7) – besiegt";
+    texte.innerHTML = "Beinahe Furcht einflößend: Als Jesus stirbt, öffnen sich in Jerusalem Gräber und Tote werden auferweckt (Matthäus 27,52.53). Wer allerdings vor Kurzem in Bethanien dabei gewesen ist, hat etwas Derartiges schon einmal erlebt, als Jesus seinen Freund Lazarus aus dem Grab gerufen hat. Das ist schon eine geniale Vorahnung davon, dass Jesus, der Herr, den Tod besiegt. Bei seiner Auferstehung werden seine Jünger das verstehen. <br>Nicht tot, aber im Gewissen und Empfinden tödlich abgestumpft sind die nächsten Zeugen: der harte, an Hinrichtungen gewohnte Zenturio und seine rauen Soldaten, die der Hinrichtung beiwohnen. Tief beeindruckt bestätigen sie: „Dieser war Gottes Sohn!“ <br>​​​​​​​Die haben es begriffen, Gott sei Dank! Aber viele von den durchschnittlich religiösen Bewohnern von Jerusalem anscheinend nicht. Schade! Erinnert das nicht ein wenig an heute?";
 }
-if(decemberday === 365){
-    verse.innerHTML = "";
-    headline_texte.innerHTML = "";
-    texte.innerHTML = "";
+if(decemberday === 30){
+    verse.innerHTML = "Es ist nicht ein leeres Wort für euch, sondern es ist euer Leben; und durch dieses Wort werdet ihr eure Tage verlängern in dem Land, wohin ihr über den Jordan zieht, um es in Besitz zu nehmen.";
+    headline_texte.innerHTML = "Über den Jordan gehen";
+    texte.innerHTML = "Die Redensart „über den Jordan gehen“ bedeutet „sterben“. Woher kommt das? <br>Die Israeliten stehen an einem Fluss, dem Jordan. Gott hat sie aus Ägypten und der Sklavenarbeit befreit, um sie in das Land Kanaan zu bringen. 40 Jahre sind sie durch die Wüste gezogen, rauf und runter, hin und her. Staub, Hitze, Gefahr, Durst, Hunger, Verzweiflung, Ruhelosigkeit und endlose Tristesse. Jetzt stehen sie am Jordan. Endlich! Wenn sie ihn durchqueren, sind sie im Land Kanaan. Dort warten Weinberge, große Viehherden, Olivenhaine und glitzernde Bäche auf sie. Ein Land, in dem es ihnen „an nichts mangeln wird” (5. Mose 8,9). <br>Wenn gläubige Christen „über den Jordan gehen”, erwartet sie noch viel Größeres als der Segen von Kanaan. Für die Leute, die diese Redensart geprägt haben, war das Leben auf der Erde wie ein Gang durch die Wüste. Aber sie wussten: Wenn wir sterben, werden wir bei Jesus sein, unserem Retter und Herrn. Das bedeutet ewige Ruhe und Frieden, Freude und Glück.";
 }
-if(decemberday === 366){
-    verse.innerHTML = "";
-    headline_texte.innerHTML = "";
-    texte.innerHTML = "";
+if(decemberday === 31){
+    verse.innerHTML = "… Christus Jesus, meinen Herrn, um dessentwillen ich alles eingebüßt habe und es für Dreck achte, damit ich Christus gewinne.";
+    headline_texte.innerHTML = "Lass los!";
+    texte.innerHTML = "Minimalismus: Viele erleben den Trend-Lifestyle als befreiend. Sie sind es leid, Klamotten in überfüllte Schränke zu quetschen, zig Dekoteile abzustauben und sich im voll gerümpelten Keller den Zeh anzuschlagen. Also weg mit dem unnötigen Ballast! Andere wünschen sich zwar auch mehr Ordnung, aber das Ausmisten fällt ihnen schwer. Schließlich war das Kaffeeservice ein Hochzeitsgeschenk von Onkel und Tante, und die CD-Sammlung steckt voller Jugenderinnerungen. Sie hängen emotional an hundert überflüssigen Gegenständen und werden ihre Chaosecken niemals los. <br>Genauso sehnen sich viele Menschen nach einem Leben ohne Schuld, nach echter Befreiung durch Jesus Christus, aber sie scheuen die Aufräumaktion, die solch ein Neustart mit sich bringt. Ihr Herz klebt an alten Gewohnheiten, an Hobbys oder Beziehungen, die sie für Jesus aufgeben müssten. <br>​​​​​​​Geht es dir ähnlich? Zieh es trotzdem durch, mit Gottes Hilfe! Nichts kann den unendlichen Wert einer bereinigten Gottesbeziehung aufwiegen.";
 }
 
 
