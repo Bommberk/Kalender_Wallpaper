@@ -2284,7 +2284,7 @@ let birthdayArray = [
     test("16","11","Lia","#fc9bfc",14),
     test("24","11","Lukas","#57473a",15),
     // test("30","9","Mimi",14),
-    // test("30","9","Hannah",9),
+    test("20","9","Hannah",9),
     // test("30","9","Anna-Madeleine",11),
 ];
 
